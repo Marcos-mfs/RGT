@@ -7,3 +7,11 @@ https://live-anh-go-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 https://live-as-01-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM1NDIzNzE4LCJpYXQiOjE3MzUzMzczMTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzJiNDhmNDktODBiYi00NTJlLWFiMGUtZTUwMzIxNWQwYmM1IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.ztp7UtTA1LOOSWHsyxQIAsNEsX7H8IFqn_k9x0nx37T6AWczkiPOI3MAHNtPqPvIyYFRiZ6D2mQ0B7sz9VGKa2YRgOGcki-sFNcOmkItpf3a1beZzOGBTXsOkFWl1eo0oojeoQcpsPIhh3mCMVHwedLrjeh--84e2739aBub7h0Y_2QQZHefOJuZSaie6yibFqXBFSOlQPsAo3wwIvOmB80M0JIKdNerlnhi_Wm4JKUDmkrrY3CrtFMQcMN2jFa7cx-1uPXuTIB0GEFH-GAHQMP-hlq4Bc_sFBFL-lSHpCQbuGLXWrfMTEkmFubI_uSR8hyMVKo8mIzK79JubF1dEw/nu/f(i=2)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/4hIHB3LHRqKLVFvvY1m96g/stream/52e52ee9-c213-4113-9863-6a8f28da1181:SCL/master.m3u8
 #EXTINF:-1, GLOBO SP
 https://live-as-02-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMDIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM1NDIzNzgzLCJpYXQiOjE3MzUzMzczODMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzJiNDhmNDktODBiYi00NTJlLWFiMGUtZTUwMzIxNWQwYmM1IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.IiTehzsrQtUbd6-u_jWkG-qRyiW8Z_LFxB4TZUQ0g3w7LONyiwxo6-_-E5p-DY1CZAWLKiq3RTdNRePWSX2eQeTo1zjVmbsbQggYU6EqMqLxHqaCzbD68sHXzcdrudAD04y3iq2i8hlcrhmBLVPV_D0Qz86_xbeEyxpet3GaugHX2R6__KMCUHDjFubmBoDrC4EarOh_uzFHWNWaeHpUHM64dt-Jtty-oLq1QpLhRQN9qmbbYRQ4E60kHdIsF2EtPGupouPfvF6YFD_PixG1fuAhUArk3AQn-yo1TjDO4XCk5ANbLFLNqMlhHMPKJr-H8qLEogZEle5vzXUfEbOOiA/nu/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/lFSJvPo7SRmtkbSgIzbLcg/stream/b1da3971-9b24-40ba-ac0a-e8ed8b37f104:SCL/master.m3u8
+#EXTINF:-1, GLOBO SP IPTV
+http://45.225.84.58:8000/udp/224.120.0.1:49152
+#EXTINF:-1, SBT IPTV
+http://45.225.84.58:8000/udp/224.120.0.2:49152
+#EXTINF:-1, RECORD IPTV
+http://45.225.84.58:8000/udp/224.120.0.3:49152
+#EXTINF:-1, BAND IPTV
+http://45.225.84.58:8000/udp/224.120.0.4:49152
