@@ -9,9 +9,9 @@ http://45.225.84.58:8000/udp/224.120.0.2:49152
 http://45.225.84.58:8000/udp/224.120.0.3:49152
 #EXTINF:-1 tvg-name="Band SP FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band SP FHD
 http://45.225.84.58:8000/udp/224.120.0.4:49152
-#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png"
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png", REDE TV!
 http://tv.mapfibra.com.br:8555/live/2003/123456/102.m3u8
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png"
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png", TV CULTURA
 http://187.120.222.12:8000/play/TVCultura/index.m3u8
 #EXTINF:-1 tvg-name="TV Serra Dourada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png",TV Serra Dourada
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/162990.m3u8
