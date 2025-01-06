@@ -9,11 +9,11 @@ http://45.225.84.58:8000/udp/224.120.0.2:49152
 http://45.225.84.58:8000/udp/224.120.0.3:49152
 #EXTINF:-1 tvg-name="Band SP FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band SP FHD
 http://45.225.84.58:8000/udp/224.120.0.4:49152
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png"
+http://tv.mapfibra.com.br:8555/live/2003/123456/102.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png"
+http://187.120.222.12:8000/play/TVCultura/index.m3u8
 #EXTINF:-1 tvg-name="TV Serra Dourada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png",TV Serra Dourada
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/162990.m3u8
-#EXTINF:-1 tvg-name="TV Tapajós " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/TV_Tapajos.jpg",Tv Tapajos
+#EXTINF:-1 tvg-name="TV Tapajós " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/2/27/Tvtapaj1.jpg/revision/latest?cb=20210819000742&path-prefix=pt-br",Tv Tapajos
 https://live-01.edge-mhnet-pfb-rs.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1taG5ldC1wZmItcnMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM1OTk5OTE4LCJpYXQiOjE3MzU5MTM1MTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzJiNDhmNDktODBiYi00NTJlLWFiMGUtZTUwMzIxNWQwYmM1IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdGFwL3BsYXlsaXN0Lm0zdTgifQ.kRtKzk_ZVcqxm4UGg3-DDaIYRErZI5Mbx6IJ3qsLSTRLKwxr-KJzfBd5Ioe_SxeeCzBsxUiCjawn2MaXeWFdMb901DZwaKUWKeMBfqIhhj5dq5X0LUb43LTK2mVzcUP1tzR6HR9Ojjb8776dJagVdgEnrT18ju8yjXFEv5c5eqjLWjlW88TFhKkH88P8hJC8lnVFnJq0unHkPn98NLO5L2IUXOY1M7vifI9clsX5sZtbbg0Q3g-kbqpapWGCK7glET3tCRf9ckxFcLXuZmkfCBi-L9jict_n0qjS2SVhCwiI5NVlkab2YdhZyxkoT4TyVpjxywrorml6OfqhF6UWhw/nu/f(i=2)/globo-tap/playlist.m3u8
-#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://acstatic.co/logos/canais/globonews.png",Globo News teste
-https://live-02.edge-vivo-se-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1taG5ldC1wZmItcnMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2MDAwMjY0LCJpYXQiOjE3MzU5MTM4NjQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzJiNDhmNDktODBiYi00NTJlLWFiMGUtZTUwMzIxNWQwYmM1IiwicGF0aCI6Ii9udS9mKGk9MikvZ25ld3MyNGhhL3BsYXlsaXN0Lm0zdTgifQ.UarGZiswA_HboWjjLRZGf8AmTpUPhw43eqJ9FNLcr0HWkuIYK7p8gwXjwJLOGt_NB4N1NYUZFupMBWQ6Td5qnwy5Qc9K_iYVNwvYngvCZKHPw2SR3_l_R5z1U4ZI-o33tVRpntIFQaf4udZc8AIxJKajFoohcZFFMWMfQ4dkHZKo6xkkOSgRXXCLw7qTR-DsQbW1K7YRWVHPebL7gvx7_Y-y-nsrgJXlmHDvgEIcZJsYPDC6uhYsy9KiQy-JlTQJ-7wJy1QmVUGbDrOSQMZvy1V-tO4_alHW7y7TRm1yNN2H73kUvUxQ5scM9qxln9uz3Jcrd8Rmx8IUrZJVr5IgLw/nu/f(i=2)/gnews24ha/playlist.m3u8?originpath=/linear/hls/pa/event/2QTY2zCvSpiAKK8YHllzjA/stream/b23ba511-3b4b-4f3c-bc92-0f31ccd17d7d:SCL/master.m3u8
-
-https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png?20210524022523
