@@ -164,4 +164,12 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/141.m3u8
 #EXTINF:0,ZOOMOO
 #EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/162.m3u8
+#EXTINF:0,CBS
+http://4.59.210.197:8815/udp/127.0.0.1:6008
+#EXTINF:0,NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:0,ABC
+http://173.225.32.123/KSFY-2363/index.m3u8
+#EXTINF:0,FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
