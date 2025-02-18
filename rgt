@@ -172,4 +172,6 @@ http://4.59.210.197:8815/udp/127.0.0.1:6009
 http://173.225.32.123/KSFY-2363/index.m3u8
 #EXTINF:0,FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:0,CBSNEWS
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/b7afb279-418d-467f-a5ca-2fcc556b3653:BRU/variant/6a59ccda82b3abca12e290e7ab99c8d7/bandwidth/2488996.m3u8
 
