@@ -19,7 +19,7 @@ https://live-02.edge-vivo-se-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6Ij
 #EXTINF:-1 tvg-name="TV Serra Dourada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png",TV Serra Dourada
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/162990.m3u8
 #EXTINF:-1 tvg-name="TV Serra Dourada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b3/Logotipo_da_TV_Serra_Dourada.png",TV Serra Dourada
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/162990.mpegts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740777149/ei/XdLBZ66XErazobIPyrHxmQ8/ip/2a02%3A6ea0%3Ad01b%3A709a%3Acdcb%3A880b%3A6e3a%3Aa027/id/W8gXZKawmXg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/bui/AUWDL3yiYYaooCW6DKxYev_ooz2BUTD0rypwpm4ogXgdhFQV3mU-h0-PGHLl8_ex19LLiN8r_Ewqteo5/spc/RjZbSSoTUKeqDo9gv08EHFEbT7C9wb82hxNX2gxI2UoKKMpZl2ppuFQCiacKYHM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWrktDiJBjAGfByhRDAfEqVWdAuVveJiYCNmlug7zCNgCIEXDW00d1V-t3Y3yvIAS4m6W4yy_XsnSllkxuI00L6Wz/file/index.m3u8
 #EXTINF:-1 tvg-name="Record GO HD" tvg-logo="https://acstatic.co/logos/canais/record.png",Record GO HD
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/104057.mpegts
 #EXTINF:-1 tvg-name="TBC GOIANIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYyTDOiFvx0cXi5lLrIcZPFcmDiDIm1_Eag&s",TBC GOIANIA HD
