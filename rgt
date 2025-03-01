@@ -176,3 +176,5 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,24H TVE
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:0,FOROTV
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1740845748~acl=/*~hmac=f23a754df3a8767c09b79ddca923d9d17e90971c0069c8c2ce5353ce4809b684
