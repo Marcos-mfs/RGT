@@ -158,7 +158,21 @@ http://4.59.210.197:8815/udp/127.0.0.1:6009
 http://173.225.32.123/KSFY-2363/index.m3u8
 #EXTINF:0,FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:0,CBSNEWS
+#EXTINF:0,CBSNEWS PLUTOTV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-name="Globo TV Anhanguera Gurupi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ElcMvELnS2iXTjqGsaiq2OI2EjsXCDuAxw&s",Globo TV Anhanguera Gurupi
-https://encurtador.com.br/qdTWE
+#EXTINF:0,NBCNEWS
+https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
+#EXTINF:0,ABCNEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,CBSNEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0,FOXNEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0, CGTN ESPANOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0,DW ESPANOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0,RT ESPANOL
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:0,24H TVE
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
