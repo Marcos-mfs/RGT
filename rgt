@@ -34,121 +34,76 @@ http://tv.mapfibra.com.br:8555/live/2003/123456/69.m3u8
 #EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg", GLOBONEWS HD
 http://79.127.238.228:14093/
 #EXTINF:0,BAND MINAS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/19.m3u8
 #EXTINF:0,GLOBO MINAS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/70.m3u8
 #EXTINF:0,CULTURA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/230.m3u8
 #EXTINF:0,RECORD MINAS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/96.m3u8
 #EXTINF:0,RECORD NEWS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/97.m3u8
 #EXTINF:0,CANAL DO BOI
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/167.m3u8
 #EXTINF:0,CANAL RURAL
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/166.m3u8
 #EXTINF:0,CANAL SAÚDE
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/165.m3u8
 #EXTINF:0,CANÇÃO NOVA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/25.m3u8
 #EXTINF:0,CHESPIRITO
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/159.m3u8
 #EXTINF:0,CINE BRASIL
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/243.m3u8
 #EXTINF:0,CLASSIQUE TV
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/190.m3u8
 #EXTINF:0,CNT
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/150.m3u8
 #EXTINF:0,FISH TV
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/62.m3u8
 #EXTINF:0,FUTURA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/67.m3u8
 #EXTINF:0,GAZETA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/69.m3u8
 #EXTINF:0,ISTV
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/261.m3u8
 #EXTINF:0,JP NEWS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/161.m3u8
 #EXTINF:0,NBT BELEM
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/247.m3u8
 #EXTINF:0,PLAYTV
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/255.m3u8
 #EXTINF:0,REDE FAMILIA
-#EXTVLCOPT:network-caching=1000
 https://tv03.zas.media:1936/rftv/rftv/chunklist_w1545400990.m3u8
 #EXTINF:0,REDE METROPOLE
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/99.m3u8
 #EXTINF:0,REDE MINAS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/101.m3u8
 #EXTINF:0,REDE NGT
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/227.m3u8
 #EXTINF:0,REDE TV
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/102.m3u8
 #EXTINF:0,REDE VIDA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/103.m3u8
 #EXTINF:0,SBT ALTEROSA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
 #EXTINF:0,SESC TV
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/107.m3u8
 #EXTINF:0,SÉRIES CLÁSSICAS
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/160.m3u8
-#EXTINF:0,TCM HD
-#EXTVLCOPT:network-caching=1000
-http://tv.mapfibra.com.br:8555/live/1280/123456/187.m3u8
-#EXTINF:0,TOP TV
-#EXTVLCOPT:network-caching=1000
-http://tv.mapfibra.com.br:8555/live/1280/123456/248.m3u8
 #EXTINF:0,TV APARECIDA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/131.m3u8
 #EXTINF:0,TV BRASIL
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/134.m3u8
 #EXTINF:0,TV CÂMARA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/136.m3u8
 #EXTINF:0,TV JUSTIÇA
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/138.m3u8
 #EXTINF:0,TV SENADO
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/139.m3u8
-#EXTINF:0,TV TURFE
-#EXTVLCOPT:network-caching=1000
-http://tv.mapfibra.com.br:8555/live/1280/123456/152.m3u8
 #EXTINF:0,WOOHOO
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/141.m3u8
 #EXTINF:0,ZOOMOO
-#EXTVLCOPT:network-caching=1000
 http://tv.mapfibra.com.br:8555/live/1280/123456/162.m3u8
 #EXTINF:0,CBS
 http://tkosportz.live:25461/folalawal@/4044225438/10374
@@ -167,8 +122,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,CBSNEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,FOXNEWS NOW
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0, CGTN ESPANOL
+https://dcs-live-uc1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177626916-n229dc42f93973de6e5f966006edbbb12&ts=1742390096&anvtrid=7895f487e8c6ed88fc26b815196f0ed0#EXTINF:0, CGTN ESPANOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,DW ESPANOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -176,5 +130,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,24H TVE
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:0,FOROTV
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1740845748~acl=/*~hmac=f23a754df3a8767c09b79ddca923d9d17e90971c0069c8c2ce5353ce4809b684
+#EXTINF:0,REDE BRASIL VIRTUALTV
+https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/tracks-v1/index.fmp4.m3u8?token=V5I3IRI65I2A1L
+#EXTINF:0,REDE BRASIL TV MUNDO
+https://stream.cdn.provider.play.virtual.tv.br/REDEMUNDOTVNACIONAL/tracks-v1/index.fmp4.m3u8?token=8F80WQJD08J2309J8D2309JH8D298DJ2309DJ23D287HD923HD239D3D0
+#EXTINF:0,RBTV TV MARRECAS
+https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/tracks-v1/index.fmp4.m3u8?token=CHJULABCSA03071993
+#EXTINF:0,REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
+#EXTINF:0,RBTV 
+https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w437143413.m3u8
+
+
+
+
