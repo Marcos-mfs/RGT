@@ -139,42 +139,44 @@ https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://w7.pngwing.com/pngs/157/524/png-transparent-cctv-1%E7%BB%BC%E5%90%88-hd-logo.png", CCTV1
 http://cdn5.163189.xyz/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://w7.pngwing.com/pngs/157/524/png-transparent-cctv-1%E7%BB%BC%E5%90%88-hd-logo.png", CCTV1
-http://sh.lnott.top:880/dx01.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://i.namu.wiki/i/otzK95RYlqLtgCeNRIDrWkkGTbcgb2VbuZyErq4FFB_mTUGFXEo2h1hwZ-Jb4lyWovHDp63woIrizVtkLq-JwA.svg", CCTV2
-http://sh.lnott.top:880/dx02.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CCTV3_201009_logo.png/revision/latest?cb=20210728012534", CCTV3
-http://sh.lnott.top:880/dx03.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWXxLJapkLsXtidjA_KdL3PLIQpktWnF0Ig&s", CCTV4
-http://112.46.105.20:8009/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png", CCTV5
-http://sh.lnott.top:880/dx05.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://archive.org/download/iptv-vn/china/cctv1.png", CCTV1
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://archive.org/download/iptv-vn/china/cctv2.png", CCTV2
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://archive.org/download/iptv-vn/china/cctv3.png", CCTV3
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://archive.org/download/iptv-vn/china/cctv4.png", CCTV4
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://archive.org/download/iptv-vn/china/cctv5.png", CCTV5
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/CCTV5%2B.png/revision/latest/scale-to-width-down/1280?cb=20250201094721&path-prefix=vi", CCTV5+
 http://sh.lnott.top:880/dx16.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8109726-9708-48ac-b7ae-68e564aa6843/df1t98u-00b120dc-8da8-4823-99e4-c12ed80cb6d6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MTA5NzI2LTk3MDgtNDhhYy1iN2FlLTY4ZTU2NGFhNjg0M1wvZGYxdDk4dS0wMGIxMjBkYy04ZGE4LTQ4MjMtOTllNC1jMTJlZDgwY2I2ZDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q0UexS9OVbDY88VjGLQLNruJoTaK7gPzhdASDvZvmjs", CCTV6
-http://sh.lnott.top:880/dx06.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8109726-9708-48ac-b7ae-68e564aa6843/df1t98l-7301def1-eabe-4ed4-aa50-d8bf68b178b6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MTA5NzI2LTk3MDgtNDhhYy1iN2FlLTY4ZTU2NGFhNjg0M1wvZGYxdDk4bC03MzAxZGVmMS1lYWJlLTRlZDQtYWE1MC1kOGJmNjhiMTc4YjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RIQKMIvag_523SsHBT--pLPRg9mUeoFfXNMoTei0BxE", CCTV7
-http://sh.lnott.top:880/dx07.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://archive.org/download/iptv-vn/china/cctv6.png", CCTV6
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://archive.org/download/iptv-vn/china/cctv7.png", CCTV7
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://archive.org/download/iptv-vn/china/cctv8.png", CCTV8
-http://sh.lnott.top:880/dx08.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv9.png", CCTV9
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv10.png", CCTV10
-http://sh.lnott.top:880/dx10.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv11.png", CCTV11
-http://sh.lnott.top:880/dx11.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv12.png", CCTV12
-http://sh.lnott.top:880/dx12.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv13.png", CCTV13
-http://sh.lnott.top:880/dx13.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv14.png", CCTV14
-http://sh.lnott.top:880/dx14.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv15.png", CCTV15
-http://sh.lnott.top:880/dx15.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv16.png", CCTV16
 http://sh.lnott.top:880/dx201.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv16.png", CCTV16
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://archive.org/download/cctv-17-logo/CCTV-17.png", CCTV17
-http://sh.lnott.top:880/dx17.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
 http://sh.lnott.top:880/dx81.m3u8
 #EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
