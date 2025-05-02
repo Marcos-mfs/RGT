@@ -146,7 +146,7 @@ http://sh.lnott.top:880/dx02.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CCTV3_201009_logo.png/revision/latest?cb=20210728012534", CCTV3
 http://sh.lnott.top:880/dx03.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWXxLJapkLsXtidjA_KdL3PLIQpktWnF0Ig&s", CCTV4
-http://sh.lnott.top:880/dx04.m3u8
+http://112.46.105.20:8009/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television.png", CCTV5
 http://sh.lnott.top:880/dx05.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/CCTV5%2B.png/revision/latest/scale-to-width-down/1280?cb=20250201094721&path-prefix=vi", CCTV5+
@@ -158,7 +158,7 @@ http://sh.lnott.top:880/dx07.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://archive.org/download/iptv-vn/china/cctv8.png", CCTV8
 http://sh.lnott.top:880/dx08.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv9.png", CCTV9
-http://sh.lnott.top:880/dx09.m3u8
+http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv10.png", CCTV10
 http://sh.lnott.top:880/dx10.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv11.png", CCTV11
