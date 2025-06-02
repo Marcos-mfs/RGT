@@ -111,96 +111,36 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,24H TVE
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:0,REDE BRASIL VIRTUALTV
-https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/tracks-v1/index.fmp4.m3u8?token=V5I3IRI65I2A1L
-#EXTINF:0,REDE BRASIL TV MUNDO
-https://stream.cdn.provider.play.virtual.tv.br/REDEMUNDOTVNACIONAL/tracks-v1/index.fmp4.m3u8?token=8F80WQJD08J2309J8D2309JH8D298DJ2309DJ23D287HD923HD239D3D0
-#EXTINF:0,RBTV TV MARRECAS
-https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/tracks-v1/index.fmp4.m3u8?token=CHJULABCSA03071993
-#EXTINF:0,REDE BRASIL
+#EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL
+https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/index.fmp4.m3u8?token=V5I3IRI65I2A1L
+#EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS
+https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
+#EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
-#EXTINF:0,RBTV 
+#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV
 https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w437143413.m3u8
 #EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
-https://v3.thetvapp.to/hls/WNBCDT1/tracks-v2a1/mono.m3u8?token=fmiSQzUw_lRZdrK3ung_3A&expires=1744844210&user_id=dGRwVmdpV0NCekxWZ09rVHB5UkJhNVA1cllCRzQ5VEduRHg5QWNJVQ==
+http://208.86.19.13:81/102.stream/index.m3u8
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/250px-WABC_TV_New_2021.svg.png", WABC
-https://v16.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8
+http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png", WCBS
-https://v17.thetvapp.to/hls/WCBSDT1/tracks-v2a1/mono.m3u8
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 tvg-name="FOX NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/200px-Fts-new-york-a.svg.png", FOX NY
-https://v13.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8
+http://208.86.19.13:81/103.stream/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/960px-Telemundo_logo_2012.svg.png", Telemundo
 https://v17.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/250px-Logo_Univision_2019.svg.png", Univision
 https://v8.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="PBS WNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/250px-PBS_logo_2019.svg.png", PBS WNET
-https://v15.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/CCTV-4k.png/revision/latest?cb=20220312213639", CCTV4K
 http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://w7.pngwing.com/pngs/157/524/png-transparent-cctv-1%E7%BB%BC%E5%90%88-hd-logo.png", CCTV1
 http://cdn5.163189.xyz/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://archive.org/download/iptv-vn/china/cctv1.png", CCTV1
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://archive.org/download/iptv-vn/china/cctv2.png", CCTV2
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://archive.org/download/iptv-vn/china/cctv3.png", CCTV3
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://archive.org/download/iptv-vn/china/cctv4.png", CCTV4
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://archive.org/download/iptv-vn/china/cctv5.png", CCTV5
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/CCTV5%2B.png/revision/latest/scale-to-width-down/1280?cb=20250201094721&path-prefix=vi", CCTV5+
-http://sh.lnott.top:880/dx16.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://archive.org/download/iptv-vn/china/cctv6.png", CCTV6
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://archive.org/download/iptv-vn/china/cctv7.png", CCTV7
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://archive.org/download/iptv-vn/china/cctv8.png", CCTV8
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv9.png", CCTV9
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv10.png", CCTV10
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv11.png", CCTV11
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv12.png", CCTV12
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv13.png", CCTV13
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv14.png", CCTV14
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv15.png", CCTV15
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv16.png", CCTV16
-http://sh.lnott.top:880/dx201.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ia801705.us.archive.org/17/items/iptv-vn/china/cctv16.png", CCTV16
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://archive.org/download/cctv-17-logo/CCTV-17.png", CCTV17
-http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx81.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx103.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx97.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx73.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx71.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx98.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx95.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://w7.pngwing.com/pngs/157/524/png-transparent-cctv-1%E7%BB%BC%E5%90%88-hd-logo.png", CCTV1
-http://sh.lnott.top:880/dx105.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx72.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx82.m3u8
-#EXTINF:-1 tvg-name="CCTV+" tvg-logo="https://cdn.worldvectorlogo.com/logos/cctv.svg", CCTV+
-http://sh.lnott.top:880/dx104.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Cetvlogo.jpg/revision/latest?cb=20141217015228", CETV1
 http://sh.lnott.top:880/dx84.m3u8
+#EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
 
