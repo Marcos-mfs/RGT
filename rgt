@@ -23,7 +23,7 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/70.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/96.m3u8
 #EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",SBT Minas
 http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
-#EXTINF:-1 tvg-name="RECORD NEWS HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD HD
+#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD
 http://tv.mapfibra.com.br:8555/live/1280/123456/97.m3u8
 #EXTINF:-1 tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/960px-Logo_Canal_do_Boi_-_PNG.png",CANAL DO BOI
 http://tv.mapfibra.com.br:8555/live/1280/123456/167.m3u8
@@ -97,13 +97,13 @@ http://4.59.210.197:8815/udp/127.0.0.1:6009
 http://173.225.32.123/KSFY-2363/index.m3u8
 #EXTINF:0,FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:0,CBSNEWS PLUTOTV
+#EXTINF:-1 tvg-name="CBS NEWS PLUTO TV" tvg-logo="https://s10.s3c.es/imag/_v0/770x420/6/6/d/PLUTO-CBS.jpg", CBS NEWS PLUTO TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:0,NBCNEWS
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://images.seeklogo.com/logo-png/51/1/nbc-news-now-logo-png_seeklogo-511925.png", NBC NEWS
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-#EXTINF:0,ABCNEWS
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-500x281.png", ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,CBSNEWS
+#EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://m.media-amazon.com/images/I/41WdJb50GNL.png", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,CGTN ESPANOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -114,9 +114,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,24H TVE
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL
-https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/index.fmp4.m3u8?token=V5I3IRI65I2A1L
+https://video03.logicahost.com.br/redevirtualtv/redevirtualtv/chunklist_w1868546160.m3u8
 #EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS
-https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1060675474.m3u8
 #EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
 #EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV
