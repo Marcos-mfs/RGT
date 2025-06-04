@@ -99,7 +99,7 @@ http://173.225.32.123/KSFY-2363/index.m3u8
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-name="CBS NEWS PLUTO TV" tvg-logo="https://s10.s3c.es/imag/_v0/770x420/6/6/d/PLUTO-CBS.jpg", CBS NEWS PLUTO TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://images.seeklogo.com/logo-png/51/1/nbc-news-now-logo-png_seeklogo-511925.png", NBC NEWS
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/960px-NBC_News_%282023%29.svg.png", NBC NEWS
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-500x281.png", ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -143,10 +143,208 @@ http://cdn5.163189.xyz/live/cctv1/stream.m3u8
 http://sh.lnott.top:880/dx84.m3u8
 #EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0,RAI NEWS
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1749052994~exp=1749053144~acl=/*~hmac=c32747e9edafa8473c7b71873c4df01bad58b606d66f0308f8a19ca2c443b926
+#EXTINF:0,CNN PORTUGAL
+https://video-auth5.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjUgNDo0OjQ5IFBNJmhhc2hfdmFsdWU9YXlUUE1sQm5KeGJpdEhmUTlhZnNVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThjOWUxOWZlLTYxNWMtNDgxZi1hMWUwLTUwOWRjZDE3YjE0Nw==
+#EXTINF:0,CNN INTERNATIONAL
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 type="stream" channelId="4647" aspect-ratio="16:9" size="Small", CNNMONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w992789902.m3u8
+#EXTINF:0 type="stream" channelId="4647" aspect-ratio="16:9" size="Small", CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1119261070.m3u8
+#EXTINF:0 type="stream" channelId="4613" aspect-ratio="16:9" size="Small", NEWSMAX
+https://nmx1gonet.akamaized.net/hls/live/2107009/Live_1/3.m3u8
+#EXTINF:0 type="stream" channelId="4698" aspect-ratio="16:9" size="Small", EVENTS
+https://voa-ingest.akamaized.net/hls/live/2037660/tvmc13/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4698" aspect-ratio="16:9" size="Small", VOA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1175" aspect-ratio="16:9" size="Small", SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:0 type="stream" channelId="363" aspect-ratio="16:9" size="Small", AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",SBT
+https://aovivo.maissbt.com/channel_1080.m3u8
+#EXTINF:0,CNN ESPAÑOL
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 
 
-
-
-
-
+#EXTINF:0 type="stream" channelId="-1", 2558 Smithsonian Channel Pluto TV (BR)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0 type="stream" channelId="4170" name="PT: TPA INTERNACIONAL SD" group="BRAZIL" country="pt", TPA INTERNACIONAL SD
+http://tv14s.xyz:8080/13851097/13851097/164855
+#EXTINF:0 type="stream" channelId="2433" name="SBT" group="Canais | SBT" logo="https://imgur.com/w2CTebZ.png", ÷SBT SP HD
+https://aovivo.maissbt.com/channel_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1", TELEFE HD
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:0 type="stream" channelId="2211" name="IT: RAI NEWS 24" group="ITALY" country="it", RAI NEWS 24
+http://206.212.244.71:8080/Abxc5k/363887/212913
+#EXTINF:0 type="stream" channelId="-1", UNITEL
+http://45.173.201.51:4000/play/a098/index.m3u8
+#EXTINF:0 type="stream" channelId="2287" aspect-ratio="16:9", las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+LOGO.svg.png", ABC (WPLG-DT1) Miami FL (720p)
+https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="*WORLD_TV MIX", ABC TV Sydney (720p)
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="*WORLD_TV MIX" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png", CBS 11 Houston TX (KHOU) (1080p)
+https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News+Busines" logo="https://i.ibb.co/XbSHxd5/cnn.png", CNN INT
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News+Busines" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="4K UHD", Loupe 4K (2160p)
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="4K UHD", Akwarium 4K
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+#EXTINF:0 type="stream" channelId="-1" group="4K UHD", ANIMALS 4K
+http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
+#EXTINF:0 type="stream" channelId="-1", WBZ-DT1 (720p)
+http://143.244.60.30/CBSEAST/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", WXIA-DT1 (1080p)
+https://livevideo01.11alive.com/hls/live/2015499/elvs/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="US NBC (WNBC) New York" group="USA | NEWS | REGIONALS", US NBC (WNBC) New York
+http://fortv.cc:8080/5djSbC/538755/120751
+#EXTINF:0 type="stream" channelId="-1" name="US CBS 2 (WCBS) NEW YORK" group="USA | NEWS | REGIONALS", US CBS 2 (WCBS) NEW YORK
+http://fortv.cc:8080/5djSbC/538755/120749
+#EXTINF:0 type="stream" channelId="-1" name="US FOX (WNYW) New York" group="USA | NEWS | REGIONALS", US FOX (WNYW) New York
+http://fortv.cc:8080/5djSbC/538755/120750
+#EXTINF:0 type="stream" channelId="-1" name="TNT FHD [H265]" group="Canais | Filmes e Séries" logo="http://79.127.243.147/static/logos/canais/tnt.png", TNT FHD [H265]
+http://79.127.243.147:80/396408/7v9ZDD/72376.ts
+#EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9", ABC
+http://173.225.32.123/KSFY-2363/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Globo SP FHD [H265]" group="Canais | Globos Sudeste" logo="http://1fcpbqww8.vip/static/logos/canais/globo.png", Globo SP FHD [H265]
+http://1fcpbqww8.vip:80/396408/7v9ZDD/131215.ts
+#EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9", KMIZ ABC
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:0 type="stream" channelId="2459" name="TV Diário" group="Canais | ABERTO" logo="https://i.imgur.com/xtSdQsu.png", TV Diário HD
+http://zutufo.in:80/live/781487031/K788a6763d/530124_.m3u8
+#EXTINF:0 type="stream" channelId="-1", TELEMUNDO 51
+http://190.92.10.66:4000/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="895", TCM
+http://187.120.222.12:8000/play/TCM/index.m3u8
+#EXTINF:0 type="stream" channelId="1955" group="-", CANAL 5
+http://200.115.120.1:8000/play/ca0105/index.m3u8
+#EXTINF:0 type="stream" channelId="1317" group="-", Fox News
+http://152.231.29.139:8000/play/a0cn/index.m3u8
+#EXTINF:0 type="stream" channelId="473" group="-", Baby TV
+http://152.231.29.139:8000/play/a0ba/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ANTENA 3 HD" group="SPAIN", ANTENNA 3 HD
+http://ott.dobratv.net:25461/TeleskyGradacac/OlhzoyCMyn/15359
+#EXTINF:0 type="stream" channelId="-1" name="US CW (KTLA)" group="USA | NEWS | REGIONALS", US CW (KTLA)
+http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/120889
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" description="Medium", ABC News New York NY (WABC-TV) (720p)
+http://102.221.35.89:8080/channel/n2f613320/index.m3u8?q=1744732445068
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" description="Medium", ABC (WPLG-DT1) Miami FL (720p)
+http://102.221.35.89:8080/channel/2f65936d/index.m3u8?q=1744732445068
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" description="Medium", NBCU Telemundo Florida
+http://102.221.35.89:8080/channel/3ecc38c8/index.m3u8?q=1744732445068
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" description="Medium", NBC South Florida News
+http://102.221.35.89:8080/channel/29e867ea/index.m3u8?q=1744732445068
+#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://i.imgur.com/A00pGOV.png" description="Medium", WTSP CBS 10 (1080p)
+http://102.221.35.89:8080/channel/na65965d/index.m3u8?q=1744732445068
+#EXTINF:0 type="stream" channelId="-1" name="USA CBS UHD" group="ENTERTAINMENT" logo="https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fcbs_416x416.jpg", USA CBS UHD
+http://ostadgodns.net:8080/976546/188156/22062
+#EXTINF:0 type="stream" channelId="-1" name="USA ABC WPLG UHD" group="ENTERTAINMENT" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png", USA ABC WPLG UHD
+http://ostadgodns.net:8080/976546/188156/22041
+#EXTINF:0 type="stream" channelId="-1" name="USA NBC UHD" group="ENTERTAINMENT", USA NBC UHD
+http://ostadgodns.net:8080/976546/188156/22126
+#EXTINF:0 type="stream" channelId="-1" name="(WNBC) New York City NY" group="NBC LOCALS", (WNBC) New York City NY
+http://thevdm.xyz:25461/timmadden/timmad4765/85863
+#EXTINF:0 type="stream" channelId="-1" name="(WCBS) New York NY" group="CBS LOCALS", (WCBS) New York NY
+http://thevdm.xyz:25461/timmadden/timmad4765/85422
+#EXTINF:0 type="stream" channelId="-1" name="CBS New York WCBS UHD" group="USA LOCAL" logo="https://pbs.twimg.com/profile_images/997841169433350144/YNcP_Ort_400x400.jpg", CBS New York WCBS UHD
+http://ostadgodns.net:8080/976546/188156/71677
+#EXTINF:0 type="stream" channelId="-1" name="NBC New York WNBC UHD" group="USA LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_2013_fixed_logo.svg/1200px-NBC_2013_fixed_logo.svg.png", NBC New York WNBC UHD
+http://ostadgodns.net:8080/976546/188156/71679
+#EXTINF:0 type="stream" channelId="-1" name="ABC New York UHD" group="USA LOCAL" logo="https://i.pinimg.com/280x280_RS/0a/79/23/0a7923c8d658769e28668f5ce72b8353.jpg", ABC New York UHD
+http://ostadgodns.net:8080/976546/188156/71676
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" description="Medium", Fox News Channel (720p)
+http://102.221.35.89:8080/channel/cabd85e/index.m3u8?q=1744944548614
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/ZnmAXVv.png" description="Medium", France 24 Español (1080p)
+http://102.221.35.89:8080/channel/n13c0b447/index.m3u8?q=1744944548614
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/liLta8j.png" description="Medium", SABC News (720p) [Geo-blocked]
+http://102.221.35.89:8080/channel/1372b6df/index.m3u8?q=1744944548614
+#EXTINF:0 type="stream" channelId="-1" name="Latin TV Globo Internacional" group="LATINO", Latin TV Globo Internacional
+http://ostadgodns.net:8080/976546/188156/61856
+#EXTINF:0 type="stream" channelId="-1" name="ABC East" group="US CHANNELS HD" logo="https://i.ibb.co/CmGkxXr/abc.png", ABC East
+http://thevdm.xyz:25461/timmadden/timmad4765/39696
+#EXTINF:0 type="stream" channelId="-1" name="ABC West" group="US CHANNELS HD" logo="https://i.ibb.co/Qp3QGQM/abc-7-kabc-us.png", ABC West
+http://thevdm.xyz:25461/timmadden/timmad4765/39697
+#EXTINF:0 type="stream" channelId="-1" name="CBS East" group="US CHANNELS HD" logo="https://imgx.fubo.tv/station_logos/wusa_n_c.png", CBS East
+http://thevdm.xyz:25461/timmadden/timmad4765/39726
+#EXTINF:0 type="stream" channelId="-1" name="CBS West" group="US CHANNELS HD" logo="https://imgx.fubo.tv/station_logos/kcbs_tv_c.png", CBS West
+http://thevdm.xyz:25461/timmadden/timmad4765/39727
+#EXTINF:0 type="stream" channelId="1442" name="NBC (East)" group="US CHANNELS HD" logo="https://imgx.fubo.tv/station_logos/nbc_c.png", NBC (East)
+http://thevdm.xyz:25461/timmadden/timmad4765/39810
+#EXTINF:0 type="stream" channelId="1442" name="NBC (West)" group="US CHANNELS HD" logo="https://imgx.fubo.tv/station_logos/nbc_c.png", NBC (West)
+http://thevdm.xyz:25461/timmadden/timmad4765/39811
+#EXTINF:0 type="stream" channelId="-1" name="CBS San Francisco KCBS" group="USA LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/KPIX-TV_Logo.svg/1200px-KPIX-TV_Logo.svg.png", CBS San Francisco KCBS
+http://ostadgodns.net:8080/976546/188156/71794
+#EXTINF:0 type="stream" channelId="-1" name="CBS Denver KCNC" group="USA LOCAL" logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Kcnc_2009.png", CBS Denver KCNC
+http://ostadgodns.net:8080/976546/188156/71446
+#EXTINF:0 type="stream" channelId="-1" name="CO | DENVER | CBS 4" group="17. LOCALS BY STATE" logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd", CO | DENVER | CBS 4
+http://tkosportz.live:25461/folalawal@/4044225438/149652
+#EXTINF:0 type="stream" channelId="3205" name="US : CBS (KLAS- Las Vegas NV)" group="18. TEST LOCALS -ABC, CBS, NBC, FOX" logo="http://onlytimewilltell.xyz:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" country="us", CBS (KLAS- Las Vegas NV)
+http://tkosportz.live:25461/folalawal@/4044225438/102891
+#EXTINF:0 type="stream" channelId="1444" name="ABC" group="US | USA" logo="http://sltv-logo.cms-s.com/logo/USA/ABC.png", ABC
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/988804
+#EXTINF:0 type="stream" channelId="-1" name="CW HD" group="US | USA", CW HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/755278
+#EXTINF:0 type="stream" channelId="-1" name="CBS CHICAGO HD" group="US | NEWS" logo="http://logo.kll1ll120qazwed.site/logo/USA/CBSHD.png", CBS CHICAGO HD
+http://m.vip2024.org:8080/kUBAETq0zu/d1hbUpd8S2/755244
+#EXTINF:0 type="stream" channelId="3205" name="US : CBS (KCBS TV– Los Angeles CA)" group="18. LOCALS -ABC, CBS, NBC, FOX" logo="http://onlytimewilltell.xyz:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" country="us", CBS (KCBS TV– Los Angeles CA)
+http://tkosportz.live:25461/folalawal@/4044225438/102883
+#EXTINF:0 type="stream" channelId="1444" name="ABC (New York)" group="USA Network" logo="https://watchindia.net/images/channels/usa/ABC.png", ABC (New York)
+http://watchindia.net:8880/live/83941/89339/2514.ts
+#EXTINF:0 type="stream" channelId="177" name="Fox (New York)" group="USA Network" logo="https://watchindia.net/images/channels/usa/Fox_NY.png", Fox (New York)
+http://watchindia.net:8880/live/83941/89339/2590.ts
+#EXTINF:0 type="stream" channelId="3205" name="CBS (New York)" group="USA Network" logo="https://watchindia.net/images/channels/usa/CBS.png", CBS (New York)
+http://watchindia.net:8880/live/83941/89339/2591.ts
+#EXTINF:0 type="stream" channelId="1442" name="NBC (New York)" group="USA Network" logo="https://watchindia.net/images/channels/usa/NBC.png", NBC (New York)
+http://watchindia.net:8880/live/83941/89339/2537.ts
+#EXTINF:0 type="stream" channelId="-1" name="CA CBC Toronto" group="CANADA", CA CBC Toronto
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/57260
+#EXTINF:0 type="stream" channelId="-1" name="CA City TV Toronto (D)" group="CANADA", CA City TV Toronto (D)
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/57394
+#EXTINF:0 type="stream" channelId="-1" name="CA CTV Montreal HD" group="CANADA", CA CTV Montreal HD
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/47234
+#EXTINF:0 type="stream" channelId="-1" name="CA CTV Toronto HD (R)" group="CANADA", CA CTV Toronto HD (R)
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/47296
+#EXTINF:0 type="stream" channelId="-1" name="CA GLOBAL TORONTO" group="CANADA", CA GLOBAL TORONTO
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/57435
+#EXTINF:0 type="stream" channelId="-1" name="CA CTV Two Atlantic" group="CANADA", CA CTV Two Atlantic
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/79547
+#EXTINF:0 type="stream" channelId="-1" name="CA CBC NEWS NETWORK (E)" group="CANADA", CA CBC NEWS NETWORK (E)
+http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/57304
+#EXTINF:0 type="stream" channelId="-1" name="US ▎KTLA 5 HD [LOS ANGELES]" group="US ▎GENERAL" logo="https://img.logo-cdn.cc/ktla.png", US ▎KTLA 5 HD [LOS ANGELES]
+http://154.56.131.10:80/647707/D814C3/360795
+#EXTINF:0 type="stream" channelId="-1" name="MX Foro TV HD" group="MEXICAN", MX Foro TV HD
+http://ostadgodns.net:8080/976546/188156/61285
+#EXTINF:0 type="stream" channelId="2124" logo="https://i.ibb.co/hYTkm8L/A3es.png", ANTENA 3
+https://gitlab.com/movrey/movrel/-/raw/main/antena3.m3u8
+#EXTINF:0 type="stream" channelId="1678" logo="https://i.ibb.co/hRs6WrH/C4es.png", CUATRO
+https://gitlab.com/movrey/movrel/-/raw/main/cuatro.m3u8
+#EXTINF:0 type="stream" channelId="2527" logo="https://i.ibb.co/7gMg1nb/t5es.png", TELECINCO
+https://gitlab.com/movrey/movrel/-/raw/main/telecinco.m3u8
+#EXTINF:0 type="stream" channelId="1692" logo="https://i.ibb.co/6JF4BK4/l6es.png", LA SEXTA
+https://gitlab.com/movrey/movrel/-/raw/main/sexta.m3u8
+#EXTINF:0 type="stream" channelId="1972" logo="https://i.ibb.co/XbSHxd5/cnn.png", CNN EN ESPAÑOL [geoblocked]
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="NV | Las Vegas | CBS KLAS" group="USA LOCAL", NV | Las Vegas | CBS KLAS
+http://ostadgodns.net:8080/976546/188156/71590
+#EXTINF:0 type="favorites" channelId="-1", CBSNEWS PLUTOTV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:0 type="favorites" channelId="-1", CBSNEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais | ABERTO" logo="https://i.imgur.com/XqAcHMg.png", TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais | ABERTO" logo="https://i.imgur.com/XqAcHMg.png", Rede Brasil HD
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2561" name="GLOBONEWS" group="Canais | NOTÍCIAS" logo="https://i.imgur.com/Wu4ykxo.png", Globo News HD²
+http://79.127.238.228:14093/
+#EXTINF:0 type="favorites" channelId="2883" group="Canais | INTERNACIONAL" logo="https://i.imgur.com/05S3yYZ.png", CNN International
+https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
+#EXTINF:0 type="favorites" channelId="5229" group="Canais | INTERNACIONAL" logo="https://imgur.com/bc6tYVZ.png", CNN Portugal
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
