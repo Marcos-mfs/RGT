@@ -209,12 +209,8 @@ http://fortv.cc:8080/5djSbC/538755/120751
 http://fortv.cc:8080/5djSbC/538755/120749
 #EXTINF:0 type="stream" channelId="-1" name="US FOX (WNYW) New York" group="USA | NEWS | REGIONALS", US FOX (WNYW) New York
 http://fortv.cc:8080/5djSbC/538755/120750
-#EXTINF:0 type="stream" channelId="-1" name="TNT FHD [H265]" group="Canais | Filmes e Séries" logo="http://79.127.243.147/static/logos/canais/tnt.png", TNT FHD [H265]
-http://79.127.243.147:80/396408/7v9ZDD/72376.ts
 #EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9", ABC
 http://173.225.32.123/KSFY-2363/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Globo SP FHD [H265]" group="Canais | Globos Sudeste" logo="http://1fcpbqww8.vip/static/logos/canais/globo.png", Globo SP FHD [H265]
-http://1fcpbqww8.vip:80/396408/7v9ZDD/131215.ts
 #EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9", KMIZ ABC
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:0 type="stream" channelId="2459" name="TV Diário" group="Canais | ABERTO" logo="https://i.imgur.com/xtSdQsu.png", TV Diário HD
