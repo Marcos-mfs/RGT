@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TBC GOIANIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYyTDOiFvx0cXi5lLrIcZPFcmDiDIm1_Eag&s",TBC GOIANIA HD
-https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2768000.m3u8
+http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b6970406.m3u8
 #EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
