@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TBC GOIANIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYyTDOiFvx0cXi5lLrIcZPFcmDiDIm1_Eag&s",TBC GOIANIA HD
-http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b6970406.m3u8
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b7303072.m3u8
 #EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
@@ -343,4 +343,29 @@ http://79.127.238.228:14093/
 https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9438b638-7b18-11ef-9825-de7fcdd69a13
 #EXTINF:0 type="favorites" channelId="5229" group="Canais | INTERNACIONAL" logo="https://imgur.com/bc6tYVZ.png", CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-
+EXTINF:0,dmax
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+#EXTINF:0,kabel1
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:0,n24
+https://strm.hdtvizlecanli.com/live/n24.m3u8
+#EXTINF:0,pro7
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:0,rtl
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:0,rtl2
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+#EXTINF:0,sat1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:0,superrtl
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+#EXTINF:0,tele5
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+#EXTINF:0,vox
+https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:0,zdf
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+#EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_de_Televisa.svg",LAS ESTRELLAS
+http://45.5.119.108:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",FOX NEWS
+http://58.65.205.171:8000/play/a06p
