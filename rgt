@@ -21,6 +21,406 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/19.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/70.m3u8
 #EXTINF:-1 tvg-name="RecordTV Minas HD" tvg-logo="https://acstatic.co/logos/canais/record.png",RecordTV Minas HD
 http://tv.mapfibra.com.br:8555/live/1280/123456/96.m3u8
+#EXTINF:0,v52.1
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v52.1
+#EXTINF:0,2.1 KCBS-HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v2.1
+#EXTINF:0,2.2 StartTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v2.2
+#EXTINF:0,2.3 Dabl
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v2.3
+#EXTINF:0,2.4 FaveTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v2.4
+#EXTINF:0,4.1 NBC4-LA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v4.1
+#EXTINF:0,4.2 COZI-TV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v4.2
+#EXTINF:0,4.3 CRIMES
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v4.3
+#EXTINF:0,4.4 Oxygen
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v4.4
+#EXTINF:0,5.1 KTLADT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v5.1
+#EXTINF:0,5.2 Antenna
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v5.2
+#EXTINF:0,5.3 GritTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v5.3
+#EXTINF:0,5.4 SHOP-LC
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v5.4
+#EXTINF:0,5.5 Rewind
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v5.5
+#EXTINF:0,7.1 KABC DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v7.1
+#EXTINF:0,7.2 LOCLsh
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v7.2
+#EXTINF:0,7.3 CHARGE!
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v7.3
+#EXTINF:0,7.4 QVC2
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v7.4
+#EXTINF:0,9.1 KCAL-DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v9.1
+#EXTINF:0,9.2 Nest
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v9.2
+#EXTINF:0,9.3 Comet
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v9.3
+#EXTINF:0,9.4 HSN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v9.4
+#EXTINF:0,9.5 QVC
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v9.5
+#EXTINF:0,9.6 KCAL+
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v9.6
+#EXTINF:0,11.1 KTTV-DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v11.1
+#EXTINF:0,11.2 FOX-WX
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v11.2
+#EXTINF:0,11.3 ROAR
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v11.3
+#EXTINF:0,11.4 CATCHY
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v11.4
+#EXTINF:0,13.1 KCOP-DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v13.1
+#EXTINF:0,13.2 BUZZR
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v13.2
+#EXTINF:0,13.3 MOVIES!
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v13.3
+#EXTINF:0,13.4 HEROES
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v13.4
+#EXTINF:0,18.1 LA18
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v18.1
+#EXTINF:0,18.2 SBS
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v18.2
+#EXTINF:0,18.3 MBCD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v18.3
+#EXTINF:0,18.4 YTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v18.4
+#EXTINF:0,18.8 CTS
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v18.8
+#EXTINF:0,20.1 DstrEsp
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.1
+#EXTINF:0,20.2 MBN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.2
+#EXTINF:0,20.3 ICCDD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.3
+#EXTINF:0,20.4 MANA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.4
+#EXTINF:0,20.10 NAURA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.10
+#EXTINF:0,20.12 CBS
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.12
+#EXTINF:0,20.20 LATINTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v20.20
+#EXTINF:0,25.1 DAYSTAR
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v25.1
+#EXTINF:0,25.2 DstrRef
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v25.2
+#EXTINF:0,25.3 SonLife
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v25.3
+#EXTINF:0,28.1 KCET HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v28.1
+#EXTINF:0,28.2 KCETCRT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v28.2
+#EXTINF:0,28.3 N H K
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v28.3
+#EXTINF:0,30.1 ION
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.1
+#EXTINF:0,30.2 CourtTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.2
+#EXTINF:0,30.3 IONPlus
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.3
+#EXTINF:0,30.4 Laff
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.4
+#EXTINF:0,30.5 GameSho
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.5
+#EXTINF:0,30.6 BUSTED
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.6
+#EXTINF:0,30.8 HSN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v30.8
+#EXTINF:0,31.1 KVMD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v31.1
+#EXTINF:0,34.1 KMEX-DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v34.1
+#EXTINF:0,34.2 UNIMAS
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v34.2
+#EXTINF:0,34.3 MVSGLD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v34.3
+#EXTINF:0,34.4 CRIME
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v34.4
+#EXTINF:0,34.5 STVUSA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v34.5
+#EXTINF:0,34.6 BT2
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v34.6
+#EXTINF:0,40.1 TBN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v40.1
+#EXTINF:0,40.2 Merit
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v40.2
+#EXTINF:0,40.3 Inspire
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v40.3
+#EXTINF:0,40.4 ONTV4U
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v40.4
+#EXTINF:0,40.5 PosiTiV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v40.5
+#EXTINF:0,44.1 KXLA-DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.1
+#EXTINF:0,44.2 CRTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.2
+#EXTINF:0,44.3 SKYLINK
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.3
+#EXTINF:0,44.4 SKY-CAN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.4
+#EXTINF:0,44.7 NTDTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.7
+#EXTINF:0,44.8 EEE TV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.8
+#EXTINF:0,44.9 CGNTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v44.9
+#EXTINF:0,46.1 UniMas
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v46.1
+#EXTINF:0,46.2 GetTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v46.2
+#EXTINF:0,46.3 MYSTERY
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v46.3
+#EXTINF:0,46.4 GRIT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v46.4
+#EXTINF:0,46.5 QUEST
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v46.5
+#EXTINF:0,50.1 PBS-HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v50.1
+#EXTINF:0,50.2 PBS-2
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v50.2
+#EXTINF:0,50.3 Daystar
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v50.3
+#EXTINF:0,50.4 PBSwrld
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v50.4
+#EXTINF:0,50.5 PBSkids
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v50.5
+#EXTINF:0,52.1 KVEA-HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v52.1
+#EXTINF:0,52.2 KNBC-HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v52.2
+#EXTINF:0,52.3 TelXtos
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v52.3
+#EXTINF:0,52.4 Nosey
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v52.4
+#EXTINF:0,56.1 KDOC HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.1
+#EXTINF:0,56.2 ESNE
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.2
+#EXTINF:0,56.3 MeTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.3
+#EXTINF:0,56.4 ONTV4U
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.4
+#EXTINF:0,56.5 MAJ-TV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.5
+#EXTINF:0,56.6 CANAAN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.6
+#EXTINF:0,56.7 Genesis
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.7
+#EXTINF:0,56.8 TVA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.8
+#EXTINF:0,56.9 Santida
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.9
+#EXTINF:0,56.10 LSTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.10
+#EXTINF:0,56.11 GDT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v56.11
+#EXTINF:0,57.1 KJLA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.1
+#EXTINF:0,57.2 VFACE
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.2
+#EXTINF:0,57.3 VNA
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.3
+#EXTINF:0,57.4 VietSky
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.4
+#EXTINF:0,57.5 STV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.5
+#EXTINF:0,57.6 VBS
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.6
+#EXTINF:0,57.9 ZWTV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.9
+#EXTINF:0,57.10 SBTN
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.10
+#EXTINF:0,57.12 VGMT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.12
+#EXTINF:0,57.15 SBU-TV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v57.15
+#EXTINF:0,58.1 KLCS-HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v58.1
+#EXTINF:0,58.2 KIDS-TV
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v58.2
+#EXTINF:0,58.3 CREATE
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v58.3
+#EXTINF:0,62.1 KRCA-DT
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v62.1
+#EXTINF:0,62.2 KRCA-2
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v62.2
+#EXTINF:0,62.3 CONFESS
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v62.3
+#EXTINF:0,64.1 Bounce
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v64.1
+#EXTINF:0,102.1 KCBS NX
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v102.1
+#EXTINF:0,104.1 KNBC NX
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v104.1
+#EXTINF:0,105.1 KTLA HD
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v105.1
+#EXTINF:0,111.1 KTTV NX
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v111.1
+#EXTINF:0,113.1 KCOP NX
+#EXTVLCOPT:network-caching=1000
+http://173.229.4.246:5004/auto/v113.1
+#EXTINF:0,5.1 CBC
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v5.1
+#EXTINF:0,25.1 ICI TELE 
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v25.1
+#EXTINF:0,40.1 CITY
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v40.1
+#EXTINF:0,41.1 GLOBAL
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v41.1
+#EXTINF:0,57.1 CITYTV
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v57.1
+#EXTINF:0,5.1 CBLT-DT
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v5.1
+#EXTINF:0,19.1 TVODT
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v19.1
+#EXTINF:0,25.1 CBLFTDT
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v25.1
+#EXTINF:0,41.1 CIII
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v41.1
+#EXTINF:0,47.1 CFMT
+#EXTVLCOPT:network-caching=1000
+http://204.15.194.229:5004/auto/v47.1
+
 #EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",SBT Minas
 http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
 #EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD
