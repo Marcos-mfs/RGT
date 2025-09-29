@@ -1,17 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GLOBO REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO REDE
 https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTE2NzgwMCwiaWF0IjoxNzU5MTQ2MjAwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.s_aO0h6nir8Y6s5UM9PNkx-7PVectdlkzhy2DPyw-ut8kvtMp5P_xwuWM_9_AIrYTYPryul5wyDKwdCc3MN1pdvR7arET4MSQYRjC1kh9czQi83eGBbFsFWDQlnc4o2xayQfgiUt4UjrA4QZ1bxe0_Sy_zM42QVjN56xZNKtOBE39KBfpFlLe4R7fyvtkUhoX4zUgKsOIsdDnO5GNzeIXlM-lTZItjVotpi3s73EUD_FHWHTtZ8e3NPqvVFJyu-QqJYe5lP6NgfMi8BWh6qdKbUI62OmNookbbgEU7k9i4gM2qB38Vx0dmDM_BInEeoYtuhbIcMCNWkXyF7qiwPXZQ/live/f(i=2)/globo-rede/globo-rede-audio_1=96000-video=3442944.m3u8
-#EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
-https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png", TV CULTURA
-http://187.120.222.12:8000/play/TVCultura/index.m3u8
 
-#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png", REDE TV!
-http://tv.mapfibra.com.br:8555/live/2003/123456/102.m3u8
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png", TV CULTURA
-http://tv.mapfibra.com.br:8555/live/1280/123456/230.m3u8
+
 #EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD
 http://tv.mapfibra.com.br:8555/live/1280/123456/19.m3u8
 #EXTINF:-1 tvg-name="Globo Minas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png",Globo Minas HD
@@ -26,6 +17,14 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/96.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
 #EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD
 http://tv.mapfibra.com.br:8555/live/1280/123456/97.m3u8
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png", REDE TV!
+http://tv.mapfibra.com.br:8555/live/2003/123456/102.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA REDE
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA SINAL 01
+http://tv.mapfibra.com.br:8555/live/1280/123456/230.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA SINAL 02
+http://187.120.222.12:8000/play/TVCultura/index.m3u8
 #EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL
 https://virtual.tv.br/servidor/tv/virtual/chunklist_w127054735.m3u8
 #EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS
@@ -46,6 +45,10 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/150.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/134.m3u8
 #EXTINF:0,TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
+#EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:0,TV CÂMARA
 http://tv.mapfibra.com.br:8555/live/1280/123456/136.m3u8
 #EXTINF:0,TV JUSTIÇA
@@ -68,7 +71,6 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/243.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/190.m3u8
 #EXTINF:0,FISH TV
 http://tv.mapfibra.com.br:8555/live/1280/123456/62.m3u8
-
 #EXTINF:0,NBT BELEM
 http://tv.mapfibra.com.br:8555/live/1280/123456/247.m3u8
 #EXTINF:0,PLAYTV
