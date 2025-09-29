@@ -1,16 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GLOBO REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO REDE
-https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTExNjk4OCwiaWF0IjoxNzU5MDk1Mzg4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.UHOBVK4YIo4-iharUoXJwFTKMWHAcioAX5PM3eYOdVM8bK1Ndup4cA95Ckcs5_Jkg53miV9EHEIhrj4yPJlalzVYwPrGy-xqa-pXL7o3Kdm-Hj7vQAnYKQi3mhw65Fg6xSz1gjkOAtmr0zHdYaVQiTp46A8nc_OzLPS3gPiJXA10_r7UUsV8SIgNT9VQGZWHKnm-ihSsexqo8--fgADB5DMNeHtInarmqihE_ToWDz1M0CVV15eRbdtszScFjeJaN3CnMfljBelLpYpU38N3ne5AP-JPxdP4WVqymB-fOG9R_PhKZhPfMMK1DGbs1_16r76o4PEaoPmJYcYoLti_Ww/live/f(i=2)/globo-rede/globo-rede-audio_1=96000-video=3442944.m3u8
+https://live-tvg-df-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTE2NzgwMCwiaWF0IjoxNzU5MTQ2MjAwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.s_aO0h6nir8Y6s5UM9PNkx-7PVectdlkzhy2DPyw-ut8kvtMp5P_xwuWM_9_AIrYTYPryul5wyDKwdCc3MN1pdvR7arET4MSQYRjC1kh9czQi83eGBbFsFWDQlnc4o2xayQfgiUt4UjrA4QZ1bxe0_Sy_zM42QVjN56xZNKtOBE39KBfpFlLe4R7fyvtkUhoX4zUgKsOIsdDnO5GNzeIXlM-lTZItjVotpi3s73EUD_FHWHTtZ8e3NPqvVFJyu-QqJYe5lP6NgfMi8BWh6qdKbUI62OmNookbbgEU7k9i4gM2qB38Vx0dmDM_BInEeoYtuhbIcMCNWkXyF7qiwPXZQ/live/f(i=2)/globo-rede/globo-rede-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png", TV CULTURA
 http://187.120.222.12:8000/play/TVCultura/index.m3u8
-#EXTINF:-1 tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png", TV GAZETA
-http://tv.mapfibra.com.br:8555/live/2003/123456/69.m3u8
-#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg", GLOBONEWS HD
-http://79.127.238.228:14093/
+
 #EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png", REDE TV!
 http://tv.mapfibra.com.br:8555/live/2003/123456/102.m3u8
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://w7.pngwing.com/pngs/352/517/png-transparent-tv-cultura-logo-culture-brazil-television-cultura-television-angle-culture-thumbnail.png", TV CULTURA
@@ -19,8 +16,105 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/230.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/19.m3u8
 #EXTINF:-1 tvg-name="Globo Minas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png",Globo Minas HD
 http://tv.mapfibra.com.br:8555/live/1280/123456/70.m3u8
+#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg", GLOBONEWS HD
+http://79.127.238.228:14093/
+#EXTINF:0,FUTURA
+http://tv.mapfibra.com.br:8555/live/1280/123456/67.m3u8
 #EXTINF:-1 tvg-name="RecordTV Minas HD" tvg-logo="https://acstatic.co/logos/canais/record.png",RecordTV Minas HD
 http://tv.mapfibra.com.br:8555/live/1280/123456/96.m3u8
+#EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",SBT Minas
+http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
+#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD
+http://tv.mapfibra.com.br:8555/live/1280/123456/97.m3u8
+#EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL
+https://virtual.tv.br/servidor/tv/virtual/chunklist_w127054735.m3u8
+#EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1060675474.m3u8
+#EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
+#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV
+https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w437143413.m3u8
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png?20190703044917",ISTV
+http://tv.mapfibra.com.br:8555/live/1280/123456/261.m3u8
+#EXTINF:-1 tvg-name="JP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/598px-Jovem_Pan_News_logo_2022.png",JOVEM PAN NEWS
+http://tv.mapfibra.com.br:8555/live/1280/123456/161.m3u8
+#EXTINF:-1 tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png", TV GAZETA
+http://tv.mapfibra.com.br:8555/live/1280/123456/69.m3u8
+#EXTINF:0,CNT
+http://tv.mapfibra.com.br:8555/live/1280/123456/150.m3u8
+#EXTINF:0,TV BRASIL
+http://tv.mapfibra.com.br:8555/live/1280/123456/134.m3u8
+#EXTINF:0,TV BRASIL INTERNACIONAL
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:0,TV CÂMARA
+http://tv.mapfibra.com.br:8555/live/1280/123456/136.m3u8
+#EXTINF:0,TV JUSTIÇA
+http://tv.mapfibra.com.br:8555/live/1280/123456/138.m3u8
+#EXTINF:0,TV SENADO
+http://tv.mapfibra.com.br:8555/live/1280/123456/139.m3u8
+#EXTINF:-1 tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/960px-Logo_Canal_do_Boi_-_PNG.png",CANAL DO BOI
+http://tv.mapfibra.com.br:8555/live/1280/123456/167.m3u8
+#EXTINF:-1 tvg-name="CANAL RURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png?20100904010722",CANAL RURAL
+http://tv.mapfibra.com.br:8555/live/1280/123456/166.m3u8
+#EXTINF:-1 tvg-name="CANAL SAUDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNPsM1X1oPQqIqfbTq3CnYLY0ubY5UeN8rA&s",CANAL RURAL
+http://tv.mapfibra.com.br:8555/live/1280/123456/165.m3u8
+#EXTINF:-1 tvg-name="CANÇÃO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2022/07/image-4-965x513.png",CANÇÃO NOVA
+http://tv.mapfibra.com.br:8555/live/1280/123456/25.m3u8
+#EXTINF:0,CHESPIRITO
+http://tv.mapfibra.com.br:8555/live/1280/123456/159.m3u8
+#EXTINF:0,CINE BRASIL
+http://tv.mapfibra.com.br:8555/live/1280/123456/243.m3u8
+#EXTINF:0,CLASSIQUE TV
+http://tv.mapfibra.com.br:8555/live/1280/123456/190.m3u8
+#EXTINF:0,FISH TV
+http://tv.mapfibra.com.br:8555/live/1280/123456/62.m3u8
+
+#EXTINF:0,NBT BELEM
+http://tv.mapfibra.com.br:8555/live/1280/123456/247.m3u8
+#EXTINF:0,PLAYTV
+http://tv.mapfibra.com.br:8555/live/1280/123456/255.m3u8
+#EXTINF:0,REDE FAMILIA
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w1545400990.m3u8
+#EXTINF:0,REDE METROPOLE
+http://tv.mapfibra.com.br:8555/live/1280/123456/99.m3u8
+#EXTINF:0,REDE MINAS
+http://tv.mapfibra.com.br:8555/live/1280/123456/101.m3u8
+#EXTINF:0,REDE NGT
+http://tv.mapfibra.com.br:8555/live/1280/123456/227.m3u8
+#EXTINF:0,REDE TV
+http://tv.mapfibra.com.br:8555/live/1280/123456/102.m3u8
+#EXTINF:0,REDE VIDA
+http://tv.mapfibra.com.br:8555/live/1280/123456/103.m3u8
+#EXTINF:0,SESC TV
+http://tv.mapfibra.com.br:8555/live/1280/123456/107.m3u8
+#EXTINF:0,SÉRIES CLÁSSICAS
+http://tv.mapfibra.com.br:8555/live/1280/123456/160.m3u8
+#EXTINF:-1 tvg-name="P CLASSIC" tvg-logo="data:image/png;base64,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", PCLASSIC
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:0,TV APARECIDA
+http://tv.mapfibra.com.br:8555/live/1280/123456/131.m3u8
+#EXTINF:0,WOOHOO
+http://tv.mapfibra.com.br:8555/live/1280/123456/141.m3u8
+#EXTINF:0,ZOOMOO
+http://tv.mapfibra.com.br:8555/live/1280/123456/162.m3u8
+
+#EXTINF:0,CBS
+http://tkosportz.live:25461/folalawal@/4044225438/10374
+#EXTINF:0,NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:0,ABC
+http://173.225.32.123/KSFY-2363/index.m3u8
+#EXTINF:0,FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+
+#EXTINF:-1 tvg-name="CBS NEWS PLUTO TV" tvg-logo="https://s10.s3c.es/imag/_v0/770x420/6/6/d/PLUTO-CBS.jpg", CBS NEWS PLUTO TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/960px-NBC_News_%282023%29.svg.png", NBC NEWS
+https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-500x281.png", ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://m.media-amazon.com/images/I/41WdJb50GNL.png", CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:0,v52.1
 #EXTVLCOPT:network-caching=1000
@@ -422,92 +516,6 @@ http://204.15.194.229:5004/auto/v41.1
 #EXTVLCOPT:network-caching=1000
 http://204.15.194.229:5004/auto/v47.1
 
-#EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",SBT Minas
-http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
-#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png",RECORD NEWS HD
-http://tv.mapfibra.com.br:8555/live/1280/123456/97.m3u8
-#EXTINF:-1 tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/960px-Logo_Canal_do_Boi_-_PNG.png",CANAL DO BOI
-http://tv.mapfibra.com.br:8555/live/1280/123456/167.m3u8
-#EXTINF:-1 tvg-name="CANAL RURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png?20100904010722",CANAL RURAL
-http://tv.mapfibra.com.br:8555/live/1280/123456/166.m3u8
-#EXTINF:-1 tvg-name="CANAL SAUDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNPsM1X1oPQqIqfbTq3CnYLY0ubY5UeN8rA&s",CANAL RURAL
-http://tv.mapfibra.com.br:8555/live/1280/123456/165.m3u8
-#EXTINF:-1 tvg-name="CANÇÃO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2022/07/image-4-965x513.png",CANÇÃO NOVA
-http://tv.mapfibra.com.br:8555/live/1280/123456/25.m3u8
-#EXTINF:0,CHESPIRITO
-http://tv.mapfibra.com.br:8555/live/1280/123456/159.m3u8
-#EXTINF:0,CINE BRASIL
-http://tv.mapfibra.com.br:8555/live/1280/123456/243.m3u8
-#EXTINF:0,CLASSIQUE TV
-http://tv.mapfibra.com.br:8555/live/1280/123456/190.m3u8
-#EXTINF:0,CNT
-http://tv.mapfibra.com.br:8555/live/1280/123456/150.m3u8
-#EXTINF:0,FISH TV
-http://tv.mapfibra.com.br:8555/live/1280/123456/62.m3u8
-#EXTINF:0,FUTURA
-http://tv.mapfibra.com.br:8555/live/1280/123456/67.m3u8
-#EXTINF:0,GAZETA
-http://tv.mapfibra.com.br:8555/live/1280/123456/69.m3u8
-#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png?20190703044917",ISTV
-http://tv.mapfibra.com.br:8555/live/1280/123456/261.m3u8
-#EXTINF:-1 tvg-name="JP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/598px-Jovem_Pan_News_logo_2022.png",JOVEM PAN NEWS
-http://tv.mapfibra.com.br:8555/live/1280/123456/161.m3u8
-#EXTINF:0,NBT BELEM
-http://tv.mapfibra.com.br:8555/live/1280/123456/247.m3u8
-#EXTINF:0,PLAYTV
-http://tv.mapfibra.com.br:8555/live/1280/123456/255.m3u8
-#EXTINF:0,REDE FAMILIA
-https://tv03.zas.media:1936/rftv/rftv/chunklist_w1545400990.m3u8
-#EXTINF:0,REDE METROPOLE
-http://tv.mapfibra.com.br:8555/live/1280/123456/99.m3u8
-#EXTINF:0,REDE MINAS
-http://tv.mapfibra.com.br:8555/live/1280/123456/101.m3u8
-#EXTINF:0,REDE NGT
-http://tv.mapfibra.com.br:8555/live/1280/123456/227.m3u8
-#EXTINF:0,REDE TV
-http://tv.mapfibra.com.br:8555/live/1280/123456/102.m3u8
-#EXTINF:0,REDE VIDA
-http://tv.mapfibra.com.br:8555/live/1280/123456/103.m3u8
-#EXTINF:0,SESC TV
-http://tv.mapfibra.com.br:8555/live/1280/123456/107.m3u8
-#EXTINF:0,SÉRIES CLÁSSICAS
-http://tv.mapfibra.com.br:8555/live/1280/123456/160.m3u8
-#EXTINF:-1 tvg-name="P CLASSIC" tvg-logo="data:image/png;base64,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", PCLASSIC
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:0,TV APARECIDA
-http://tv.mapfibra.com.br:8555/live/1280/123456/131.m3u8
-#EXTINF:0,TV BRASIL
-http://tv.mapfibra.com.br:8555/live/1280/123456/134.m3u8
-#EXTINF:0,TV BRASIL INTERNACIONAL
-https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:0,TV CÂMARA
-http://tv.mapfibra.com.br:8555/live/1280/123456/136.m3u8
-#EXTINF:0,TV JUSTIÇA
-http://tv.mapfibra.com.br:8555/live/1280/123456/138.m3u8
-#EXTINF:0,TV SENADO
-http://tv.mapfibra.com.br:8555/live/1280/123456/139.m3u8
-#EXTINF:0,WOOHOO
-http://tv.mapfibra.com.br:8555/live/1280/123456/141.m3u8
-#EXTINF:0,ZOOMOO
-http://tv.mapfibra.com.br:8555/live/1280/123456/162.m3u8
-
-#EXTINF:0,CBS
-http://tkosportz.live:25461/folalawal@/4044225438/10374
-#EXTINF:0,NBC
-http://4.59.210.197:8815/udp/127.0.0.1:6009
-#EXTINF:0,ABC
-http://173.225.32.123/KSFY-2363/index.m3u8
-#EXTINF:0,FOX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-
-#EXTINF:-1 tvg-name="CBS NEWS PLUTO TV" tvg-logo="https://s10.s3c.es/imag/_v0/770x420/6/6/d/PLUTO-CBS.jpg", CBS NEWS PLUTO TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
-#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/960px-NBC_News_%282023%29.svg.png", NBC NEWS
-https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-500x281.png", ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://m.media-amazon.com/images/I/41WdJb50GNL.png", CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,CGTN ESPANOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,DW ESPANOL
@@ -516,14 +524,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0,24H TVE
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-name="REDE BRASIL VIRTUAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL VIRTUAL
-https://video03.logicahost.com.br/redevirtualtv/redevirtualtv/chunklist_w1868546160.m3u8
-#EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS
-https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1060675474.m3u8
-#EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
-#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV
-https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w437143413.m3u8
+
 
 #EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
 http://208.86.19.13:81/102.stream/index.m3u8
@@ -697,33 +698,22 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-name="3CAT CAMERAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/150px-TV3CAT.svg.png",3 CAT CAMERAS
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/bitrate_3.m3u8
-
 #EXTINF:-1 tvg-name="TV 3CAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/150px-TV3CAT.svg.png",TV 3CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_3.m3u8
-
 #EXTINF:-1 tvg-name="TV 3CAT INTERNACIONAL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/150px-TV3CAT.svg.png",TV 3CAT INTERNACIONAL
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_3.m3u8
-
-
 #EXTINF:-1 tvg-name="TVE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/250px-Logo_La_1.svg.png",TVE1
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-name="TVE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/250px-Logo_La_2.svg.png",TVE2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-name="TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png",TVE 24H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/250px-Logo_TVE-Internacional.svg.png",TVE INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-name="TVE STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", TVE STAR
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-name="TVE CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clan_logo.svg/250px-Clan_logo.svg.png", TVE CLAN
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
-
-
 #EXTINF:-1 tvg-name="TVG1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/250px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", TVG1
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="TVG2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/250px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", TVG2
