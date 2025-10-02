@@ -1,14 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="GLOBO REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO REDE
-https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTI1NTYyNiwiaWF0IjoxNzU5MjM0MDI2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.mU3Rcbp6_w6e2-m7tLKnkH7xynHQiH-A2ICJB43_8W9H4JwexHUgsj8uhbfuCqic_I5oiXXJgVi_ffr7Uemt1WgQliwVYmdP0N9S_y_1ODrgOF0970ipb40DHozXiojmYxtPkCaLwe_hSjLHuz_9a56R1KFskZikuQwHLEMcbyDCLGEHzFQF_tPI7tFyiKXkpg6Kd_d6Bo0UHU9aKD0nXU2dMQSONl8xziecD081BE1KruCLpD7i4yqgJ_Ig61u7csF60M4tA5QtrB_fKCTtsamJ4RYh1tp_zqKILHqNF6WAsZFU3ogkHd6zCBChDlTRaj8-3Ve6ko_oUVaR8FPe1g/live/f(i=2)/globo-rede/playlist.m3u8
+#EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO REDE
+https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTQzMzUwMCwiaWF0IjoxNzU5NDExOTAwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.nLXgwBy2k35i1C59BDoPd4J_py5S1nY11ywg6ZslumSWaj1zEJx406Ya1Mr8-LpYisi7DJ3q91veKneXFmTZlwvJdO5z7RNoewfl7DtNZ51p6bAICODpQsn9CYfpFU75Fmc7He4TOvUbxaXHTShOxXZbe0_K91huTBQFK1xJJfspYLtCIIeFPBI281oZ1VPQGS4Bk3zwPGYcx4zFWHK6R5dCOhuKxf53HXVUMHkVPdhkFIGBv6zdV_1q13cgDgo1X08CIpQeDJ0C7enmf6GPwftO6mqxzYrhajTE_H_n_OH3ZFbfml3yOB4M6q6vn2jDM84hGQC7foMSG5W6sgJ1UA/live/f(i=2)/globo-rede/globo-rede-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-name="GLOBO RIO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RIO
-https://live-tvg-df-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTI1NTc3NiwiaWF0IjoxNzU5MjM0MTc2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.CImi0Eq4IS3ipG23pjbDIOMkbtRGJVrdLy3eJJu2sxPIiLbIPBEro4-9EhrjJ8BCSLNWWNO0okNQPmFiMP7Hqpygr4oJFl9bibLdoSEWiou0NW7-ALadw_JjQoiUFT_o1Rl2NGjY8GLADDTLGfuFMjtGmt_uypAy3oF9NDfdqRGMs0hjKusg2tIdOp5xaWlugDfdGjgkWH05RJ9k1sXkfX2oqp2WHYnATJeFsQuXEL4WI-FIhwwjsZA55HHO6qttUcf9h-9Pn3bQpjqsCc9AwjYg0sIRQy1_vCaNB-iv-UkyGAJgDOlEI0mVNIdL99cIDpev2_O-SQh1JOUEL38tdA/live/f(i=2)/globo-rj/playlist.m3u8
-
+http://79.127.238.228:14217/
+#EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SP
+http://79.127.238.228:14211/
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",TV BAHIA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
 http://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 #EXTINF:-1 tvg-name="ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV ZIMBO ANGOLA
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV ZIMBO ANGOLA
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.m3u8
 
 #EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD
 http://tv.mapfibra.com.br:8555/live/1280/123456/19.m3u8
@@ -113,8 +118,6 @@ http://173.225.32.123/KSFY-2363/index.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
-#EXTINF:-1 tvg-name="CBS NEWS PLUTO TV" tvg-logo="https://s10.s3c.es/imag/_v0/770x420/6/6/d/PLUTO-CBS.jpg", CBS NEWS PLUTO TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/960px-NBC_News_%282023%29.svg.png", NBC NEWS
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-500x281.png", ABC NEWS
@@ -129,7 +132,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0,v52.1
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v52.1
-#EXTINF:0,2.1 KCBS-HD
+#EXTINF:0,2.1 CBS-HD
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v2.1
 #EXTINF:0,2.2 StartTV
@@ -141,7 +144,7 @@ http://173.229.4.246:5004/auto/v2.3
 #EXTINF:0,2.4 FaveTV
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v2.4
-#EXTINF:0,4.1 NBC4-LA
+#EXTINF:0,4.1 NBC
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v4.1
 #EXTINF:0,4.2 COZI-TV
@@ -153,7 +156,7 @@ http://173.229.4.246:5004/auto/v4.3
 #EXTINF:0,4.4 Oxygen
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v4.4
-#EXTINF:0,5.1 KTLADT
+#EXTINF:0,5.1 KTLA
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v5.1
 #EXTINF:0,5.2 Antenna
@@ -168,7 +171,7 @@ http://173.229.4.246:5004/auto/v5.4
 #EXTINF:0,5.5 Rewind
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v5.5
-#EXTINF:0,7.1 KABC DT
+#EXTINF:0,7.1 ABC
 #EXTVLCOPT:network-caching=1000
 http://173.229.4.246:5004/auto/v7.1
 #EXTINF:0,7.2 LOCLsh
@@ -718,6 +721,8 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-1 tvg-name="TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/250px-Logo_Canal_24_horas.svg.png",TVE 24H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:-1 tvg-name="TVE TDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/250px-Tve_teledeporte.png", TELEDEPORTE
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/250px-Logo_TVE-Internacional.svg.png",TVE INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 #EXTINF:-1 tvg-name="TVE STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", TVE STAR
