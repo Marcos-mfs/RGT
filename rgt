@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO REDE
-https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTQzMzUwMCwiaWF0IjoxNzU5NDExOTAwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.nLXgwBy2k35i1C59BDoPd4J_py5S1nY11ywg6ZslumSWaj1zEJx406Ya1Mr8-LpYisi7DJ3q91veKneXFmTZlwvJdO5z7RNoewfl7DtNZ51p6bAICODpQsn9CYfpFU75Fmc7He4TOvUbxaXHTShOxXZbe0_K91huTBQFK1xJJfspYLtCIIeFPBI281oZ1VPQGS4Bk3zwPGYcx4zFWHK6R5dCOhuKxf53HXVUMHkVPdhkFIGBv6zdV_1q13cgDgo1X08CIpQeDJ0C7enmf6GPwftO6mqxzYrhajTE_H_n_OH3ZFbfml3yOB4M6q6vn2jDM84hGQC7foMSG5W6sgJ1UA/live/f(i=2)/globo-rede/globo-rede-audio_1=96000-video=3442944.m3u8
+http://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc2MTUxNDIzNCwiaWF0IjoxNzYxNDkyNjM0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcmVkZS9wbGF5bGlzdC5tM3U4In0.g-jVneUDpRf6Int9qo_ZP1PhwttEBTyqo1zz-pbQl_xnd87mA9CvXqIA7zxifNL0dUg6JytJ6ZBax7ybCwLnXc-xT-lRcVG5iliP-UYMI6GIhp5x_Y2IU9f7TVe-gWj7CGDjsmKer_UTNAelwE0kt0HwRCHal4We5_5Z0g_Db-wGiofH4mTSfx8_NthmYOOXlfvA8D-YezcNRvqBnPPqDzb5zpY4YVpFwxpVe3Sl71vO4nQmg3TVkJH64LnWh3uXakqNmn9b1Ob_Hsu3_tCt-tqanUeLmKSVYqAjFjFeMaRFTCWTIuYrkROih3GOSbb2d0-p8NYeXVt9WVoLlh_oNw/live/f(i=2)/globo-rede/globo-rede-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-name="GLOBO RIO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RIO
 http://79.127.238.228:14217/
 #EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SP
@@ -9,11 +9,10 @@ http://79.127.238.228:14211/
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
-http://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
-#EXTINF:-1 tvg-name="ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV ZIMBO ANGOLA
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="ZIMBO" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV ZIMBO ANGOLA
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.m3u8
+http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b7132296.m3u8
+#EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
+http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
+
 
 #EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD
 http://tv.mapfibra.com.br:8555/live/1280/123456/19.m3u8
@@ -25,6 +24,8 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/96.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/104.m3u8
 #EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://acstatic.co/logos/canais/redetv.png", REDE TV!
 http://tv.mapfibra.com.br:8555/live/2003/123456/102.m3u8
+#EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://acstatic.co/logos/canais/redetv.png", REDE TV! SINAL TESTE
+https://live.eu-north-1a.cf.dmcdn.net/sec2(w7Vj1wvQUz-oYHL9VKtvL0xRF93Vj6W2PjB-ZwVYI6OHm8EnoK6Vg2kBvpS-TtSZ5eILpl0iZvTCoZ1mT0tfSQKqtc7iB6W7rmZD4FgCKZul9yTRCnUKMsZ60vK41MxG)/dm/3/x8xps0s/d/live-1080.m3u8
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://acstatic.co/logos/canais/tvcultura.png", TV CULTURA SINAL 01
 http://tv.mapfibra.com.br:8555/live/1280/123456/230.m3u8
 #EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png", GLOBONEWS HD
@@ -702,10 +703,11 @@ https://strm.hdtvizlecanli.com/live/zdf.m3u8
 
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_de_Televisa.svg",LAS ESTRELLAS
 http://45.5.119.108:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",FOX NEWS
-http://58.65.205.171:8000/play/a06p
 #EXTINF:-1 tvg-name="FORO TV" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_de_Televisa.svg",FORO TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",FOX NEWS
+http://58.65.205.171:8000/play/a06p
 #EXTINF:0, TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
@@ -733,4 +735,11 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="TVG2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/250px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", TVG2
 https://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL" tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png",UNITEL HD
+https://master.tucableip.com/muxunitelsc/index.mpd
+#EXTINF:-1 tvg-name="RED UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/250px-Uno_logo.svg.png",RED UNO
+https://master.tucableip.com/muxredunosc/index.mpd
+#EXTINF:-1 tvg-name="RED UNO" tvg-logo="",TEST01
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451459
 
