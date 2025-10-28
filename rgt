@@ -744,6 +744,197 @@ https://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks.m3u8
 https://master.tucableip.com/muxunitelsc/index.mpd
 #EXTINF:-1 tvg-name="RED UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/250px-Uno_logo.svg.png",RED UNO
 https://master.tucableip.com/muxredunosc/index.mpd
-#EXTINF:-1 tvg-name="RED UNO" tvg-logo="",TEST01
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451459
+
+#EXTINF:11,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02t/index.m3u8
+#EXTINF:0,Arte 1 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02x/index.m3u8
+#EXTINF:0,Band HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a039/index.m3u8
+#EXTINF:0,Band Sports HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06c/index.m3u8
+#EXTINF:0,CNN Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02d/index.m3u8
+#EXTINF:0,Canal Sony HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02s/index.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02g/index.m3u8
+#EXTINF:0,Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a01y/index.m3u8
+#EXTINF:0,Cultura HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06n/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02v/index.m3u8
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02w/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03e/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03f/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02b/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06a/index.m3u8
+#EXTINF:0,ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06b/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a05g/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02a/index.m3u8
+#EXTINF:0,GE TV HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06t/index.m3u8
+#EXTINF:0,GNT HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a020/index.m3u8
+#EXTINF:0,GloboNews HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03h/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a0ko/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a04u/index.m3u8
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a04z/index.m3u8
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a04y/index.m3u8
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a04w/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a04v/index.m3u8
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02q/index.m3u8
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03g/index.m3u8
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a01w/index.m3u8
+#EXTINF:0,MTV's 00
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03z/index.m3u8
+#EXTINF:0,Multishow HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a021/index.m3u8
+#EXTINF:0,NSPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a056/index.m3u8
+#EXTINF:0,Paramount Network HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a01z/index.m3u8
+#EXTINF:0,Premiere 3 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a052/index.m3u8
+#EXTINF:0,Premiere 4 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a022/index.m3u8
+#EXTINF:0,Premiere 5 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06o/index.m3u8
+#EXTINF:0,Record HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03d/index.m3u8
+#EXTINF:0,Rede Vida HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a05z/index.m3u8
+#EXTINF:0,RedeTV! HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03c/index.m3u8
+#EXTINF:0,SBT HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03a/index.m3u8
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02k/index.m3u8
+#EXTINF:0,SporTV HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a097/index.m3u8
+#EXTINF:0,SporTV2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a050/index.m3u8
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02u/index.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a069/index.m3u8
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a04f/index.m3u8
+#EXTINF:0,TNT SØries HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02i/index.m3u8
+#EXTINF:0,TV Aparecida HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02f/index.m3u8
+#EXTINF:0,Telecine Pipoca HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03k/index.m3u8
+#EXTINF:0,Telecine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03i/index.m3u8
+#EXTINF:0,Telecine Touch HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a03j/index.m3u8
+#EXTINF:0,Trace Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a05y/index.m3u8
+#EXTINF:0,VH1 HD 
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a01x/index.m3u8
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a02r/index.m3u8
+#EXTINF:0,Xsports HD
+#EXTVLCOPT:network-caching=1000
+http://200.4.96.59:8825/play/a06s/index.m3u8
+
+
+#EXTINF:0, HLN
+https://stream1.freetv.fun/hln-3.m3u8
+#EXTINF:0,CNN
+https://stream1.freetv.fun/cnn-2.ctv
+#EXTINF:0,CNN INT
+https://stream1.freetv.fun/cnn-int-3.m3u8
+#EXTINF:0,CNN INT SIGNAL2
+https://stream1.freetv.fun/cnn-int-1.m3u8
+#EXTINF:0,CNN
+https://stream1.freetv.fun/acnn-2.m3u8
+#EXTINF:0,CNN
+https://stream1.freetv.fun/cnn--m-1.ctv
+#EXTINF:0,CNN EUROPE
+https://stream1.freetv.fun/cnn-4.ctv
+
+#EXTINF:0,CNN
+https://stream1.freetv.fun/cnn--s-1.m3u8
+
+#EXTINF:0,CNN
+https://stream1.freetv.fun/acnn-1.m3u8
+
+
 
