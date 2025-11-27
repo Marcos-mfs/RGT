@@ -24,6 +24,8 @@ http://200.4.96.59:8825/play/a03c/index.m3u8
 #EXTINF:0,SBT HD
 #EXTVLCOPT:network-caching=1000
 http://200.4.96.59:8825/play/a03a/index.m3u8
+#EXTINF:-1 tvg-name="+SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",+SBT
+https://aovivo.maissbt.com/channel_1080.m3u8
 #EXTINF:11,Globo HD
 #EXTVLCOPT:network-caching=1000
 http://200.4.96.59:8826/play/a0fk/index.m3u8
@@ -200,9 +202,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:0,SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0,AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",SBT
-https://aovivo.maissbt.com/channel_1080.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:0,CNN ESPAÑOL
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 
