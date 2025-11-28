@@ -125,6 +125,14 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/162.m3u8
 #EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS LOOP SMALVILLE
 https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1060675474.m3u8
 
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS WEST PALM BEACH FL
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC TAMPA FL
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+
 #EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
 https://tvpass.org/live/WNBCDT1/hd
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/250px-WABC_TV_New_2021.svg.png", WABC
