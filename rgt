@@ -134,12 +134,11 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 
 #EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
-https://tvpass.org/live/WNBCDT1/hd
+https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/250px-WABC_TV_New_2021.svg.png", WABC
-https://tvpass.org/live/WABCDT1/hd
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173034&extension=ts&play_token=s3HnACs6Kk
 #EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png", WCBS
-https://tvpass.org/live/WCBSDT1/hd
-
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
 #EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS
 http://tkosportz.live:25461/folalawal@/4044225438/10374
 #EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC
@@ -1997,6 +1996,9 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:24,EROXXX EUROPE
 #EXTVLCOPT:network-caching=1000
 http://31.148.48.15/French_Lover/mono.m3u8
+
+
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
 
 
 
