@@ -8,8 +8,15 @@ https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173034&extension=ts&play_token=s3HnACs6Kk
 #EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png", WCBS
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
-#EXTINF:-1 tvg-name="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png/250px-Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png",TVE LA1 UHD
-http://176.65.146.237:8401/play/a09u/index.m3u8
+
+EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",KCBS-TV CBS 2 (Los Angeles CA)
+https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",KNBC-TV NBC 4 (Los Angeles CA)
+https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",KTLA-TV CW 5 (Los Angeles CA)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
+https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 
 #EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO
 http://79.127.238.228:14217/
