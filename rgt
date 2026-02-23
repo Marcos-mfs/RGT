@@ -2,21 +2,6 @@
 #EXTINF:0, MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
-https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/250px-WABC_TV_New_2021.svg.png", WABC
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173034&extension=ts&play_token=s3HnACs6Kk
-#EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png", WCBS
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
-
-EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",KCBS-TV CBS 2 (Los Angeles CA)
-https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",KNBC-TV NBC 4 (Los Angeles CA)
-https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",KTLA-TV CW 5 (Los Angeles CA)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
-https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 
 #EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO
 http://79.127.238.228:14217/
@@ -1960,6 +1945,236 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:24,EROXXX EUROPE
 #EXTVLCOPT:network-caching=1000
 http://31.148.48.15/French_Lover/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="ES:Telecinco HD" tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA ←",ES:Telecinco HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12330
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES:Cuatro HD" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←",ES:Cuatro HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12331
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES:Antena 3 HD" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←",ES:Antena 3 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12332
+#EXTINF:-1 tvg-id="La 2" tvg-name="ES:La 2 HD" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←",ES:La 2 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12333
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES:La 1 HD" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←",ES:La 1 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12334
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES:LA 1 HD HEVC" tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←",ES:LA 1 HD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12335
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="ES:WARNER HD" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←",ES:WARNER HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12336
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ES:#VAMOS HD" tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←",ES:#VAMOS HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12338
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="ES:MOVISTAR SERIES HD" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←",ES:MOVISTAR SERIES HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12339
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="ES:24 HORAS" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←",ES:24 HORAS
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12340
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANNEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←",ES:DISNEY CHANNEL HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12341
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES:ACCION HD" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←",ES:ACCION HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12342
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12343
+#EXTINF:-1 tvg-id="Historia" tvg-name="ES:HISTORIA" tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" group-title="→ ESPAÑA ←",ES:HISTORIA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12344
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:MOVISTAR DEPORTES FHD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTES FHD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12345
+#EXTINF:-1 tvg-id="M+ Suspense HD" tvg-name="ES:MOVISTAR SUSPENSE" tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="→ ESPAÑA ←",ES:MOVISTAR SUSPENSE
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12347
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES:DAZN 1 SD" tvg-logo="https://i.ibb.co/rmvhsK3/M1SD.png" group-title="→ ESPAÑA ←",ES:DAZN 1 SD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12348
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES:Odisea HD" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←",ES:Odisea HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12349
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:Movistar LaLiga HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←",ES:Movistar LaLiga HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12350
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES:COSMO" tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA ←",ES:COSMO
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12351
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES:MOVISTAR DRAMA HD HEVC" tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←",ES:MOVISTAR DRAMA HD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12352
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:MOVISTAR DEPORTESHD HEVC" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTESHD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12353
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="ES:LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" group-title="→ ESPAÑA ←",ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12354
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES:HOLLYWOODHD HEVC" tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←",ES:HOLLYWOODHD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12355
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES:FOX HD HEVC" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←",ES:FOX HD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12357
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="ES:EUROSPORT 1 HD HEVC" tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" group-title="→ ESPAÑA ←",ES:EUROSPORT 1 HD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12358
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES:COMEDY CENTRAL HD HEVC" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←",ES:COMEDY CENTRAL HD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12359
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="ES:#VAMOS HD HEVC" tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←",ES:#VAMOS HD HEVC
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12360
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←",ES:AMC BREAK
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12365
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="ES:BABY TV" tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ ESPAÑA ←",ES:BABY TV
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12366
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="ES:MOVISTAR ORIGINALES HD" tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="→ ESPAÑA ←",ES:MOVISTAR ORIGINALES HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12367
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="ES:24 Horas HD" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←",ES:24 Horas HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12368
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ES:A3 Series HD" tvg-logo="https://i.ibb.co/MPXTDdd/ATRESS.png" group-title="→ ESPAÑA ←",ES:A3 Series HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12369
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:MOVISTAR LALIGA HD" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←",ES:MOVISTAR LALIGA HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12370
+#EXTINF:-1 tvg-id="Bloomberg TV Europe" tvg-name="ES:BLOOMBERG" tvg-logo="https://i.ibb.co/MRzq0f4/BL.png" group-title="→ ESPAÑA ←",ES:BLOOMBERG
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12371
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF HD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12372
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES:CANAL ODISEA" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←",ES:CANAL ODISEA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12373
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="ES:CANAL SUR" tvg-logo="https://i.ibb.co/0jvhmDR/CANSUR.png" group-title="→ ESPAÑA ←",ES:CANAL SUR
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12374
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES:AMC CRIME" tvg-logo="https://i.ibb.co/DVwmC0m/CYM.png" group-title="→ ESPAÑA ←",ES:AMC CRIME
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12375
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES:DISCOVERY HD" tvg-logo="https://i.ibb.co/0C4srzC/DCR.png" group-title="→ ESPAÑA ←",ES:DISCOVERY HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12376
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES:DMAX" tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA ←",ES:DMAX
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12377
+#EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-name="ES:GALICIA TV" tvg-logo="https://i.ibb.co/GCgcy78/TVGAL.png" group-title="→ ESPAÑA ←",ES:GALICIA TV
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12379
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="ES:Movistar LaLiga" tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←",ES:Movistar LaLiga
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12380
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="ES:MOVISTAR DEPORTES 2 HD" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←",ES:MOVISTAR DEPORTES 2 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12382
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="ES:MOVISTAR COMEDIA HD" tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←",ES:MOVISTAR COMEDIA HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12383
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="ES:MOVISTAR SERIE HD" tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←",ES:MOVISTAR SERIE HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12384
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES:TOROLE TV HD" tvg-logo="https://i.ibb.co/St6Dg05/torole.png" group-title="→ ESPAÑA ←",ES:TOROLE TV HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12392
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES:TRECE TV" tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA ←",ES:TRECE TV
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12393
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="ES:TVE 24H" tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←",ES:TVE 24H
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12394
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="ES:Teledeporte HD" tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA ←",ES:Teledeporte HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12395
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES:MADRID TV HD" tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←",ES:MADRID TV HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12396
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES:DAZN F1 HD" tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA ←",ES:DAZN F1 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12397
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="ES:MOVISTAR GOLF FHD" tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←",ES:MOVISTAR GOLF FHD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12398
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="ES:Movistar Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←",ES:Movistar Deportes HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12399
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="ES:IBERALIA TV" tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←",ES:IBERALIA TV
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12400
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="ES:GOL PLAY" tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" group-title="→ ESPAÑA ←",ES:GOL PLAY
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12401
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA ←",ES:Movistar Liga de Campeones HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12404
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES:MEZZO LIVE HD" tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←",ES:MEZZO LIVE HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12405
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES:Mega HD" tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA ←",ES:Mega HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12406
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES:FOX HD" tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←",ES:FOX HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12408
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="ES:FDF HD" tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA ←",ES:FDF HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12409
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES:DKISS" tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA ←",ES:DKISS
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12410
+#EXTINF:-1 tvg-id="Divinity" tvg-name="ES:Divinity HD" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←",ES:Divinity HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12411
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←",ES:DISNEY CHANEL HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12412
+#EXTINF:-1 tvg-id="Divinity" tvg-name="ES:DIVINITY SD" tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←",ES:DIVINITY SD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12413
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="→ ESPAÑA ←",ES:Disney Jr
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12414
+#EXTINF:-1 tvg-id="Decasa" tvg-name="ES:CANAL DECASA" tvg-logo="https://i.ibb.co/GM66GvR/DECASA.png" group-title="→ ESPAÑA ←",ES:CANAL DECASA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12415
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES:Cosmo HD" tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA ←",ES:Cosmo HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12416
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES:Comedy Central HD" tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←",ES:Comedy Central HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12417
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="ES:CANAL COCINA" tvg-logo="https://i.ibb.co/x2VVRrS/CACOC.png" group-title="→ ESPAÑA ←",ES:CANAL COCINA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12418
+#EXTINF:-1 tvg-id="Clan" tvg-name="ES:CLAN TVE" tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←",ES:CLAN TVE
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12419
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="ES:Caza y Pesca HD" tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←",ES:Caza y Pesca HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12420
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="ES:CALLE 13 HD" tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←",ES:CALLE 13 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12421
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←",ES:AMC BREAK
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12422
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ES:Be Mad HD" tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA ←",ES:Be Mad HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12423
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←",ES:AXN MOVIES HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12425
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES:AXN HD" tvg-logo="https://i.ibb.co/CH7Fr1q/AXN.png" group-title="→ ESPAÑA ←",ES:AXN HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12426
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ES:ARAGON TV" tvg-logo="https://i.ibb.co/bPwWv5J/ARAGTV.png" group-title="→ ESPAÑA ←",ES:ARAGON TV
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12427
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES:AMC HD" tvg-logo="https://i.ibb.co/3f0jppr/AMC.png" group-title="→ ESPAÑA ←",ES:AMC HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12428
+#EXTINF:-1 tvg-id="Nova" tvg-name="ES:Nova HD" tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA ←",ES:Nova HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12429
+#EXTINF:-1 tvg-id="Boing" tvg-name="ES:Boing HD" tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" group-title="→ ESPAÑA ←",ES:Boing HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12430
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES:HOLLYWOOD HD" tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←",ES:HOLLYWOOD HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12431
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES:XTRM" tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" group-title="→ ESPAÑA ←",ES:XTRM
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12432
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="ES:BUEN VIAJE HD" tvg-logo="https://i.ibb.co/PT2Rthq/BUENV.png" group-title="→ ESPAÑA ←",ES:BUEN VIAJE HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12433
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="ES:WARNER SD" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←",ES:WARNER SD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12434
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ES:TELEMADRID HD" tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←",ES:TELEMADRID HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12435
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES:TCM HD" tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←",ES:TCM HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12436
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="ES:SYFY HD" tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←",ES:SYFY HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12437
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="ES:SUNDANCE HD" tvg-logo="https://i.ibb.co/vh9Qz0V/SUNDAN.png" group-title="→ ESPAÑA ←",ES:SUNDANCE HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12438
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="ES:PARAMOUNT NETWORK" tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA ←",ES:PARAMOUNT NETWORK
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12439
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ES:ENFAMILIA" tvg-logo="https://i.ibb.co/Fmkk9Cj/PANDA.png" group-title="→ ESPAÑA ←",ES:ENFAMILIA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12440
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ES:ODISEA" tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←",ES:ODISEA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12441
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="ES:NICKELODEON HD" tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←",ES:NICKELODEON HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12442
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="ES:NICK JUNIOR" tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" group-title="→ ESPAÑA ←",ES:NICK JUNIOR
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12443
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="ES:NAT GEO WILD HD" tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←",ES:NAT GEO WILD HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12444
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES:NAT GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/cwt5sVk/NATGEO.png" group-title="→ ESPAÑA ←",ES:NAT GEOGRAPHIC HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12445
+#EXTINF:-1 tvg-id="MTV España" tvg-name="ES:MTV ESPAÑA" tvg-logo="https://i.ibb.co/fDHQk0m/MTV.png" group-title="→ ESPAÑA ←",ES:MTV ESPAÑA
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12446
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="ES:MOVISTAR CINE HD" tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="→ ESPAÑA ←",ES:MOVISTAR CINE HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12447
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="ES:MOVISTAR CINE ESPAÑOL HD" tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←",ES:MOVISTAR CINE ESPAÑOL HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12448
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANNEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←",ES:DISNEY CHANNEL HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12449
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES:MOVISTAR ACCION HD" tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←",ES:MOVISTAR ACCION HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12450
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ES:La Sexta HD" tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA ←",ES:La Sexta HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12451
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES:Cuatro HD" tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←",ES:Cuatro HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12452
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES:Antena 3 HD" tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←",ES:Antena 3 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12453
+#EXTINF:-1 tvg-id="La 2" tvg-name="ES:TVE LA 2 HD" tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←",ES:TVE LA 2 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12454
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ES:TVE LA 1 HD" tvg-logo="1 mes por € 6.99 3 meses por € 14.99 6 meses por € 29.99 1 año por € 49.99" group-title="→ ESPAÑA ←",ES:TVE LA 1 HD
+http://canal-pro.xyz:8080/996794768tv/a32hd22/12455
+
+#EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
+https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/250px-WABC_TV_New_2021.svg.png", WABC
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173034&extension=ts&play_token=s3HnACs6Kk
+#EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png", WCBS
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
+
+EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",KCBS-TV CBS 2 (Los Angeles CA)
+https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",KNBC-TV NBC 4 (Los Angeles CA)
+https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",KTLA-TV CW 5 (Los Angeles CA)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
+https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
+
 
 
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
