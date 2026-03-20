@@ -60,9 +60,9 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/280.m3u8
 #EXTINF:0,CNT
 http://tv.mapfibra.com.br:8555/live/1280/123456/303.m3u8
 #EXTINF:0,TV BRASIL
-http://tv.mapfibra.com.br:8555/live/1280/123456/294.m3u8
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
 #EXTINF:0,TV BRASIL INTERNACIONAL
-https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_3000000=10003.m3u8
 #EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
