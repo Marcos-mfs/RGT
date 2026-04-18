@@ -51,7 +51,7 @@ http://tv5.skaz.tv/6/tracks-v1a1/mono.m3u8?token=xJI5DVMjmrTRP2
 https://hplay.tv/augetv/12396547488/10.m3u8
 #EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small", GLOBO RECIFE
 https://hplay.tv/augetv/12396547488/11.m3u8
-#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small", TVSD
+#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small", TV SERRA DOURADA SBT
 http://linesource.cc:8080/4cBmc2bmpxsJjm2XCCbM02I5yUOYxKN7/eiXGLIK5j2LgQSHsBycbmbJ7saLCDx6PdS/8679
 
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
@@ -114,6 +114,14 @@ https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS
+http://89.187.178.197:1970/CBSNewYork/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC
+http://89.187.178.197:1970/NBCNewYork/index.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC
+http://89.187.178.197:1970/ABCNewYork/index.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/250px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", FOX
+http://89.187.178.197:1970/FOXNewYork/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS
 http://tkosportz.live:25461/folalawal@/4044225438/10374
