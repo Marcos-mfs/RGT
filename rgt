@@ -1253,11 +1253,16 @@ http://31.148.48.15/French_Lover/mono.m3u8
 
 
 #EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/250px-WNBC_4_NY.svg.png", WNBC
-https://fl61.moveonjoy.com/NY_New_York_NBC/tracks-v1a1/mono.ts.m3u8
+http://74.89.88.102:5004/auto/v4.1
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/250px-WABC_TV_New_2021.svg.png", WABC
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173034&extension=ts&play_token=s3HnACs6Kk
+http://74.89.88.102:5004/auto/v7.1
 #EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png", WCBS
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
+http://74.89.88.102:5004/auto/v2.1
+#EXTINF:-1 tvg-name="WFOXNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/250px-Fts-new-york-a.svg.png", WFOXNY
+http://74.89.88.102:5004/auto/v5.1
+#EXTINF:-1 tvg-name="WTELEMUNDO 47" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Logotipo_da_WNJU.png/250px-Logotipo_da_WNJU.png", WTELEMUNDO 47
+http://74.89.88.102:5004/auto/v47.1
+
 
 EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",KCBS-TV CBS 2 (Los Angeles CA)
 https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8
