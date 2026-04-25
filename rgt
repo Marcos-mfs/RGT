@@ -20,8 +20,6 @@ https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3NTE0MjkxNywibmJmIjoxNzc1MTQyOTE3LCJleHAiOjE3Nzc3MzQ5MTcsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.bfIFVUnrWL8N5MDnUO0pe3IJnlfZGr3ZDDtb6H4TV38&uid=395f5df7-a052-44eb-8d47-0d5db91321cf
 #EXTINF:0 type="stream" channelId="2562" aspect-ratio="16:9" size="Small", RECORD
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:0 type="stream" channelId="2562" aspect-ratio="16:9" size="Small", RECORD INTERNACIONAL
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:0 type="stream" channelId="2435" aspect-ratio="16:9" size="Small", REDE TV
 https://live.eu-north-1a.cf.dmcdn.net/sec2(gy5-U0YBxdHdrHTPr-dbyLKekXpciSfjKmwEA6XhiYmRPJY27lbf5PEVFOof9_01khgM_M2ok3hFyg5B5lZ-b1tDQ_cqIpXJgecE2egg2_zvacxJrj76G0uXOzYWDL2y)/dm/3/x8xps0s/d/live-1080.m3u8
 #EXTINF:0 type="stream" channelId="2433" aspect-ratio="16:9" size="Small", SBT
@@ -46,6 +44,8 @@ https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00
 https://d277k9d1h9dro4.cloudfront.net/out/v1/2a9b0375a99e49a9b84feea2b46e2871/index_1.m3u8
 #EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
+#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL ALT
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 #EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_3000000=10003.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Rússia 1
@@ -89,6 +89,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 https://virtual.tv.br/blower/alot.php?s=aHR0cHM6Ly9pc2FvY29ycC5jbG91ZGVjYXN0LmNvbS9yZWRlbWVpby90cmFja3MtdjFhMS9tb25vLm0zdTg=
 #EXTINF:-1 tvg-name="RBTV TV MARRECAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MARRECAS
 https://www.tvmarrecas.com.br/servidor/tv/tvmarrecashd/chunklist.m3u8
+#EXTINF:-1 tvg-name="RBTV IMPD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV IMPD
+https://video02.logicahost.com.br/rbtv/rbtv/chunklist_w1285329962.m3u8
 #EXTINF:-1 tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RBTV23.png/250px-RBTV23.png", REDE BRASIL
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w519620079.m3u8
 #EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV
@@ -1273,43 +1275,63 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",KABC-TV ABC 7 (Los Angeles CA)
 https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV 4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777165200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5ee9508ab8206cd76641e5c2cdfddbb2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV1
 http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV2
 http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV3
 http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV4
 http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV5
 http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV6
 http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV7
 http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV8
 http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV9
 http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV10
 http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv11.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv12.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv13.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv14.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv15.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv16.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV
-http://69.30.245.50/live/cctv17.m3u8
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV11
+http://69.30.246.194/live/cctv11.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV12
+http://69.30.246.194/live/cctv12.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV13
+http://69.30.246.194/live/cctv13.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV14
+http://69.30.246.194/live/cctv14.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV15
+http://69.30.246.194/live/cctv15.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV16
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV17
+http://69.30.246.194/live/cctv17.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/960px-NHK_logo.svg.png",NHK
 https://nhk4.mov3.co/hls/nhk.m3u8
+
+
+#EXTINF:11,BRTV 4K
+#EXTVLCOPT:network-caching=1000
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:11,CHINA TV4K
+#EXTVLCOPT:network-caching=1000
+http://182.150.23.74:808/hls/17/index.m3u8
+#EXTINF:11,CHINA TV4K 2
+#EXTVLCOPT:network-caching=1000
+http://183.11.239.36:808/hls/41/index.m3u8
+#EXTINF:11,CHINA TV4K 3
+#EXTVLCOPT:network-caching=1000
+http://120.211.62.180:8000/hls/35/index.m3u8
+#EXTINF:11,CHINA TV4K 4
+#EXTVLCOPT:network-caching=1000
+https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001500/index.m3u8?streamid=20915ffd9b2848bf3604dfea93e5f344&streamkey=0bKBhLQXZpbdLg0IeEcP2ZWPg1LTpAxB7Ns2hHCcgm7Hn9QOXx5mdzLkAhJKIoLyZdrKRK0b96Ukb7NWPMk8v25CQ52qBH9Bj4wiDnbyCgkgvAET5TyGUz5ZsSJWA&token=1775753726-024ff669b48c4157-0-8e77105f63898493d3c467122bd6c61b
+
+
 
 
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=173249&extension=ts&play_token=wCZStT19yS
