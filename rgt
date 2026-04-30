@@ -1276,8 +1276,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/90546.ts
 https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV 4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777165200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5ee9508ab8206cd76641e5c2cdfddbb2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV1
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777642200-1-8455e49f8d69219a753ffc4eae1445d8eb4fbad6e379d17322edd9d3197db43a-e2252a14a307a660a9e3336bc3d38b4c&yid=8455e49f8d69219a753ffc4eae1445d8eb4fbad6e379d17322edd9d3197db43a#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV2
 http://69.30.245.50/live/cctv2.m3u8
@@ -1315,7 +1314,7 @@ http://69.30.246.194/live/cctv17.m3u8
 https://nhk4.mov3.co/hls/nhk.m3u8
 
 
-#EXTINF:11,BRTV 4K
+#EXTINF:11, CHINA BRTV 4K
 #EXTVLCOPT:network-caching=1000
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:11,CHINA TV4K
@@ -1331,6 +1330,80 @@ http://120.211.62.180:8000/hls/35/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001500/index.m3u8?streamid=20915ffd9b2848bf3604dfea93e5f344&streamkey=0bKBhLQXZpbdLg0IeEcP2ZWPg1LTpAxB7Ns2hHCcgm7Hn9QOXx5mdzLkAhJKIoLyZdrKRK0b96Ukb7NWPMk8v25CQ52qBH9Bj4wiDnbyCgkgvAET5TyGUz5ZsSJWA&token=1775753726-024ff669b48c4157-0-8e77105f63898493d3c467122bd6c61b
 
+#EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9" tvg-country="us" size="Small", ABC
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=986280&extension=ts
+#EXTINF:0 type="stream" channelId="3205" aspect-ratio="16:9" tvg-country="us" size="Small", CBS
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=986744&extension=ts
+#EXTINF:0 type="stream" channelId="1442" aspect-ratio="16:9" tvg-country="us" size="Small", NBC
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=987276&extension=ts
+#EXTINF:0 type="stream" channelId="2563" aspect-ratio="16:9" size="Small", BAND
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3NTE0MjkxNywibmJmIjoxNzc1MTQyOTE3LCJleHAiOjE3Nzc3MzQ5MTcsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.bfIFVUnrWL8N5MDnUO0pe3IJnlfZGr3ZDDtb6H4TV38&uid=395f5df7-a052-44eb-8d47-0d5db91321cf
+#EXTINF:0 type="stream" channelId="2562" aspect-ratio="16:9" size="Small", RECORD
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" channelId="2435" aspect-ratio="16:9" size="Small", REDE TV
+https://live.eu-north-1a.cf.dmcdn.net/sec2(gy5-U0YBxdHdrHTPr-dbyLKekXpciSfjKmwEA6XhiYmRPJY27lbf5PEVFOof9_01khgM_M2ok3hFyg5B5lZ-b1tDQ_cqIpXJgecE2egg2_zvacxJrj76G0uXOzYWDL2y)/dm/3/x8xps0s/d/live-1080.m3u8
+#EXTINF:0 type="stream" channelId="2433" aspect-ratio="16:9" size="Small", SBT
+https://aovivo.maissbt.com/channel_1080.m3u8
+#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small", GLOBO
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" tvg-country="br" size="Small", REDE MUNDO RBTV
+https://cdn.br10.sbs/memfs/f74750ce-c186-48c4-a113-0bb760babbbc_output_0.m3u8?session=mXavzM4WkXgaHHqtx6x6Rg
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?_=20210410213323", RBTV 
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" tvg-country="br" size="Small", REDE BRASIL
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" tvg-country="br" size="Small", RBTV MARRECAS
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w2142346203.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://istv.com.br/wp-content/uploads/2023/05/ISTV_COLOR_2024_52.png" aspect-ratio="16:9" size="Small", ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w619786525.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_da_Rede_Meio_Norte.png?20231122180914" aspect-ratio="16:9" size="Small", TV MEIO NORTE
+https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2459" aspect-ratio="16:9" size="Small", TV DIARIO CE
+http://srv.cldplay.in:80/cristiano8541/Silva8541/147730
+#EXTINF:0 type="stream" channelId="5080" aspect-ratio="16:9" size="Small", TV A CRITICA
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=5i8ng478
+#EXTINF:0 type="stream" channelId="1972" aspect-ratio="16:9" size="Small", CNN
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2646" aspect-ratio="16:9" size="Small", SIC NEWS
+https://d277k9d1h9dro4.cloudfront.net/out/v1/2a9b0375a99e49a9b84feea2b46e2871/index_1.m3u8
+#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
+#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL INTERNACIONAL
+https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_3000000=10003.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Rússia 1
+http://tv5.skaz.tv/6/tracks-v1a1/mono.m3u8?token=xJI5DVMjmrTRP2
+#EXTINF:0 type="stream" channelId="2464" aspect-ratio="16:9" size="Small", RBS POA
+https://hplay.tv/augetv/12396547488/10.m3u8
+#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small", GLOBO RECIFE
+https://hplay.tv/augetv/12396547488/11.m3u8
+#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small", TVSD
+http://linesource.cc:8080/4cBmc2bmpxsJjm2XCCbM02I5yUOYxKN7/eiXGLIK5j2LgQSHsBycbmbJ7saLCDx6PdS/8679
+#EXTINF:0 type="stream" channelId="3783" aspect-ratio="16:9" size="Small", RCN COL
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:0 type="stream" channelId="1317" aspect-ratio="16:9" size="Small", FOX NEWS
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:0 type="stream" channelId="2344" aspect-ratio="16:9" size="Small", TVN CHILE
+http://138.121.15.230:9002/TVN/index.m3u8
+#EXTINF:0 type="stream" channelId="4773" aspect-ratio="16:9" size="Small", CARACOL
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:0 type="stream" channelId="1409" aspect-ratio="16:9" size="Small", CITY TV
+http://138.121.15.230:9002/CITY-TV/index.m3u8
+#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small", NHK G HD
+https://nl.utako.moe/NHK_G/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small", BSP4K
+https://nl.utako.moe/bsp4k/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small", NHK G BACKUP
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", REUTERS
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+#EXTINF:0 type="stream" channelId="365" aspect-ratio="16:9" tvg-country="cn" size="Small", CCTV 4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777642200-1-8455e49f8d69219a753ffc4eae1445d8eb4fbad6e379d17322edd9d3197db43a-e2252a14a307a660a9e3336bc3d38b4c&yid=8455e49f8d69219a753ffc4eae1445d8eb4fbad6e379d17322edd9d3197db43a
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" tvg-country="bo" size="Small", BOLIVIA TV7.1
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(fVvpsJ3LVz2qo3jr1Y2rUgwUSRD0noK3hXRQjWjjGJd2pD8VGrTc2yjcq3bJXAMWmEc1z5euM-o9kqwZ7vNhtAEu6R0wP_OOsBHeW76538h8njfUIsunVn59yNT5g5D0)/cloud/3/x9nzqpo/d/live-1080.m3u8
+#EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" size="Small", Item 40
+https://cdn.br10.sbs/memfs/f74750ce-c186-48c4-a113-0bb760babbbc_output_0.m3u8
+#EXTINF:0 type="stream" channelId="613" aspect-ratio="16:9" size="Small", Item 44
+https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NzYxNDI4fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=GKxiosYIWlhorblSJA67Tp8NIPsUaTbp9sBtUJZQQebu5ud~b--qrIZqgco8LrofmBILgIv5V2y67GdTMPt0F-fRxXqulwbVlBb1t~vA1uo8iAtPWP4PElxVeKzc4M1-gZYtB31ndWmBOEMFbJ-kckvqnRv24dQNqzBhHgHKYDDZdHfMKnREeAFBf5OtDIJGBkkX3~tf8goh4~AHUupHrlGoxsjJYIEK7W5SykQgDoeffQRQy6d1NOFB-5~CoVjQjojEIvVtnloVOvDc-D5StwsafrCP-D6FwMNEgJs-j3Innkv04LRsTm60Ay46hH1WV2pDwcAfjSXW-YEuxFu0Gw__
 
 
 
