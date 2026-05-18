@@ -2,12 +2,27 @@
 #EXTINF:0, MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GLOBO SINAL REDE" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO
-http://79.127.238.228:14217/
-#EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SPO
+#EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SP
 http://79.127.238.228:14211/
 #EXTINF:-1 tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TVBahia25.svg/250px-TVBahia25.svg.png",TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO
+http://79.127.238.228:14217/
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO BSB
+http://148.113.209.34/rj-live/rj-live/600104.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO BHE
+http://148.113.209.34/rj-live/rj-live/600106.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO REC
+http://148.113.153.35/rj-live/rj-live/600110.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SPO
+http://148.113.153.35/rj-live/rj-live/600115.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO SSA
+http://148.113.209.34/rj-live/rj-live/600102.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO TV TEM
+http://148.113.153.35/rj-live/rj-live/600116.ts
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO EPTV
+http://148.113.209.34/rj-live/rj-live/600112.ts
 
 #EXTINF:-1 tvg-name="+SBT" tvg-logo="http://imagecdn.sh:80/images/cdeca592bbb91b4c697cb75440c2bf83.png",+SBT
 https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/3c2d8b3d-d987-45f0-adb2-30662bb1e726:SCL2/variant/fcd3d0da2b00412af7dc40c65c20c62c/bandwidth/3860587.m3u8
@@ -129,7 +144,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 
-
 #EXTINF:0,CGTN ESPANOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0,DW ESPANOL
@@ -151,7 +165,7 @@ http://sh.lnott.top:880/dx84.m3u8
 #EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0,RAI NEWS
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1749052994~exp=1749053144~acl=/*~hmac=c32747e9edafa8473c7b71873c4df01bad58b606d66f0308f8a19ca2c443b926
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/exp=1779224207~acl=%2fhls%2flive%2f598326%2frainews1%2f*!%2fhls%2flive%2f598326-b%2frainews1%2f*!%2f*.key~data=hdntl~hmac=f8ab6a1f6f3ae39a59166d10374270c5e65d733962374070c08b1e54d649f017/chunklist.m3u8?aka_me_session_id=AAAAAAAAAACPzgxqAAAAAJLJmg68cbO6+GepSmVfGxTVGCJe2ulGBngr63oAhN++KsBW00avV4fUY9gC2H5CJ+cbflVzIRTW&aka_media_format_type=hls
 #EXTINF:0,CNN PORTUGAL
 https://video-auth5.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjUgNDo0OjQ5IFBNJmhhc2hfdmFsdWU9YXlUUE1sQm5KeGJpdEhmUTlhZnNVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThjOWUxOWZlLTYxNWMtNDgxZi1hMWUwLTUwOWRjZDE3YjE0Nw==
 #EXTINF:0,CNN INTERNATIONAL
@@ -174,8 +188,6 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 
 
-#EXTINF:0,Smithsonian Channel Pluto TV (BR)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:0,TPA INTERNACIONAL SD
 http://tv14s.xyz:8080/13851097/13851097/164855
 #EXTINF:0 type="stream" channelId="2433" name="SBT" group="Canais | SBT" logo="https://imgur.com/w2CTebZ.png", ÷SBT SP HD
@@ -275,73 +287,25 @@ https://stream1.freetv.fun/cnn--m-1.ctv
 https://stream1.freetv.fun/cnn-4.ctv
 #EXTINF:0,CNN ESPANOL LATAM
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+#EXTINF:0,REUTERS
+#EXTVLCOPT:network-caching=1000
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
 #EXTINF:11,Canal 11
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a07r/index.m3u8
-#EXTINF:0,3ACINE
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05z/index.m3u8
-#EXTINF:0,A&E
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a034/index.m3u8
-#EXTINF:0,A&E HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01x/index.m3u8
 #EXTINF:0,AGROTENDENCIA IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a090/index.m3u8
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01i/index.m3u8
-#EXTINF:0,AMC HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01y/index.m3u8
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01g/index.m3u8
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a027/index.m3u8
 #EXTINF:0,AZ HONDURAS
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06h/index.m3u8
-#EXTINF:0,AZ click HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:11,AZTECA 7
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06s/index.m3u8
-#EXTINF:0,AZTECAUNO CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07d/index.m3u8
-#EXTINF:0,Adult Swim
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00i/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a037/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01u/index.m3u8
-#EXTINF:0,Antena 3
+#EXTINF:0,Antena 3 Internacional
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a005/index.m3u8
-#EXTINF:0,Atres Series
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00a/index.m3u8
-#EXTINF:0,Azcorazon
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a017/index.m3u8
-#EXTINF:0,Azteca Cinema SRT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08p/index.m3u8
-#EXTINF:0,Azteca Click SRT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08q/index.m3u8
-#EXTINF:0,Azteca Corazon SRT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08r/index.m3u8
 #EXTINF:0,Azteca Deporte SRT
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a08v/index.m3u8
@@ -360,15 +324,6 @@ http://200.229.147.142:8000/play/a083/index.m3u8
 #EXTINF:0,BUNDESLIGA
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a05b/index.m3u8
-#EXTINF:0,Baby First
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02a/index.m3u8
-#EXTINF:0,Baby TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a002/index.m3u8
-#EXTINF:0,Bitme Calpules
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07s/index.m3u8
 #EXTINF:0,CANAL 11 LOCAL CP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a07h/index.m3u8
@@ -384,54 +339,15 @@ http://200.229.147.142:8000/play/a06t/index.m3u8
 #EXTINF:0,CANAL 7 CR IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06r/index.m3u8
-#EXTINF:0,CANAL CHOLOMA
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05j/index.m3u8
-#EXTINF:11,Tru TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a072/index.m3u8
 #EXTINF:11,CANAL DE LAS ESTRELLAS IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06d/index.m3u8
-#EXTINF:0,CANAL DEL CONGRESO
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04u/index.m3u8
 #EXTINF:0,CARACOL TV
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a05t/index.m3u8
-#EXTINF:0,CARTONITO CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a073/index.m3u8
-#EXTINF:0,CARTOON NETWORK CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a071/index.m3u8
-#EXTINF:0,CARTOON NT HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00p/index.m3u8
-#EXTINF:0,CERTV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03x/index.m3u8
-#EXTINF:0,CHOLUTSASUR SRT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a068/index.m3u8
-#EXTINF:0,CINE MEXICANO GT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08k/index.m3u8
-#EXTINF:0,CINECANAL HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03g/index.m3u8
-#EXTINF:0,CINEMA PLATINO GT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08j/index.m3u8
 #EXTINF:0,CITY TV IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a093/index.m3u8
-#EXTINF:0,CLAN IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07g/index.m3u8
-#EXTINF:0,CLARO SPORT 2 IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06u/index.m3u8
 #EXTINF:0,CNN Internacional
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00c/index.m3u8
@@ -486,117 +402,12 @@ http://200.229.147.142:8000/play/a041/index.m3u8
 #EXTINF:11,Canal de las Estrellas HD DAVID
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a08z/index.m3u8
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00z/index.m3u8
-#EXTINF:0,Cartoonito
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a011/index.m3u8
-#EXTINF:0,Cine Familiar Tegus
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07v/index.m3u8
-#EXTINF:0,Cine Hispano Tegus 
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07x/index.m3u8
-#EXTINF:0,Cine Latino
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04g/index.m3u8
-#EXTINF:0,Cine Premium Tegus 
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a082/index.m3u8
-#EXTINF:0,CineCanal
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04j/index.m3u8
-#EXTINF:0,CineMax
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04h/index.m3u8
-#EXTINF:0,Claro Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06o/index.m3u8
-#EXTINF:0,Claro Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07m/index.m3u8
-#EXTINF:0,Comedy Central HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03o/index.m3u8
-#EXTINF:0,Concert Channel
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04c/index.m3u8
-#EXTINF:11,TV-107
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05h/index.m3u8
-#EXTINF:0,DE PELICULAS CALPULES
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a080/index.m3u8
-#EXTINF:0,DHE
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00n/index.m3u8
-#EXTINF:0,DHE HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a023/index.m3u8
-#EXTINF:0,DISC THEATHER HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03l/index.m3u8
-#EXTINF:0,DISCOVERI CHANNEL CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a079/index.m3u8
-#EXTINF:0,DISCOVERY ID SPS R.
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07t/index.m3u8
-#EXTINF:0,DISTRITO COMEDIA CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a078/index.m3u8
-#EXTINF:0,DREAM WORKKS IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05d/index.m3u8
 #EXTINF:0,DW
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06c/index.m3u8
 #EXTINF:0,Deportes TVC - HON
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00v/index.m3u8
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a036/index.m3u8
-#EXTINF:0,Discovery Home&Health Calpules
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07w/index.m3u8
-#EXTINF:0,Discovery Kids
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a042/index.m3u8
-#EXTINF:0,Discovery Kids HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00f/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a008/index.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a046/index.m3u8
-#EXTINF:0,Disney
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a044/index.m3u8
-#EXTINF:0,Disney JR
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a012/index.m3u8
-#EXTINF:0,E!
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a033/index.m3u8
-#EXTINF:0,E! Entertairment HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01v/index.m3u8
-#EXTINF:0,E! IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a098/index.m3u8
-#EXTINF:0,EJTV IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a09f/index.m3u8
-#EXTINF:0,ENLACE
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06j/index.m3u8
-#EXTINF:0,ESNET
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a070/index.m3u8
 #EXTINF:0,ESPN
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a05v/index.m3u8
@@ -642,33 +453,6 @@ http://200.229.147.142:8000/play/a05r/index.m3u8
 #EXTINF:0,ESPN 6 IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a04y/index.m3u8
-#EXTINF:0,EURO Channel
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02d/index.m3u8
-#EXTINF:0,EUROPA IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a09c/index.m3u8
-#EXTINF:0,EVO TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08d/index.m3u8
-#EXTINF:0,EWTN
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01n/index.m3u8
-#EXTINF:0,El Gourmet
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02f/index.m3u8
-#EXTINF:0,Espn 2  R.
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07p/index.m3u8
-#EXTINF:0,Europa HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a021/index.m3u8
-#EXTINF:0,Exa TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03c/index.m3u8
-#EXTINF:0,FOOD NERWORD IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06l/index.m3u8
 #EXTINF:0,FOX SPORT 1
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06a/index.m3u8
@@ -678,111 +462,15 @@ http://200.229.147.142:8000/play/a06b/index.m3u8
 #EXTINF:0,FUERZAS ARMADAS R.
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a02s/index.m3u8
-#EXTINF:0,FUTV CR
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03y/index.m3u8
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02b/index.m3u8
-#EXTINF:0,FX HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a020/index.m3u8
-#EXTINF:0,Film & Arts
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00m/index.m3u8
-#EXTINF:0,Film & arts HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01w/index.m3u8
 #EXTINF:0,Fox Sport 3
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a01d/index.m3u8
 #EXTINF:0,France24
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a01l/index.m3u8
-#EXTINF:0,GO TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06f/index.m3u8
-#EXTINF:0,GOURMET IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a09d/index.m3u8
-#EXTINF:0,Golden
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02n/index.m3u8
-#EXTINF:0,Golden Choice Calpules
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07y/index.m3u8
-#EXTINF:0,Golden Premiere 2 HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00h/index.m3u8
-#EXTINF:0,Golden Premiere HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00g/index.m3u8
-#EXTINF:0,Golf Channel
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00b/index.m3u8
-#EXTINF:0,Golf Channel HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a026/index.m3u8
 #EXTINF:0,Guatevision - GUA
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00w/index.m3u8
-#EXTINF:0,H2
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02e/index.m3u8
-#EXTINF:0,HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06q/index.m3u8
-#EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00q/index.m3u8
-#EXTINF:0,HBO Plus HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00s/index.m3u8
-#EXTINF:0,HBO XTREME
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00t/index.m3u8
-#EXTINF:0,HBO2 HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00r/index.m3u8
-#EXTINF:0,HCH HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05f/index.m3u8
-#EXTINF:0,HCH- HON
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00y/index.m3u8
-#EXTINF:0,HOLA! TV HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03n/index.m3u8
-#EXTINF:0,HONDURED IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08x/index.m3u8
-#EXTINF:0,HTV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02m/index.m3u8
-#EXTINF:0,HTV CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07a/index.m3u8
-#EXTINF:0,History Channel
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a038/index.m3u8
-#EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01o/index.m3u8
-#EXTINF:0,Hola!TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a009/index.m3u8
-#EXTINF:0,Home Garden Latino
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a007/index.m3u8
-#EXTINF:0,ID
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a048/index.m3u8
-#EXTINF:0,ID DISCOVERY IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a067/index.m3u8
-#EXTINF:0,INTI IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08f/index.m3u8
 #EXTINF:0,KBS IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a091/index.m3u8
@@ -792,132 +480,24 @@ http://200.229.147.142:8000/play/a03h/index.m3u8
 #EXTINF:0,LA LIGA IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a066/index.m3u8
-#EXTINF:0,LA MEJOR  IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a09e/index.m3u8
-#EXTINF:0,LIFE TIME
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01c/index.m3u8
-#EXTINF:0,LTV CALPULES
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08w/index.m3u8
-#EXTINF:0,La voz de Maria
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a049/index.m3u8
-#EXTINF:0,Latin America Sport
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02k/index.m3u8
-#EXTINF:0,MAYA TV IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05i/index.m3u8
-#EXTINF:0,MC IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06n/index.m3u8
-#EXTINF:0,MEGACLASICOS
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05w/index.m3u8
-#EXTINF:0,MI Musica Regional Tegus
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07u/index.m3u8
-#EXTINF:0,MILENIO 2 HD IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a094/index.m3u8
-#EXTINF:0,MILENIO HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a089/index.m3u8
 #EXTINF:0,MP IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a08h/index.m3u8
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04b/index.m3u8
-#EXTINF:0,MTV 00s
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02l/index.m3u8
-#EXTINF:0,MTV 00s HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03q/index.m3u8
-#EXTINF:11,MTV 80s
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01f/index.m3u8
-#EXTINF:0,MTV HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01q/index.m3u8
-#EXTINF:0,MTV Hits
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01e/index.m3u8
-#EXTINF:0,MTV SIM HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03p/index.m3u8
 #EXTINF:0,MULTIVISION
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06k/index.m3u8
-#EXTINF:0,Mas Chic
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a004/index.m3u8
-#EXTINF:0,Mi Musica Reguaeton Tegus
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07z/index.m3u8
-#EXTINF:0,Mi Musica Romantica Tegus
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a087/index.m3u8
-#EXTINF:0,Mi Musica Salsa Tegus
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a088/index.m3u8
-#EXTINF:0,Multicinema
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02p/index.m3u8
 #EXTINF:0,Multimedios
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00j/index.m3u8
 #EXTINF:0,Multipremier
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a04f/index.m3u8
-#EXTINF:0,NICK JUNIOR CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07f/index.m3u8
-#EXTINF:0,NICKELODEON CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07j/index.m3u8
 #EXTINF:0,NUESTRA TELE NCN IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a095/index.m3u8
 #EXTINF:0,Nacion Tv
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a05q/index.m3u8
-#EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01b/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a010/index.m3u8
-#EXTINF:0,Nick SIM HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03j/index.m3u8
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a043/index.m3u8
-#EXTINF:0,PANICO GT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08i/index.m3u8
-#EXTINF:0,PANICO IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a060/index.m3u8
-#EXTINF:0,PICOSA 
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05l/index.m3u8
-#EXTINF:0,PXTV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02j/index.m3u8
-#EXTINF:0,Paramount
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00o/index.m3u8
-#EXTINF:0,Paramount CALPULES
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08b/index.m3u8
-#EXTINF:0,Pasiones
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a00k/index.m3u8
 #EXTINF:0,Playboy
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00u/index.m3u8
@@ -927,66 +507,12 @@ http://200.229.147.142:8000/play/a04o/index.m3u8
 #EXTINF:0,RCN - GUA
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a03z/index.m3u8
-#EXTINF:0,RCN Novelas
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02c/index.m3u8
-#EXTINF:0,RHEMA TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04m/index.m3u8
-#EXTINF:0,RIA ITALIA IXP
+#EXTINF:0,RAI ITALIA IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a092/index.m3u8
-#EXTINF:0,RTV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06m/index.m3u8
 #EXTINF:0,RURAL IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a099/index.m3u8
-#EXTINF:0,SEMILLITAS
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a014/index.m3u8
-#EXTINF:0,SONY
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a031/index.m3u8
-#EXTINF:0,SONY HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03f/index.m3u8
-#EXTINF:0,SPACE
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a018/index.m3u8
-#EXTINF:0,SPACE HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04p/index.m3u8
-#EXTINF:0,STAR CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a045/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03d/index.m3u8
-#EXTINF:0,SUYAPA TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02q/index.m3u8
-#EXTINF:0,Sembrador
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a076/index.m3u8
-#EXTINF:0,Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a022/index.m3u8
-#EXTINF:0,Star TVE HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a025/index.m3u8
-#EXTINF:0,Studio Universal
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04i/index.m3u8
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01t/index.m3u8
-#EXTINF:0,Sun Channel
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02g/index.m3u8
-#EXTINF:0,TBN Enlace
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01m/index.m3u8
 #EXTINF:11,TCM
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a02o/index.m3u8
@@ -996,63 +522,15 @@ http://200.229.147.142:8000/play/a00e/index.m3u8
 #EXTINF:0,TD+HD CR
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a00d/index.m3u8
-#EXTINF:0,TELEBASICA
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04n/index.m3u8
 #EXTINF:0,TELECANDENA HD FIBRA
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a055/index.m3u8
-#EXTINF:0,TELECEIBA
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a063/index.m3u8
-#EXTINF:0,TELECEIBA IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06x/index.m3u8
-#EXTINF:0,TELEHIT CALPULES
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07o/index.m3u8
-#EXTINF:0,TELEHIT MUSICA CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a07e/index.m3u8
 #EXTINF:0,TELEMUNDO MIAMI DECO
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a064/index.m3u8
-#EXTINF:0,TELENOVELAS CP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a077/index.m3u8
-#EXTINF:0,TELEPAIS IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06v/index.m3u8
-#EXTINF:0,TELERITMO IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08t/index.m3u8
 #EXTINF:0,TELESUR
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:0,TENNIS TV IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05n/index.m3u8
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a039/index.m3u8
-#EXTINF:0,TNH 8 HND IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a059/index.m3u8
-#EXTINF:0,TNT
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01h/index.m3u8
-#EXTINF:0,TNT CALPULES
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08c/index.m3u8
-#EXTINF:0,TNT Novelas
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01a/index.m3u8
-#EXTINF:0,TNT Series
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a019/index.m3u8
-#EXTINF:0,TOOCAST IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a09a/index.m3u8
 #EXTINF:0,TSI HD FIBRA
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a04k/index.m3u8
@@ -1083,97 +561,27 @@ http://200.229.147.142:8000/play/a04l/index.m3u8
 #EXTINF:0,TYC DEPORTES IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a08e/index.m3u8
-#EXTINF:0,Teen Nick HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a01s/index.m3u8
-#EXTINF:0,TeleMicro - RD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a057/index.m3u8
-#EXTINF:0,TeleMicro Calpules
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a08m/index.m3u8
-#EXTINF:0,TeleProgreso SRT HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06g/index.m3u8
 #EXTINF:0,Telemundo
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a016/index.m3u8
 #EXTINF:0,Telemundo Internacional
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a01z/index.m3u8
-#EXTINF:0,Ten 10 IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a05c/index.m3u8
 #EXTINF:0,Tigo Sports HD
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a03i/index.m3u8
-#EXTINF:0,Tooncast
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a02z/index.m3u8
-#EXTINF:0,Tru TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a015/index.m3u8
-#EXTINF:0,UNE TV
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a069/index.m3u8
 #EXTINF:0,UNICABLE IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a05e/index.m3u8
-#EXTINF:0,UNIVERSAL COMEDY HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03v/index.m3u8
-#EXTINF:0,UNIVERSAL CRIME HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03u/index.m3u8
-#EXTINF:11,UNIVERSAL PREMIERE HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03r/index.m3u8
-#EXTINF:0,UNIVERSAL PREMIERE O HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03s/index.m3u8
-#EXTINF:0,UNIVERSAL REALITY HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03t/index.m3u8
 #EXTINF:0,UNIVISION CALPULES
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a08a/index.m3u8
 #EXTINF:0,UNIVISION IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a052/index.m3u8
-#EXTINF:11,USA Latam
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a097/index.m3u8
-#EXTINF:0,UTV HONDURAS
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03a/index.m3u8
-#EXTINF:0,Universal
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a04d/index.m3u8
-#EXTINF:0,VE PLUS
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a06i/index.m3u8
 #EXTINF:11,VENUS
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a01r/index.m3u8
-#EXTINF:0,VIDEO ROLA IXP
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a09b/index.m3u8
-#EXTINF:0,WARNER HD
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a03e/index.m3u8
-#EXTINF:0,Warner
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a032/index.m3u8
-#EXTINF:11,ZooMoo
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a003/index.m3u8
-#EXTINF:0,tegus
-#EXTVLCOPT:network-caching=1000
-http://200.229.147.142:8000/play/a086/index.m3u8
-#EXTINF:0,REUTERS
-#EXTVLCOPT:network-caching=1000
-https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
-
 #EXTINF:47,Playboy
 #EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
@@ -1230,8 +638,6 @@ https://nhk4.mov3.co/hls/nhk.m3u8
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 #EXTINF:0 type="stream" channelId="365" aspect-ratio="16:9" tvg-country="cn" size="Small", CCTV 4K
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1777642200-1-8455e49f8d69219a753ffc4eae1445d8eb4fbad6e379d17322edd9d3197db43a-e2252a14a307a660a9e3336bc3d38b4c&yid=8455e49f8d69219a753ffc4eae1445d8eb4fbad6e379d17322edd9d3197db43a
-#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" tvg-country="bo" size="Small", BOLIVIA TV7.1
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(fVvpsJ3LVz2qo3jr1Y2rUgwUSRD0noK3hXRQjWjjGJd2pD8VGrTc2yjcq3bJXAMWmEc1z5euM-o9kqwZ7vNhtAEu6R0wP_OOsBHeW76538h8njfUIsunVn59yNT5g5D0)/cloud/3/x9nzqpo/d/live-1080.m3u8
 #EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" size="Small", Item 40
 https://cdn.br10.sbs/memfs/f74750ce-c186-48c4-a113-0bb760babbbc_output_0.m3u8
 #EXTINF:0 type="stream" channelId="613" aspect-ratio="16:9" size="Small", Item 44
