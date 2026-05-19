@@ -123,19 +123,21 @@ https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", NBC
+#EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", WNBC
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=987276&extension=ts
-#EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", ABC
+#EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", WABC
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=986280&extension=ts
-#EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", CBS
+#EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", WCBS
 http://tkosportz.live:25461/folalawal@/4044225438/10374
 #EXTINF:-1 tvg-name="FOX NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/200px-Fts-new-york-a.svg.png", FOX NY
 http://208.86.19.13:81/103.stream/index.m3u8
+#EXTINF:-1 tvg-name="PBS WKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/250px-PBS_logo_2019.svg.png", PBS WKET
+https://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/960px-NBC_News_%282023%29.svg.png", NBC NEWS
-https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-500x281.png", ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://linear-abcnews-akc-na-east-1.media.dssott.com/dvt2=exp=1779284017~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F79449312-79dd-473d-873c-515ebf4b5e5f-1776583682323%2F~psid=acaed925-eff5-4059-8196-0d1f9991f68d~did=2f8fb2f2-6653-438b-88b4-e789d13a8635~country=BR~kid=k02~hmac=bcdba775d7e9b07507ef8745484e0a0b63b7e2c232fabbdc64d4c9b2568544f4/clt1/va02/disneyplus/channel/79449312-79dd-473d-873c-515ebf4b5e5f-1776583682323/cmaf-cenc-ctr-7000K/7000_hdri_slide.m3u8
 #EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://m.media-amazon.com/images/I/41WdJb50GNL.png", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-name="BBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/250px-BBC_Logo_2021.svg.png", BBC NEWS
@@ -157,11 +159,8 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 https://v17.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/250px-Logo_Univision_2019.svg.png", Univision
 https://v8.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="PBS WNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/250px-PBS_logo_2019.svg.png", PBS WNET
-https://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Cetvlogo.jpg/revision/latest?cb=20141217015228", CETV1
-http://sh.lnott.top:880/dx84.m3u8
+
 #EXTINF:-1 tvg-name="FOX NEWS NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LiveNOW_from_Fox_%28Stacked%29.svg/revision/latest/scale-to-width-down/1000?cb=20240303214501", FOX NEWS NOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0,RAI NEWS
@@ -188,10 +187,8 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 
 
-#EXTINF:0,TPA INTERNACIONAL SD
-http://tv14s.xyz:8080/13851097/13851097/164855
-#EXTINF:0 type="stream" channelId="2433" name="SBT" group="Canais | SBT" logo="https://imgur.com/w2CTebZ.png", ÷SBT SP HD
-https://aovivo.maissbt.com/channel_1080.m3u8
+#EXTINF:0 logo="https://imgur.com/w2CTebZ.png", ÷SBT SP HD
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/058fc8e6-c5b9-4603-8280-d551c0a77ba1:SCL2/variant/fcd3d0da2b00412af7dc40c65c20c62c/bandwidth/3860587.m3u8
 #EXTINF:0 type="stream" channelId="-1", TELEFE HD
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:0 type="stream" channelId="2211" name="IT: RAI NEWS 24" group="ITALY" country="it", RAI NEWS 24
@@ -206,18 +203,10 @@ https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="News+Busines" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="4K UHD", Loupe 4K (2160p)
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="4K UHD", Akwarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 #EXTINF:0 type="stream" channelId="-1" group="4K UHD", ANIMALS 4K
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
-#EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9", ABC
-http://173.225.32.123/KSFY-2363/index.m3u8
-#EXTINF:0 type="stream" channelId="1444" aspect-ratio="16:9", KMIZ ABC
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:0 type="stream" channelId="-1", TELEMUNDO 51
-http://190.92.10.66:4000/play/a004/index.m3u8
 #EXTINF:0 type="stream" channelId="895", TCM
 http://187.120.222.12:8000/play/TCM/index.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="-", CANAL 5
@@ -579,15 +568,35 @@ http://200.229.147.142:8000/play/a08a/index.m3u8
 #EXTINF:0,UNIVISION IXP
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a052/index.m3u8
-#EXTINF:11,VENUS
+#EXTINF:11,yVENUS
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a01r/index.m3u8
-#EXTINF:47,Playboy
+#EXTINF:47,yPlayboy
 #EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:24,EROXXX EUROPE
+#EXTINF:24,yEROXXX EUROPE
 #EXTVLCOPT:network-caching=1000
 http://31.148.48.15/French_Lover/mono.m3u8
+#EXTINF:24,yBlue Hustler
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/1064/manifest.m3u8
+#EXTINF:24,yEroxxx HD Россия
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/5015/manifest.m3u8
+#EXTINF:24,yExxxotica HD Россия
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/9346/manifest.m3u8
+#EXTINF:24,yDorcel TV HD
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/245/manifest.m3u8
+#EXTINF:24,yHustler HD
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/244/manifest.m3u8
+#EXTINF:24,yPrivate 
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/243/manifest.m3u8
+#EXTINF:24,yVivid Red HD
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/2162/manifest.m3u8
+#EXTINF:24,yBrazzers TV Europe
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/910/manifest.m3u8
+#EXTINF:24,yРусская Ночь
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/147/manifest.m3u8
+#EXTINF:24,yPlayboy Россия
+http://88b9da48.kazmazpaz.ru/iptv/D4WWHMT9VMU2MW/527/manifest.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV 4K
