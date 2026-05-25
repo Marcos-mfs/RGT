@@ -30,17 +30,6 @@ https://hplay.tv/augetv/12396547488/10.m3u8
 #EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small", GLOBO RECIFE
 https://hplay.tv/augetv/12396547488/11.m3u8
 
-#EXTINF:-1,RBS TV HD
-http://189.14.238.87:9981/stream/channelid/1150720374
-#EXTINF:-1,SBT RS
-http://189.14.238.87:9981/stream/channelid/1890982318
-#EXTINF:-1,BAND RS
-http://189.14.238.87:9981/stream/channelid/1757299787
-#EXTINF:-1,RECORD RS HD
-http://189.14.238.87:9981/stream/channelid/1956443037
-#EXTINF:-1,REDE TV HD
-http://189.14.238.87:9981/stream/channelid/592761098
-
 #EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD
 http://tv.mapfibra.com.br:8555/live/1280/123456/276.m3u8
 #EXTINF:-1 tvg-name="Globo Minas HD" tvg-logo="https://acstatic.co/logos/canais/globo.png",Globo Minas HD
@@ -62,8 +51,7 @@ https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small", TV SERRA DOURADA SBT
-http://linesource.cc:8080/4cBmc2bmpxsJjm2XCCbM02I5yUOYxKN7/eiXGLIK5j2LgQSHsBycbmbJ7saLCDx6PdS/8679
-
+http://fsonline01.org:80/5289442894/2879833814/72358
 
 #EXTINF:0 type="stream" channelId="13" aspect-ratio="16:9" size="Small", BAND REDE
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-360p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3ODMzNDc4NiwibmJmIjoxNzc4MzM0Nzg2LCJleHAiOjE3ODA5MjY3ODYsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.k-ZIkSyZn4OtI7hiNXxjqdP_hfjn8zHPidRiCvwvTVY&uid=395f5df7-a052-44eb-8d47-0d5db91321cf
@@ -216,7 +204,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="TVG2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/250px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", TVG2
 https://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks.m3u8
-
 
 #EXTINF:0,REUTERS
 #EXTVLCOPT:network-caching=1000
@@ -469,4 +456,645 @@ http://69.30.245.50/live/cctv10.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small", NHK G BACKUP
 https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES 4k- Telecinco" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES 4K UHD",ES 4k- Telecinco
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965562
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES 4k- LA Sexta" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasexta.png" group-title="EU- ES 4K UHD",ES 4k- LA Sexta
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965563
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES 4k- 24 Horas" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tve24h.png" group-title="EU- ES 4K UHD",ES 4k- 24 Horas
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965564
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES 4k- A3SERIES" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/A3SERIES-TV.png" group-title="EU- ES 4K UHD",ES 4k- A3SERIES
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965597
+#EXTINF:-1 tvg-ID="Atreseries" tvg-name="ES 4k- M A3SERIES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="EU- ES 4K UHD",ES 4k- M A3SERIES
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965596
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES 4k- Energy" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES 4K UHD",ES 4k- Energy
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965568
+#EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="ES 4k- FDF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="EU- ES 4K UHD",ES 4k- FDF
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965566
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="ES 4k- Neox" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/neox.png" group-title="EU- ES 4K UHD",ES 4k- Neox
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965570
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="ES 4k- Nova" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/novahd.png" group-title="EU- ES 4K UHD",ES 4k- Nova
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965569
+#EXTINF:-1 tvg-ID="canalsurandalucia.es" tvg-name="ES 4k- Canal Sur A" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="EU- ES 4K UHD",ES 4k- Canal Sur A
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965571
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES 4k- Clan Tve" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="EU- ES 4K UHD",ES 4k- Clan Tve
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965565
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES 4k- Boing" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/boing.png" group-title="EU- ES 4K UHD",ES 4k- Boing
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965636
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES 4k- Nickelodeon" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nickelodeond.png" group-title="EU- ES 4K UHD",ES 4k- Nickelodeon
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965632
+#EXTINF:-1 tvg-ID="Nick JR" tvg-name="ES 4k- Nick Junior" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NICK-JR-HD.png" group-title="EU- ES 4K UHD",ES 4k- Nick Junior
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965633
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="ES 4k- Baby TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/BABY-TV-HD.png" group-title="EU- ES 4K UHD",ES 4k- Baby TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965637
+#EXTINF:-1 tvg-ID="" tvg-name="ES 4k- Squirrel" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/disneychannelhdfrance.png" group-title="EU- ES 4K UHD",ES 4k- Squirrel
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965635
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="ES 4k- Disney Junior" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/DISNEY-JUNIOR-HD.png" group-title="EU- ES 4K UHD",ES 4k- Disney Junior
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965634
+#EXTINF:-1 tvg-ID="Movistar Plus+ HD" tvg-name="ES 4k- M Movistar+" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png" group-title="EU- ES 4K UHD",ES 4k- M Movistar+
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965576
+#EXTINF:-1 tvg-ID="M+ Originales HD" tvg-name="ES 4k- M Originales" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales%20HD.png" group-title="EU- ES 4K UHD",ES 4k- M Originales
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965577
+#EXTINF:-1 tvg-ID="La Resistencia 24H" tvg-name="ES 4k- M La Resistencia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Resistencia%2024H.png" group-title="EU- ES 4K UHD",ES 4k- M La Resistencia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965578
+#EXTINF:-1 tvg-ID="M+ Cine HD" tvg-name="ES 4k- M Estrenos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20HD.png" group-title="EU- ES 4K UHD",ES 4k- M Estrenos
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965579
+#EXTINF:-1 tvg-ID="M+ Acción HD" tvg-name="ES 4k- M Accion" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n%20HD.png" group-title="EU- ES 4K UHD",ES 4k- M Accion
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965581
+#EXTINF:-1 tvg-ID="M+ Cine Español" tvg-name="ES 4k- M Cine Español" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mcineespanol.png" group-title="EU- ES 4K UHD",ES 4k- M Cine Español
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965586
+#EXTINF:-1 tvg-ID="M+ Clásicos HD" tvg-name="ES 4k- M Clasicos" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/movistarclasicos.png" group-title="EU- ES 4K UHD",ES 4k- M Clasicos
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965587
+#EXTINF:-1 tvg-ID="M+ Comedia HD" tvg-name="ES 4k- M Comedia" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mcomedia.png" group-title="EU- ES 4K UHD",ES 4k- M Comedia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965584
+#EXTINF:-1 tvg-ID="M+ Drama HD" tvg-name="ES 4k- M Drama" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mdrama.png" group-title="EU- ES 4K UHD",ES 4k- M Drama
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965585
+#EXTINF:-1 tvg-ID="M+ Indie HD" tvg-name="ES 4k- M INDIE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie%20HD.png" group-title="EU- ES 4K UHD",ES 4k- M INDIE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965583
+#EXTINF:-1 tvg-ID="BOM Cine" tvg-name="ES 4k- M BOM CINE" tvg-logo="" group-title="EU- ES 4K UHD",ES 4k- M BOM CINE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965598
+#EXTINF:-1 tvg-ID="DARK" tvg-name="ES 4k- M DARK" tvg-logo="" group-title="EU- ES 4K UHD",ES 4k- M DARK
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965599
+#EXTINF:-1 tvg-ID="M+ Suspense HD" tvg-name="ES 4k- M Suspense" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Suspense%20HD.png" group-title="EU- ES 4K UHD",ES 4k- M Suspense
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965582
+#EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="ES 4k- AXN Movies" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/axnmovieshd.png" group-title="EU- ES 4K UHD",ES 4k- AXN Movies
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965588
+#EXTINF:-1 tvg-ID="M+ Series HD" tvg-name="ES 4k- M Series" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mseries.png" group-title="EU- ES 4K UHD",ES 4k- M Series
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965589
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES 4k- AMC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/AMC-HD.png" group-title="EU- ES 4K UHD",ES 4k- AMC
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965591
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="ES 4k- AXN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/axn.png" group-title="EU- ES 4K UHD",ES 4k- AXN
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965590
+#EXTINF:-1 tvg-ID="STAR Channel HD" tvg-name="ES 4k- STAR CHANNEL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel%20HD.png" group-title="EU- ES 4K UHD",ES 4k- STAR CHANNEL
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965592
+#EXTINF:-1 tvg-ID="SyFy HD" tvg-name="ES 4k- SyFy" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/syfyhd.png" group-title="EU- ES 4K UHD",ES 4k- SyFy
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965594
+#EXTINF:-1 tvg-ID="Calle 13 HD" tvg-name="ES 4k- Calle 13" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/calle13hd.png" group-title="EU- ES 4K UHD",ES 4k- Calle 13
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965595
+#EXTINF:-1 tvg-ID="Cosmo HD" tvg-name="ES 4k- Cosmo" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cosmo.png" group-title="EU- ES 4K UHD",ES 4k- Cosmo
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965593
+#EXTINF:-1 tvg-ID="amcbreak.es" tvg-name="ES 4k- AMC BREAK" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amchdspain.png" group-title="EU- ES 4K UHD",ES 4k- AMC BREAK
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965631
+#EXTINF:-1 tvg-ID="" tvg-name="ES 4k- AMC CRIME" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amchd.png" group-title="EU- ES 4K UHD",ES 4k- AMC CRIME
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965624
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="ES 4k- Canal Cocina" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalcocina.png" group-title="EU- ES 4K UHD",ES 4k- Canal Cocina
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965620
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="ES 4k- AMC Living" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canaldecasa.png" group-title="EU- ES 4K UHD",ES 4k- AMC Living
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965617
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="ES 4k- Canal Odisea" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalodisea.png" group-title="EU- ES 4K UHD",ES 4k- Canal Odisea
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965630
+#EXTINF:-1 tvg-ID="M+ Documentales HD" tvg-name="ES 4k- M DOCUMENTALES" tvg-logo="https://cajacanarias.com/wp-content/uploads/2023/04/Despertares_DocumentalM_destacada.jpg" group-title="EU- ES 4K UHD",ES 4k- M DOCUMENTALES
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965608
+#EXTINF:-1 tvg-ID="National Geographic HD" tvg-name="ES 4k- NAT GEO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/natgeohd.png" group-title="EU- ES 4K UHD",ES 4k- NAT GEO
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965614
+#EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="ES 4k- Nat Geo Wild" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/natgeowildhdspain.png" group-title="EU- ES 4K UHD",ES 4k- Nat Geo Wild
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965613
+#EXTINF:-1 tvg-ID="Cazavisión" tvg-name="ES 4k- CAZAVISION" tvg-logo="" group-title="EU- ES 4K UHD",ES 4k- CAZAVISION
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965612
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES 4k- Caza y Pesca" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cazaypescahd.png" group-title="EU- ES 4K UHD",ES 4k- Caza y Pesca
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965618
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="ES 4k- Iberalia TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/iberaliatv.png" group-title="EU- ES 4K UHD",ES 4k- Iberalia TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965619
+#EXTINF:-1 tvg-ID="Iberalia caza" tvg-name="ES 4k- IBERALIA 100% CAZA" tvg-logo="" group-title="EU- ES 4K UHD",ES 4k- IBERALIA 100% CAZA
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965609
+#EXTINF:-1 tvg-ID="Iberalia pesca" tvg-name="ES 4k- IBERALIA 100% PESCA" tvg-logo="" group-title="EU- ES 4K UHD",ES 4k- IBERALIA 100% PESCA
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965610
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="ES 4k- MEGA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/OMEGATV-.jpg" group-title="EU- ES 4K UHD",ES 4k- MEGA
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965629
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="ES 4k- Mezzo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png" group-title="EU- ES 4K UHD",ES 4k- Mezzo
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965573
+#EXTINF:-1 tvg-ID="aragontv.es" tvg-name="ES 4k- Aragon TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" group-title="EU- ES 4K UHD",ES 4k- Aragon TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965572
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES 4k- BE MAD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bemad.png" group-title="EU- ES 4K UHD",ES 4k- BE MAD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965627
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="ES 4k- Gametoon" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/blaze.png" group-title="EU- ES 4K UHD",ES 4k- Gametoon
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965628
+#EXTINF:-1 tvg-ID="Comedy Central HD" tvg-name="ES 4k- Comedy Central" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/comedycentral.png" group-title="EU- ES 4K UHD",ES 4k- Comedy Central
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965606
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES 4k- Discovery" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/discoveryhd.png" group-title="EU- ES 4K UHD",ES 4k- Discovery
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965623
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES 4k- Divinty" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES 4K UHD",ES 4k- Divinty
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965567
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES 4k- DKiss" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/D-KISS-TV.png" group-title="EU- ES 4K UHD",ES 4k- DKiss
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965626
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="ES 4k- DMAX" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/dmax.png" group-title="EU- ES 4K UHD",ES 4k- DMAX
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965622
+#EXTINF:-1 tvg-ID="Enfamilia" tvg-name="ES 4k- VinTV" tvg-logo="https://www.cineytele.com/wp-content/uploads/2022/12/LOGO_Enfamila-color.png" group-title="EU- ES 4K UHD",ES 4k- VinTV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965616
+#EXTINF:-1 tvg-ID="" tvg-name="ES 4k- AMC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/foxlife.png" group-title="EU- ES 4K UHD",ES 4k- AMC
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965575
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES 4k- Historia" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/HISTORIA-HD.jpg" group-title="EU- ES 4K UHD",ES 4k- Historia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965621
+#EXTINF:-1 tvg-ID="Canal Hollywood HD" tvg-name="ES 4k- Hollywood" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/hollywoodhd.png" group-title="EU- ES 4K UHD",ES 4k- Hollywood
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965605
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES 4k- HORSE TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/horsetv.png" group-title="EU- ES 4K UHD",ES 4k- HORSE TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965615
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES 4k- MTV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="EU- ES 4K UHD",ES 4k- MTV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965574
+#EXTINF:-1 tvg-ID="Warner TV HD" tvg-name="ES 4k- M WB tv" tvg-logo="" group-title="EU- ES 4K UHD",ES 4k- M WB tv
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965603
+#EXTINF:-1 tvg-ID="Paramount Network" tvg-name="ES 4k- Squirrel 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/paramount.png" group-title="EU- ES 4K UHD",ES 4k- Squirrel 2
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965604
+#EXTINF:-1 tvg-ID="Somos" tvg-name="ES 4k- SOMOS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/somos.png" group-title="EU- ES 4K UHD",ES 4k- SOMOS
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965607
+#EXTINF:-1 tvg-ID="TCM HD" tvg-name="ES 4k- TCM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tcm.png" group-title="EU- ES 4K UHD",ES 4k- TCM
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965602
+#EXTINF:-1 tvg-ID="XTRM" tvg-name="ES 4k- XTRM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/xtrm.png" group-title="EU- ES 4K UHD",ES 4k- XTRM
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965600
+#EXTINF:-1 tvg-ID="" tvg-name="Portada M+ (ES)" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/portada.png" group-title="EU- ES  TDT",Portada M+ (ES)
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1867376
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- La 1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1.png" group-title="EU- ES  TDT",ES- La 1 SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533508
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- La 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES  TDT",ES- La 1 HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65974
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- LA 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES  TDT",ES- LA 1 FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50321
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- La 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la2.png" group-title="EU- ES  TDT",ES- La 2 SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533509
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- La 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvela2hd.png" group-title="EU- ES  TDT",ES- La 2 HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65973
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- LA 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvela2hd.png" group-title="EU- ES  TDT",ES- LA 2 FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50319
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3.png" group-title="EU- ES  TDT",ES- Antena 3 SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533511
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3hd.png" group-title="EU- ES  TDT",ES- Antena 3 HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65978
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3hd.png" group-title="EU- ES  TDT",ES- Antena 3 FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50373
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatro.png" group-title="EU- ES  TDT",ES- Cuatro SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533510
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES  TDT",ES- Cuatro HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65975
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES  TDT",ES- Cuatro FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50342
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES  TDT",ES- Telecinco SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533512
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecincohd.png" group-title="EU- ES  TDT",ES- Telecinco HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65971
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecincohd.png" group-title="EU- ES  TDT",ES- Telecinco FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50267
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- La Sexta SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasexta.png" group-title="EU- ES  TDT",ES- La Sexta SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533513
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- La Sexta HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES  TDT",ES- La Sexta HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65972
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- LA Sexta FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES  TDT",ES- LA Sexta FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50318
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533514
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65925
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50375
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES- Clan Tve SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES  TDT",ES- Clan Tve SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533516
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES- Clan Tve HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES  TDT",ES- Clan Tve HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65969
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES- Clan Tve FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES  TDT",ES- Clan Tve FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50349
+#EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="ES- FDF SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES  TDT",ES- FDF SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533523
+#EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="ES- FDF HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES  TDT",ES- FDF HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65960
+#EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="ES- FDF FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES  TDT",ES- FDF FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50331
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES- Divinity SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES  TDT",ES- Divinity SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533522
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES- Divinity HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES  TDT",ES- Divinity HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65962
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES- Divinty FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES  TDT",ES- Divinty FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50336
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES- Energy SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES  TDT",ES- Energy SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533521
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES- Energy HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES  TDT",ES- Energy HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65961
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES- Energy FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES  TDT",ES- Energy FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50335
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES- Nova SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES  TDT",ES- Nova SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533518
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES- Nova HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES  TDT",ES- Nova HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65957
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES- Nova FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES  TDT",ES- Nova FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50276
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES- Neox SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES  TDT",ES- Neox SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533519
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES- Neox HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES  TDT",ES- Neox HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65958
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES- Neox FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES  TDT",ES- Neox FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50281
+#EXTINF:-1 tvg-ID="Canal Sur Andalucía" tvg-name="ES- Canal Sur A SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES  TDT",ES- Canal Sur A SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533517
+#EXTINF:-1 tvg-ID="Canal Sur Andalucía" tvg-name="ES- Canal Sur A HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES  TDT",ES- Canal Sur A HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65976
+#EXTINF:-1 tvg-ID="Canal Sur Andalucía" tvg-name="ES- Canal Sur A FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES  TDT",ES- Canal Sur A FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50352
+#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES- Aragon TV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES  TDT",ES- Aragon TV SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533515
+#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES- Aragon TV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES  TDT",ES- Aragon TV HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65977
+#EXTINF:-1 tvg-ID="Aragón TV" tvg-name="ES- Aragon TV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES  TDT",ES- Aragon TV FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50371
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="ES- Mezzo SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mezzohd.png" group-title="EU- ES  TDT",ES- Mezzo SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533520
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="ES- Mezzo HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mezzohd.png" group-title="EU- ES  TDT",ES- Mezzo HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65928
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="ES- Mezzo FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mezzohd.png" group-title="EU- ES  TDT",ES- Mezzo FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50287
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES- MTV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvespana.png" group-title="EU- ES  TDT",ES- MTV SD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533524
+#EXTINF:-1 tvg-ID="MTV España" tvg-name="ES- MTV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvespana.png" group-title="EU- ES  TDT",ES- MTV HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65927
+#EXTINF:-1 tvg-ID="MTV España" tvg-name="ES- MTV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/MTV-HD.png" group-title="EU- ES  TDT",ES- MTV FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50286
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES- Fox Life FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.FoxLife.png" group-title="EU- ES  TDT",ES- Fox Life FHD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50328
+#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="ES (O) M LALIGATV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) M LALIGATV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235333
+#EXTINF:-1 tvg-ID="M+ LaLiga TV 2 HD" tvg-name="ES (O) M LALIGATV 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) M LALIGATV 2
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235334
+#EXTINF:-1 tvg-ID="M+ LaLiga TV 3 HD" tvg-name="ES (O) M LALIGATV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) M LALIGATV 3
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235335
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) M LALIGATV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) M LALIGATV 4
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235336
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) M LALIGATV 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) M LALIGATV 5
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235337
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) M LALIGATV 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) M LALIGATV 6
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235338
+#EXTINF:-1 tvg-ID="LaLiga TV Hypermotion HD" tvg-name="ES (O) LALIGA HYPERMOTION TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) LALIGA HYPERMOTION TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235312
+#EXTINF:-1 tvg-ID="LaLiga TV Hypermotion 2" tvg-name="ES (O) LALIGA HYPERMOTION TV 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) LALIGA HYPERMOTION TV 2
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235313
+#EXTINF:-1 tvg-ID="LaLiga TV Hypermotion 3" tvg-name="ES (O) LALIGATV HYPERMOTION 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) LALIGATV HYPERMOTION 3
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235314
+#EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="ES (O) Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235316
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 2
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235325
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 3
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235326
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 4
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235327
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 5
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235328
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 6
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235329
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 7
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235330
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 8
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235331
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 9
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235332
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 10
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235317
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 11" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 11
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235318
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 12" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 12
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235319
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 13" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 13
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235320
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 14" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 14
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235321
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 15" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 15
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235322
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 16" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 16
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235323
+#EXTINF:-1 tvg-ID="" tvg-name="ES (O) Liga de Campeones 17" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Liga de Campeones 17
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235324
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES (O) La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) La 1 HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235310
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES (O) La 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="EU- ES ORANGE OGO",ES (O) La 2 HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235311
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES (O) Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Antena 3 HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235267
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES (O) Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Cuatro HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235285
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES (O) Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Telecinco HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235365
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES (O) laSexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) laSexta HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235315
+#EXTINF:-1 tvg-ID="Atreseries" tvg-name="ES (O) Atreseries" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="EU- ES ORANGE OGO",ES (O) Atreseries
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235268
+#EXTINF:-1 tvg-ID="Factoría de Ficción" tvg-name="ES (O) FDF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="EU- ES ORANGE OGO",ES (O) FDF
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235303
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES (O) Energy" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES ORANGE OGO",ES (O) Energy
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235297
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES (O) Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES ORANGE OGO",ES (O) Neox
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235346
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES (O) Divinity" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES ORANGE OGO",ES (O) Divinity
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235292
+#EXTINF:-1 tvg-ID="DKISS" tvg-name="ES (O) DKISS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="EU- ES ORANGE OGO",ES (O) DKISS
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235293
+#EXTINF:-1 tvg-ID="Boing" tvg-name="ES (O) Boing" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png" group-title="EU- ES ORANGE OGO",ES (O) Boing
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235273
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES (O) Clan HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="EU- ES ORANGE OGO",ES (O) Clan HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235281
+#EXTINF:-1 tvg-ID="Dreamworks HD" tvg-name="ES (O) Dreamworks" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Dreamworks
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235295
+#EXTINF:-1 tvg-ID="Disney Channel HD" tvg-name="ES (O) Disney Ch" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Disney Ch
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235290
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="ES (O) DisneyJr" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="EU- ES ORANGE OGO",ES (O) DisneyJr
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235291
+#EXTINF:-1 tvg-ID="Nickelodeon HD" tvg-name="ES (O) Nick" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Nick
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235347
+#EXTINF:-1 tvg-ID="Nick JR" tvg-name="ES (O) Nick JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" group-title="EU- ES ORANGE OGO",ES (O) Nick JR
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235348
+#EXTINF:-1 tvg-ID="National Geographic HD" tvg-name="ES (O) NatGeo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) NatGeo
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235344
+#EXTINF:-1 tvg-ID="Nat Geo Wild HD" tvg-name="ES (O) NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) NatGeo Wild
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235345
+#EXTINF:-1 tvg-ID="Odisea" tvg-name="ES (O) Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="EU- ES ORANGE OGO",ES (O) Odisea
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235350
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="ES (O) Discovery" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="EU- ES ORANGE OGO",ES (O) Discovery
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235289
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="ES (O) DMAX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="EU- ES ORANGE OGO",ES (O) DMAX
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235294
+#EXTINF:-1 tvg-ID="Be Mad" tvg-name="ES (O) Be Mad TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="EU- ES ORANGE OGO",ES (O) Be Mad TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235272
+#EXTINF:-1 tvg-ID="Mega" tvg-name="ES (O) Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="EU- ES ORANGE OGO",ES (O) Mega
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235339
+#EXTINF:-1 tvg-ID="Teledeporte" tvg-name="ES (O) TDP HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="EU- ES ORANGE OGO",ES (O) TDP HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235364
+#EXTINF:-1 tvg-ID="GOL PLAY" tvg-name="ES (O) GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="EU- ES ORANGE OGO",ES (O) GOL PLAY
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235307
+#EXTINF:-1 tvg-ID="BuenViaje" tvg-name="ES (O) AMC Western" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" group-title="EU- ES ORANGE OGO",ES (O) AMC Western
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235274
+#EXTINF:-1 tvg-ID="Historia" tvg-name="ES (O) Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="EU- ES ORANGE OGO",ES (O) Historia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235308
+#EXTINF:-1 tvg-ID="Decasa" tvg-name="ES (O) Decasa" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" group-title="EU- ES ORANGE OGO",ES (O) Decasa
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235287
+#EXTINF:-1 tvg-ID="Canal Cocina" tvg-name="ES (O) Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="EU- ES ORANGE OGO",ES (O) Canal Cocina
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235276
+#EXTINF:-1 tvg-ID="AMC Break" tvg-name="ES (O) AMC BREAK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="EU- ES ORANGE OGO",ES (O) AMC BREAK
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235265
+#EXTINF:-1 tvg-ID="AMC Crime" tvg-name="ES (O) AMC CRIME" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="EU- ES ORANGE OGO",ES (O) AMC CRIME
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235266
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="ES (O) AXN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) AXN
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235269
+#EXTINF:-1 tvg-ID="AXN Movies HD" tvg-name="ES (O) AXN Movies" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) AXN Movies
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235270
+#EXTINF:-1 tvg-ID="STAR Channel HD" tvg-name="ES (O) FOX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) FOX
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235304
+#EXTINF:-1 tvg-ID="Calle 13 HD" tvg-name="ES (O) Calle 13" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Calle 13
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235275
+#EXTINF:-1 tvg-ID="SyFy HD" tvg-name="ES (O) Syfy" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Syfy
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235362
+#EXTINF:-1 tvg-ID="AMC HD" tvg-name="ES (O) AMC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) AMC
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235264
+#EXTINF:-1 tvg-ID="Warner TV HD" tvg-name="ES (O) Warner TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Warner TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235371
+#EXTINF:-1 tvg-ID="Cosmo HD" tvg-name="ES (O) Cosmo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Cosmo
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235284
+#EXTINF:-1 tvg-ID="Canal Hollywood HD" tvg-name="ES (O) Hollywood" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Hollywood
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235309
+#EXTINF:-1 tvg-ID="DARK" tvg-name="ES (O) Dark" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="EU- ES ORANGE OGO",ES (O) Dark
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235286
+#EXTINF:-1 tvg-ID="XTRM" tvg-name="ES (O) XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="EU- ES ORANGE OGO",ES (O) XTRM
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235372
+#EXTINF:-1 tvg-ID="Comedy Central HD" tvg-name="ES (O) Comedy Central" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Comedy Central
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235283
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES (O) 24 horas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="EU- ES ORANGE OGO",ES (O) 24 horas
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235261
+#EXTINF:-1 tvg-ID="Canal Sur HD" tvg-name="ES (O) CanalSur" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="EU- ES ORANGE OGO",ES (O) CanalSur
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235277
+#EXTINF:-1 tvg-ID="CNN International Europe" tvg-name="ES (O) CNN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20International%20Europe.png" group-title="EU- ES ORANGE OGO",ES (O) CNN
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235282
+#EXTINF:-1 tvg-ID="Al Jazeera English HD" tvg-name="ES (O) Al Jazeera" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20Jazeera%20English%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Al Jazeera
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235262
+#EXTINF:-1 tvg-ID="1+1 Internacional" tvg-name="ES (O) 1+1 International" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20Internacional.png" group-title="EU- ES ORANGE OGO",ES (O) 1+1 International
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235260
+#EXTINF:-1 tvg-ID="AllFlamenco" tvg-name="ES (O) AllFlamenco" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AllFlamenco.png" group-title="EU- ES ORANGE OGO",ES (O) AllFlamenco
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235263
+#EXTINF:-1 tvg-ID="Caracol TV" tvg-name="ES (O) Caracol TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" group-title="EU- ES ORANGE OGO",ES (O) Caracol TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235278
+#EXTINF:-1 tvg-ID="Deutsche W" tvg-name="ES (O) Deutsche W" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png" group-title="EU- ES ORANGE OGO",ES (O) Deutsche W
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235288
+#EXTINF:-1 tvg-ID="El Toro TV" tvg-name="ES (O) El Toro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="EU- ES ORANGE OGO",ES (O) El Toro TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235296
+#EXTINF:-1 tvg-ID="EITB Basque" tvg-name="ES (O) ETB Basque" tvg-logo="" group-title="EU- ES ORANGE OGO",ES (O) ETB Basque
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235298
+#EXTINF:-1 tvg-ID="EuroNews" tvg-name="ES (O) Euronews" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" group-title="EU- ES ORANGE OGO",ES (O) Euronews
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235299
+#EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="ES (O) Eurosport 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Eurosport 1
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235300
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="ES (O) Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="EU- ES ORANGE OGO",ES (O) Eurosport 2
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235301
+#EXTINF:-1 tvg-ID="EWTN" tvg-name="ES (O) EWTN" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EWTN.png" group-title="EU- ES ORANGE OGO",ES (O) EWTN
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235302
+#EXTINF:-1 tvg-ID="TVG - TV Galicia" tvg-name="ES (O) Galicia TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20-%20TV%20Galicia.png" group-title="EU- ES ORANGE OGO",ES (O) Galicia TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235305
+#EXTINF:-1 tvg-ID="Gametoon" tvg-name="ES (O) Gametoon" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" group-title="EU- ES ORANGE OGO",ES (O) Gametoon
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235306
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="ES (O) Mezzo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Mezzo HD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235340
+#EXTINF:-1 tvg-ID="MTV 00s" tvg-name="ES (O) MTV 00s" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2000s.png" group-title="EU- ES ORANGE OGO",ES (O) MTV 00s
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235341
+#EXTINF:-1 tvg-ID="MTV España" tvg-name="ES (O) MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="EU- ES ORANGE OGO",ES (O) MTV España
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235342
+#EXTINF:-1 tvg-ID="MTV Live" tvg-name="ES (O) MTV Live" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Live.png" group-title="EU- ES ORANGE OGO",ES (O) MTV Live
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235343
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES (O) Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES ORANGE OGO",ES (O) Nova
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235349
+#EXTINF:-1 tvg-ID="Pro TV" tvg-name="ES (O) Pro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" group-title="EU- ES ORANGE OGO",ES (O) Pro TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235351
+#EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="ES (O) Real Madrid" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="EU- ES ORANGE OGO",ES (O) Real Madrid
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235352
+#EXTINF:-1 tvg-ID="Runtime Acción" tvg-name="ES (O) Runtime Action" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" group-title="EU- ES ORANGE OGO",ES (O) Runtime Action
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235353
+#EXTINF:-1 tvg-ID="Runtime Cine y Series" tvg-name="ES (O) Runtime Cine y Series" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" group-title="EU- ES ORANGE OGO",ES (O) Runtime Cine y Series
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235354
+#EXTINF:-1 tvg-ID="Runtime Clásicos" tvg-name="ES (O) RunTime Clásico" tvg-logo="" group-title="EU- ES ORANGE OGO",ES (O) RunTime Clásico
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235355
+#EXTINF:-1 tvg-ID="Runtime Comedia" tvg-name="ES (O) Runtime Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png" group-title="EU- ES ORANGE OGO",ES (O) Runtime Comedia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235356
+#EXTINF:-1 tvg-ID="Runtime Series" tvg-name="ES (O) Runtime Series" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png" group-title="EU- ES ORANGE OGO",ES (O) Runtime Series
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235357
+#EXTINF:-1 tvg-ID="Runtime Thriller-Terror" tvg-name="ES (O) Runtime Thriller/Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" group-title="EU- ES ORANGE OGO",ES (O) Runtime Thriller/Terror
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235358
+#EXTINF:-1 tvg-ID="SELEKT" tvg-name="ES (O) SELEKT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" group-title="EU- ES ORANGE OGO",ES (O) SELEKT
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235359
+#EXTINF:-1 tvg-ID="Somos" tvg-name="ES (O) Somos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="EU- ES ORANGE OGO",ES (O) Somos
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235360
+#EXTINF:-1 tvg-ID="Sundance TV" tvg-name="ES (O) Sundance TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="EU- ES ORANGE OGO",ES (O) Sundance TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235361
+#EXTINF:-1 tvg-ID="TCM HD" tvg-name="ES (O) TCM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) TCM
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235363
+#EXTINF:-1 tvg-ID="Telemadrid" tvg-name="ES (O) TelemadridI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid%20Int..png" group-title="EU- ES ORANGE OGO",ES (O) TelemadridI
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235366
+#EXTINF:-1 tvg-ID="Ten" tvg-name="ES (O) Ten" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="EU- ES ORANGE OGO",ES (O) Ten
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235367
+#EXTINF:-1 tvg-ID="TRECE" tvg-name="ES (O) TR3CE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" group-title="EU- ES ORANGE OGO",ES (O) TR3CE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235368
+#EXTINF:-1 tvg-ID="TV3 CAT" tvg-name="ES (O) TV3CAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png" group-title="EU- ES ORANGE OGO",ES (O) TV3CAT
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235369
+#EXTINF:-1 tvg-ID="TV5 Monde Europe HD" tvg-name="ES (O) TV5 Monde" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV5%20Monde%20Europe%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) TV5 Monde
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235370
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Alcarria TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ALCARRIA-TV.jpg" group-title="EU- ES TIVIFY",ES (TY) Alcarria TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138758
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Al Jazeera" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aljazeera.png" group-title="EU- ES TIVIFY",ES (TY) Al Jazeera
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138756
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Al Jazeera Arabic" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aljazeeraarabic.png" group-title="EU- ES TIVIFY",ES (TY) Al Jazeera Arabic
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138757
+#EXTINF:-1 tvg-ID="aragontvint.es" tvg-name="ES (TY) Aragón TV Int" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES TIVIFY",ES (TY) Aragón TV Int
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138759
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Arirang Internacional" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ARIRANG.png" group-title="EU- ES TIVIFY",ES (TY) Arirang Internacional
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138760
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) A Wealth of Entertainment PLUS (AWE Plus)" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/AWE-HD.jpg" group-title="EU- ES TIVIFY",ES (TY) A Wealth of Entertainment PLUS (AWE Plus)
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138755
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Canal Málaga" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/CANAL-A.jpg" group-title="EU- ES TIVIFY",ES (TY) Canal Málaga
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138761
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Canal Parlamento" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalparlamento.png" group-title="EU- ES TIVIFY",ES (TY) Canal Parlamento
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138762
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) CGTN Español" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cgtnespanol.png" group-title="EU- ES TIVIFY",ES (TY) CGTN Español
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138763
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Cines Verdi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-H93gGIMwtTPBmIuDj4tChLz4Y8AXQyMHA&s" group-title="EU- ES TIVIFY",ES (TY) Cines Verdi TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138765
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) DW en español" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/DW-TV.png" group-title="EU- ES TIVIFY",ES (TY) DW en español
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138766
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) El País" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkfjPHXBAWxJj4GlHIYcLiVEgMaluUjuHgLKyB7TSGw3pS4q6c51cVXbkryHikKdh6R8&usqp=CAU" group-title="EU- ES TIVIFY",ES (TY) El País
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138767
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Estepona TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ESTEPONA-TV.png" group-title="EU- ES TIVIFY",ES (TY) Estepona TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138768
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) ETB Basque" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/euronews.png" group-title="EU- ES TIVIFY",ES (TY) ETB Basque
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138769
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Euronews" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/euronews.png" group-title="EU- ES TIVIFY",ES (TY) Euronews
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138770
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Film&Co" tvg-logo="https://m.media-amazon.com/images/I/61O5RBc6SxL.png" group-title="EU- ES TIVIFY",ES (TY) Film&Co
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138771
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Good VerCine Feel di TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcMowXKNSR6d3hhWz4Z1P8hG0xntwmtTwpYA&s" group-title="EU- ES TIVIFY",ES (TY) Good VerCine Feel di TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138764
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) ITA | Avanzado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGavgfaet3O58s6sbKS3ZteKP7mli7hhWbA&s" group-title="EU- ES TIVIFY",ES (TY) ITA | Avanzado
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138772
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) ITA | Intermedio" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/INTERMEDIA.png" group-title="EU- ES TIVIFY",ES (TY) ITA | Intermedio
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138773
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) ITA | Principiante" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIz1zuqWGw-bvyXN1YZl-AAmqjEzGu62ROTQ&s" group-title="EU- ES TIVIFY",ES (TY) ITA | Principiante
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138774
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Motorvision TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/motorvision.png" group-title="EU- ES TIVIFY",ES (TY) Motorvision TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138775
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Mírame TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/MIRAME-TV.jpg" group-title="EU- ES TIVIFY",ES (TY) Mírame TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138776
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Newsmax TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/NEWSMAX.png" group-title="EU- ES TIVIFY",ES (TY) Newsmax TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138777
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Onda Algeciras" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ONDA-TV.png" group-title="EU- ES TIVIFY",ES (TY) Onda Algeciras
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138779
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) One America News Plus (OAN)" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/oneamericannews.png" group-title="EU- ES TIVIFY",ES (TY) One America News Plus (OAN)
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138778
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Pocoyó" tvg-logo="https://i.pinimg.com/474x/c1/eb/b2/c1ebb2bb273fedce9ea525daef9e0f2f.jpg" group-title="EU- ES TIVIFY",ES (TY) Pocoyó
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138780
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Red Bull TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/redbulltv.png" group-title="EU- ES TIVIFY",ES (TY) Red Bull TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138781
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/RUNTIME-tv.png" group-title="EU- ES TIVIFY",ES (TY) Runtime
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138782
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime Acción" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/RUNTIME-tv.png" group-title="EU- ES TIVIFY",ES (TY) Runtime Acción
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138783
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime Clásicos" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/RUNTIME-tv.png" group-title="EU- ES TIVIFY",ES (TY) Runtime Clásicos
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138784
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime Comedia" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="EU- ES TIVIFY",ES (TY) Runtime Comedia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138785
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime Crimen" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="EU- ES TIVIFY",ES (TY) Runtime Crimen
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138786
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime Romance" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="EU- ES TIVIFY",ES (TY) Runtime Romance
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138787
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Runtime Thriller + Terror" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="EU- ES TIVIFY",ES (TY) Runtime Thriller + Terror
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138788
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) SIC Internacional" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/sicinternacional.png" group-title="EU- ES TIVIFY",ES (TY) SIC Internacional
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138789
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Sin Filtros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaAxms4DGGm84YZWxS4S55xvHuaI7G1_WPg&s" group-title="EU- ES TIVIFY",ES (TY) Sin Filtros
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138790
+#EXTINF:-1 tvg-ID="telesur.es" tvg-name="ES (TY) Telesur" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telesurhd.png" group-title="EU- ES TIVIFY",ES (TY) Telesur
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138791
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Test 2 | Intercomercal TV" tvg-logo="https://play-lh.googleusercontent.com/M2suNNdSa0yKQ2CnDqvf0PuQRkYHQVdAU4NbweIk75yrQsk5-Y7I6wDFiSKQe0opeJ0=w526-h296-rw" group-title="EU- ES TIVIFY",ES (TY) Test 2 | Intercomercal TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138792
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Test 4 | Afortunadas TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4CYqUN2ipZXXiP-n83bCgWgQae3LdRn0yw&s" group-title="EU- ES TIVIFY",ES (TY) Test 4 | Afortunadas TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138793
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Test 6 | Vivir con Gatos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHffIUVJ3NNUGqS-qr_DZYmz9LFhgPvRObbQ&s" group-title="EU- ES TIVIFY",ES (TY) Test 6 | Vivir con Gatos
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138794
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) teve.cat" tvg-logo="https://i.pinimg.com/originals/d2/50/43/d25043430dc8cceee5cd116e536ec960.jpg" group-title="EU- ES TIVIFY",ES (TY) teve.cat
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138795
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) TRT Arabi" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/trtarabi.png" group-title="EU- ES TIVIFY",ES (TY) TRT Arabi
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138796
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) TRT World" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/trtworld.png" group-title="EU- ES TIVIFY",ES (TY) TRT World
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138797
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) TV Melilla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejC31w95DHngSx715_B4Ev7IvPkKfI5Y1fQ&s" group-title="EU- ES TIVIFY",ES (TY) TV Melilla
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138798
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) VIVA RTV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/VIVA.jpg" group-title="EU- ES TIVIFY",ES (TY) VIVA RTV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138799
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Vivir con gatos" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/88/80/26/88802646-9bc0-8215-f001-fea9b192ffa7/mza_6493557136974204203.jpg/1200x600wp.png" group-title="EU- ES TIVIFY",ES (TY) Vivir con gatos
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138800
+#EXTINF:-1 tvg-ID="" tvg-name="ES (TY) Vivir con perros" tvg-logo="https://i.pinimg.com/474x/70/97/89/709789356fc7890c3b903f101c29b13a.jpg" group-title="EU- ES TIVIFY",ES (TY) Vivir con perros
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138801
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="(ES) COCINA UHD/4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/COCINA.png" group-title="EU- ES ZAPI",(ES) COCINA UHD/4K
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138826
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="(ES) DECASA UHD/4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canaldecasa.png" group-title="EU- ES ZAPI",(ES) DECASA UHD/4K
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138831
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="(ES) ODISEA UHD/4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ODISEA.png" group-title="EU- ES ZAPI",(ES) ODISEA UHD/4K
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138866
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) 7RM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/RM-7-TV.png" group-title="EU- ES ZAPI",ES (ZAP) 7RM
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138804
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) 24H Informativos Cableworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZvUIwNIuNyDMDDDis7EASqQz7BmnBc52aw&s" group-title="EU- ES ZAPI",ES (ZAP) 24H Informativos Cableworld
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138802
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) 24H TVE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tve.png" group-title="EU- ES ZAPI",ES (ZAP) 24H TVE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138803
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) AL AOULA INTERNACIONAL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alaoulainterplusl.png" group-title="EU- ES ZAPI",ES (ZAP) AL AOULA INTERNACIONAL
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138806
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES (ZAP) AMC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amc.png" group-title="EU- ES ZAPI",ES (ZAP) AMC
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138807
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) AMC BREAK" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amc.png" group-title="EU- ES ZAPI",ES (ZAP) AMC BREAK
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138808
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) AMC CRIME" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/skycrime.png" group-title="EU- ES ZAPI",ES (ZAP) AMC CRIME
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138809
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) A PUNT" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/puntlandtv.jpg" group-title="EU- ES ZAPI",ES (ZAP) A PUNT
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138805
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) ARTE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/skyarte.png" group-title="EU- ES ZAPI",ES (ZAP) ARTE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138810
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) ASPE TV" tvg-logo="https://www.cableworld.es/wp-content/uploads/2017/05/television-aspe.png" group-title="EU- ES ZAPI",ES (ZAP) ASPE TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138811
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES (ZAP) ATRESERIES" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/atreseries.png" group-title="EU- ES ZAPI",ES (ZAP) ATRESERIES
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138812
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES (ZAP) AXN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/axnaction.png" group-title="EU- ES ZAPI",ES (ZAP) AXN
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138813
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES (ZAP) AXN WHITE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/axnwhite.png" group-title="EU- ES ZAPI",ES (ZAP) AXN WHITE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138814
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) BBC NEWS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bbcnewshd.png" group-title="EU- ES ZAPI",ES (ZAP) BBC NEWS
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138815
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES (ZAP) BEMAD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bemad.png" group-title="EU- ES ZAPI",ES (ZAP) BEMAD
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138816
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) Betis TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Betis_TV_ES_logo.png" group-title="EU- ES ZAPI",ES (ZAP) Betis TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138817
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES (ZAP) BOING" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/boing.png" group-title="EU- ES ZAPI",ES (ZAP) BOING
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138818
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) BOM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bom.png" group-title="EU- ES ZAPI",ES (ZAP) BOM
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138819
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES (ZAP) CALLE 13" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/calle13hd.png" group-title="EU- ES ZAPI",ES (ZAP) CALLE 13
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138820
+#EXTINF:-1 tvg-ID="canalestrellas.es" tvg-name="ES (ZAP) CANAL DE LAS ESTRELLAS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasestrellas.png" group-title="EU- ES ZAPI",ES (ZAP) CANAL DE LAS ESTRELLAS
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138821
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="ES (ZAP) CANAL SUR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES ZAPI",ES (ZAP) CANAL SUR
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138822
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="ES (ZAP) CLAN TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES ZAPI",ES (ZAP) CLAN TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138823
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) CNBC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/008cnbc.png" group-title="EU- ES ZAPI",ES (ZAP) CNBC
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138824
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) CNN INTER" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cnninternational.png" group-title="EU- ES ZAPI",ES (ZAP) CNN INTER
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138825
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES (ZAP) CUATRO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES ZAPI",ES (ZAP) CUATRO
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138827
+#EXTINF:-1 tvg-ID="dark.es" tvg-name="ES (ZAP) DARK" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/dark.png" group-title="EU- ES ZAPI",ES (ZAP) DARK
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138828
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) DAS ERSTE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/daserste.png" group-title="EU- ES ZAPI",ES (ZAP) DAS ERSTE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138829
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) DBIKE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bikechannel.png" group-title="EU- ES ZAPI",ES (ZAP) DBIKE
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138830
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES (ZAP) DISCOVERY CHANNEL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/discoverychannelhd.png" group-title="EU- ES ZAPI",ES (ZAP) DISCOVERY CHANNEL
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138832
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="ES (ZAP) DIVINITY" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/divinity.png" group-title="EU- ES ZAPI",ES (ZAP) DIVINITY
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138833
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES (ZAP) DKISS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Dkiss.png/revision/latest?cb=20160521194529" group-title="EU- ES ZAPI",ES (ZAP) DKISS TV
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138834
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="ES (ZAP) DMAX" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/dmaxhd.png" group-title="EU- ES ZAPI",ES (ZAP) DMAX
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138835
+#EXTINF:-1 tvg-ID="eltorotv.es" tvg-name="ES (ZAP) EL TORO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/eltorotv.png" group-title="EU- ES ZAPI",ES (ZAP) EL TORO
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138836
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES (ZAP) ENERGY" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/energy.png" group-title="EU- ES ZAPI",ES (ZAP) ENERGY
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138837
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) EnFamilia" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/TV-FAMILIA.png" group-title="EU- ES ZAPI",ES (ZAP) EnFamilia
+http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138838
 
