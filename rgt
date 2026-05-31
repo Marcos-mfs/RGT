@@ -23,11 +23,11 @@ http://148.113.209.34/rj-live/rj-live/600102.ts
 http://148.113.153.35/rj-live/rj-live/600116.ts
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO EPTV
 http://148.113.209.34/rj-live/rj-live/600112.ts
-#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small", GLOBO
+#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small",GLOBO
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:0 type="stream" channelId="2464" aspect-ratio="16:9" size="Small", RBS POA
+#EXTINF:0 type="stream" channelId="2464" aspect-ratio="16:9" size="Small",RBS POA
 https://hplay.tv/augetv/12396547488/10.m3u8
-#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small", GLOBO RECIFE
+#EXTINF:0 type="stream" channelId="2432" aspect-ratio="16:9" size="Small",GLOBO RECIFE
 https://hplay.tv/augetv/12396547488/11.m3u8
 
 #EXTINF:-1 tvg-name="Band Minas FHD" tvg-logo="https://acstatic.co/logos/canais/band.png",Band Minas FHD
@@ -38,11 +38,12 @@ http://tv.mapfibra.com.br:8555/live/1280/123456/282.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/285.m3u8
 #EXTINF:-1 tvg-name="SBT Minas FHD" tvg-logo="https://acstatic.co/logos/canais/sbt.png",SBT Minas
 http://tv.mapfibra.com.br:8555/live/1280/123456/291.m3u8
+
 #EXTINF:-1 tvg-name="Rede TV" tvg-logo="https://acstatic.co/logos/canais/redetv.png", REDE TV!
 http://tv.mapfibra.com.br:8555/live/2003/123456/289.m3u8
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://acstatic.co/logos/canais/tvcultura.png", TV CULTURA SINAL 01
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://acstatic.co/logos/canais/tvcultura.png",TV CULTURA SINAL 01
 http://tv.mapfibra.com.br:8555/live/1280/123456/318.m3u8
-#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png", TV CULTURA REDE
+#EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png",TV CULTURA REDE
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",CULTURA TBC GOIANIA
 http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
@@ -50,20 +51,22 @@ http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small", TV SERRA DOURADA SBT
+#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small",TV SERRA DOURADA SBT
 http://fsonline01.org:80/5289442894/2879833814/72358
 
-#EXTINF:0 type="stream" channelId="13" aspect-ratio="16:9" size="Small", BAND REDE
+#EXTINF:-1 tvg-name="Band REDE" tvg-logo="https://acstatic.co/logos/canais/band.png",Band REDE
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-360p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3ODMzNDc4NiwibmJmIjoxNzc4MzM0Nzg2LCJleHAiOjE3ODA5MjY3ODYsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjM5NWY1ZGY3LWEwNTItNDRlYi04ZDQ3LTBkNWRiOTEzMjFjZiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.k-ZIkSyZn4OtI7hiNXxjqdP_hfjn8zHPidRiCvwvTVY&uid=395f5df7-a052-44eb-8d47-0d5db91321cf
-#EXTINF:0 type="stream" channelId="7" aspect-ratio="16:9" size="Small", RECORD PAULISTA
+#EXTINF:-1 tvg-name="RecordTV" tvg-logo="https://acstatic.co/logos/canais/record.png",RecordTVHD
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://acstatic.co/logos/canais/sbt.png",+SBT
+https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" size="Small", REDE BRASIL
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2438" aspect-ratio="16:9" size="Small", RBTV HD SINAL 2
 https://cdn.br10.sbs/memfs/f74750ce-c186-48c4-a113-0bb760babbbc_output_0.m3u8
-#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV MAPFIBRA
+#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323",RBTV MAPFIBRA
 http://tv.mapfibra.com.br:8555/live/1280/123456/351.m3u8
-#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323", RBTV
+#EXTINF:-1 tvg-name="RBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png?20210410213323",RBTV
 https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://istv.com.br/wp-content/uploads/2023/05/ISTV_COLOR_2024_52.png" aspect-ratio="16:9" size="Small", ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist.m3u8
@@ -71,27 +74,24 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/348.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_da_Rede_Meio_Norte.png?20231122180914" aspect-ratio="16:9" size="Small", TV MEIO NORTE
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="2459" aspect-ratio="16:9" size="Small", TV DIARIO CE
+#EXTINF:0 type="stream" channelId="2459" aspect-ratio="16:9" size="Small",TV DIARIO CE
 http://srv.cldplay.in:80/cristiano8541/Silva8541/147730
-#EXTINF:0 type="stream" channelId="5080" aspect-ratio="16:9" size="Small", TV A CRITICA
+#EXTINF:0 type="stream" channelId="5080" aspect-ratio="16:9" size="Small",TV A CRITICA
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8?hls_ctx=5i8ng478
-#EXTINF:-1 tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png", TV GAZETA
+#EXTINF:-1 tvg-name="TV GAZETA" tvg-logo="https://logospng.org/wp-content/uploads/gazeta.png",TV GAZETA
 http://tv.mapfibra.com.br:8555/live/1280/123456/281.m3u8
 #EXTINF:0,FUTURA
 http://tv.mapfibra.com.br:8555/live/1280/123456/280.m3u8
 #EXTINF:0,CNT
 http://tv.mapfibra.com.br:8555/live/1280/123456/303.m3u8
-#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL
+#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_3000000=10004.m3u8
-#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL ALT
+#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small",TV BRASIL ALT
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
-#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small", TV BRASIL INTERNACIONAL
+#EXTINF:0 type="stream" channelId="2466" aspect-ratio="16:9" size="Small",TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/INTERNACIONAL-avc1_3000000=10003.m3u8
 
-
-
-
-#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png", GLOBONEWS HD
+#EXTINF:-1 tvg-name="Globo News HD" tvg-logo="https://acstatic.co/logos/canais/globonews.png",GLOBONEWS HD
 http://79.127.238.228:14093/
 #EXTINF:-1 tvg-name="SBT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/SBT_News_2025.svg/250px-SBT_News_2025.svg.png",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -99,14 +99,13 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 http://tv.mapfibra.com.br:8555/live/1280/123456/286.m3u8
 #EXTINF:-1 tvg-name="JP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/598px-Jovem_Pan_News_logo_2022.png",JOVEM PAN NEWS
 http://tv.mapfibra.com.br:8555/live/1280/123456/308.m3u8
-#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small", REUTERS
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9" size="Small",REUTERS
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="1972" aspect-ratio="16:9" size="Small", CNN
+#EXTINF:0 type="stream" channelId="1972" aspect-ratio="16:9" size="Small",CNN
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2646" aspect-ratio="16:9" size="Small", SIC NEWS
+#EXTINF:0 type="stream" channelId="2646" aspect-ratio="16:9" size="Small",SIC NEWS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/2a9b0375a99e49a9b84feea2b46e2871/index_1.m3u8
-
 
 #EXTINF:-1 tvg-name="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png", WNBC
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=987276&extension=ts
@@ -163,17 +162,17 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 
 
-#EXTINF:0 type="stream" channelId="-1", TELEFE HD
+#EXTINF:0 type="stream" channelId="-1",TELEFE HD
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" , ABC TV Sydney (720p)
+#EXTINF:0 type="stream" channelId="-1" ,ABC TV Sydney (720p)
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 type="stream" channelId="-1", ANIMALS 4K
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
 
-#EXTINF:0 type="stream" channelId="2287" aspect-ratio="16:9", LAS ESTRELLAS SINAL 01
+#EXTINF:0 type="stream" channelId="2287" aspect-ratio="16:9",LAS ESTRELLAS SINAL 01
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_de_Televisa.svg",TELEVISA LAS ESTRELLAS
 http://45.5.119.108:8000/play/a05n/index.m3u8
@@ -399,7 +398,6 @@ http://200.229.147.142:8000/play/a05e/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a052/index.m3u8
 
-
 #EXTINF:11,yVENUS
 #EXTVLCOPT:network-caching=1000
 http://200.229.147.142:8000/play/a01r/index.m3u8
@@ -452,9 +450,9 @@ http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV10
 http://69.30.245.50/live/cctv10.m3u8
 
-#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small", NHK G HD
+#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small", NHK G BACKUP
+#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G BACKUP
 https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES 4k- Telecinco" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES 4K UHD",ES 4k- Telecinco
