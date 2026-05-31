@@ -1096,3 +1096,55 @@ http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138837
 #EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) EnFamilia" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/TV-FAMILIA.png" group-title="EU- ES ZAPI",ES (ZAP) EnFamilia
 http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1138838
 
+#EXTINF:-1 tvg-id="738cf297e9a4f9bf8f6eb6a3679c3b4f" tvg-chno="5.1",NBC WCYB NBC
+http://9.245.1.14:9981/stream/channelid/401771635
+#EXTINF:-1 tvg-id="1c25ab9191f4a2a0fbeb26d74e46412b" tvg-chno="5.2",W CW
+http://9.245.1.14:9981/stream/channelid/296428828
+#EXTINF:-1 tvg-id="486736c492bfc1773bbe2f769523cbea" tvg-chno="5.3",W FOX
+http://9.245.1.14:9981/stream/channelid/1144416072
+#EXTINF:-1 tvg-id="0aaec19b5142217bfb830652c7feca26" tvg-chno="5.4",TrueCrm
+http://9.245.1.14:9981/stream/channelid/465677834
+#EXTINF:-1 tvg-id="91c7516714035f4407501a7f56586fe8" tvg-chno="5.5",Rewind
+http://9.245.1.14:9981/stream/channelid/1733412753
+#EXTINF:-1 tvg-id="fb47ddf02d4cd9f634598c487c842f84" tvg-chno="11.1",CBS WJHL1 CBS
+http://9.245.1.14:9981/stream/channelid/1893550075
+#EXTINF:-1 tvg-id="05060dad9a8b7c8ad5752fdc337f4bb5" tvg-chno="11.2",ABC WJHL2 ABC
+http://9.245.1.14:9981/stream/channelid/755828229
+#EXTINF:-1 tvg-id="69ca5f15ffa57625e92936a372221340" tvg-chno="11.3",Antenna
+http://9.245.1.14:9981/stream/channelid/358599273
+#EXTINF:-1 tvg-id="d1729289b5eab36e0bd987a36255ad1d" tvg-chno="19.1",COZI
+http://9.245.1.14:9981/stream/channelid/160592593
+#EXTINF:-1 tvg-id="8b548de757142a64984dde3efcf0c358" tvg-chno="19.2",MeTV
+http://9.245.1.14:9981/stream/channelid/1737315467
+#EXTINF:-1 tvg-id="3b003187a72099ffd3a2649ee6038731" tvg-chno="19.3",LAFF
+http://9.245.1.14:9981/stream/channelid/120651835
+#EXTINF:-1 tvg-id="55661573d302b15a7ea5b0bad2e533e0" tvg-chno="19.4",IonMyst
+http://9.245.1.14:9981/stream/channelid/1930782293
+#EXTINF:-1 tvg-id="7d7d74b933c89c5650abff2235d96620" tvg-chno="19.5",StartTV
+http://9.245.1.14:9981/stream/channelid/963935613
+#EXTINF:-1 tvg-id="6efebd029ab29b974801ae98fd01f41a" tvg-chno="19.6",Movies!
+http://9.245.1.14:9981/stream/channelid/46005870
+#EXTINF:-1 tvg-id="8d293a5424614e4ec4c685c68a3f0208" tvg-chno="19.7",StoryTV
+http://9.245.1.14:9981/stream/channelid/1413097869
+#EXTINF:-1 tvg-id="d876940e2fce2c0d98218b4a3028f6d5" tvg-chno="19.8",Toons
+http://9.245.1.14:9981/stream/channelid/244610776
+#EXTINF:-1 tvg-id="b71a339b7607140061750329b07d3b98" tvg-chno="36.1",MeTV [HD]
+http://9.245.1.14:9981/stream/channelid/456334007
+#EXTINF:-1 tvg-id="debdb48b16fad9751c120435b403b4aa" tvg-chno="36.2",Grit
+http://9.245.1.14:9981/stream/channelid/196394462
+#EXTINF:-1 tvg-id="7508f80d0eae1d3414a4b5a39bbbae98" tvg-chno="36.3",Bounce
+http://9.245.1.14:9981/stream/channelid/234358901
+#EXTINF:-1 tvg-id="cd999ab0343d56b93d28d171acfd4f49" tvg-chno="36.4",Heroes & Icons
+http://9.245.1.14:9981/stream/channelid/815438285
+#EXTINF:-1 tvg-id="c673e4357491f4e0be3defda491dfe6f" tvg-chno="36.5",WOPI AM 1490 - ESPN Tri Cities
+http://9.245.1.14:9981/stream/channelid/904164294
+#EXTINF:-1 tvg-id="b4fed2d4f8799dd95829d85cbea9ff5a" tvg-chno="36.6",WKTP AM 1590 - ESPN Tri Cities
+http://9.245.1.14:9981/stream/channelid/1423113908
+#EXTINF:-1 tvg-id="fe2ea4c86696a506d23c7285210cca0d" tvg-chno="39.1",WEMT-DT
+http://9.245.1.14:9981/stream/channelid/1218719486
+#EXTINF:-1 tvg-id="f814e793fa15aa6a2c987d7f756a344a" tvg-chno="39.2",Comet
+http://9.245.1.14:9981/stream/channelid/333911288
+#EXTINF:-1 tvg-id="888cccabf83214396f228a19b0bcc3b7" tvg-chno="39.3",Charge!
+http://9.245.1.14:9981/stream/channelid/734825608
+#EXTINF:-1 tvg-id="b185865d597734477dc7be7016af4431" tvg-chno="39.4",TheNest
+http://9.245.1.14:9981/stream/channelid/1569097137
