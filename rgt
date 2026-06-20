@@ -7,6 +7,28 @@ http://79.127.238.228:14211/
 #EXTINF:-1 tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TVBahia25.svg/250px-TVBahia25.svg.png",TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
+#EXTINF:22,PR REDE MASSA HD
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/SBT/index.m3u8
+#EXTINF:22,PR GLOBO RPC HD
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/RPC/index.m3u8
+#EXTINF:22,PR RIC CURITIBA
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/RECORD/index.m3u8
+#EXTINF:22,PR BAND HD
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/BAND/index.m3u8
+#EXTINF:22,GLOBO-NEWS-HD
+#EXTVLCOPT:network-caching=1000
+http://170.82.202.31/GloboNews/index.m3u8
+#EXTINF:0,PRIVATE
+#EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/private
+#EXTINF:0,DORCEL TV
+#EXTVLCOPT:network-caching=1000
+http://77.46.130.252:99/dorcel
+
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO RJO
 http://79.127.238.228:14217/
 #EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png",GLOBO BSB
