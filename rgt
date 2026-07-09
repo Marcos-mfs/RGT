@@ -53,6 +53,10 @@ https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small",TV SERRA DOURADA SBT
 http://fsonline01.org:80/5289442894/2879833814/72358
+#EXTINF:-1 tvg-name="BAND TV SUCESSO" tvg-logo="https://acstatic.co/logos/canais/band.png",BAND TV SUCESSO GOIANIA
+https://tv.gs10.com.br/hls/stream1.m3u8
+#EXTINF:-1 tvg-name="BAND TV SUCESSO" tvg-logo="https://acstatic.co/logos/canais/band.png",BAND TV SUCESSO INTERIOR RV
+https://tv.gs10.com.br/hls/stream2.m3u8
 
 #EXTINF:-1 tvg-name="Band REDE" tvg-logo="https://acstatic.co/logos/canais/band.png",Band REDE
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE5OGNjODk3LTg3MGQtNDRkOC1iMWMwLTYxMTMyYmJiMjhhNCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4MDUyODQ5OSwibmJmIjoxNzgwNTI4NDk5LCJleHAiOjE3ODMxMjA0OTksInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjE5OGNjODk3LTg3MGQtNDRkOC1iMWMwLTYxMTMyYmJiMjhhNCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.g7mZcwQ8OMoXeOwcLgKlYnxZ9Sx8uiVyUa7o0u85trY&uid=198cc897-870d-44d8-b1c0-61132bbb28a4
