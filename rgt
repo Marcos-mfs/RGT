@@ -1,4 +1,102 @@
 EXTM3U 
+#EXTINF:-1,BOAVONTADE TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1117.m3u8
+#EXTINF:-1,JOVEMPAN
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1119.m3u8
+#EXTINF:-1,PLUS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1120.m3u8
+#EXTINF:-1,HBO FAMILY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.m3u8
+#EXTINF:-1,HBO 2
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
+#EXTINF:-1,TV HBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
+#EXTINF:-1,TV GNT
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1129.m3u8
+#EXTINF:-1,GLOOB
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1130.m3u8
+#EXTINF:-1,ESPN 6
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1131.m3u8
+#EXTINF:-1,TV GLOBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1132.m3u8
+#EXTINF:-1,TV GLOBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1134.m3u8
+#EXTINF:-1,GAZETA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1135.m3u8
+#EXTINF:-1,TRAVEL FOOD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1137.m3u8
+#EXTINF:-1,FISH TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
+#EXTINF:-1,ESPN 3
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.m3u8
+#EXTINF:-1,SPOR TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
+#EXTINF:-1,MUSIC ROCK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1142.m3u8
+#EXTINF:-1,MUSIC POP
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1143.m3u8
+#EXTINF:-1,MUSIC PARTY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1144.m3u8
+#EXTINF:-1,MUSIC LATINO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1145.m3u8
+#EXTINF:-1,MUSIC HITS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1146.m3u8
+#EXTINF:-1,MUSIC CLASSICS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1147.m3u8
+#EXTINF:-1,MUSIC BLACK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1148.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1149.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1150.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1151.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1153.m3u8
+#EXTINF:-1,INVESTIGATIN DISCOVERY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.m3u8
+#EXTINF:-1,h & h
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
+#EXTINF:-1,DISCOVERY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.m3u8
+#EXTINF:-1,ESPN 4
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.m3u8
+#EXTINF:-1,IGREJA UNIVERSAL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1160.m3u8
+#EXTINF:-1,CNN BRASIL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1161.m3u8
+#EXTINF:-1,HD TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1162.m3u8
+#EXTINF:-1,CINEMAX
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.m3u8
+#EXTINF:-1,CH ESPIRITO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1165.m3u8
+#EXTINF:-1,CARTOONITO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1167.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1168.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1169.m3u8
+#EXTINF:-1,CANAL SAUDE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1170.m3u8
+#EXTINF:-1,CANAL DO BOI
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1172.m3u8
+#EXTINF:-1,BS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
+#EXTINF:-1,CINEFLIX MOVIES
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1177.m3u8
+#EXTINF:-1,ARTE 1
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1178.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.m3u8
+#EXTINF:-1,AGRO CANAL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1180.m3u8
+#EXTINF:-1,ADULT SWIMM
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1181.m3u8
+
+
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
