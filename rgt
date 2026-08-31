@@ -1,4 +1,19 @@
 EXTM3U 
+#EXTINF:0 group-title="PT",RTP 1
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="PT",RTP Memória
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:0 group-title="PT",SIC
+http://50.7.120.34:8080/SIC/index.m3u8
+#EXTINF:0 group-title="PT",TVI
+http://50.7.120.34:8080/TVI/index.m3u8
+#EXTINF:0 group-title="PT",Porto Canal
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
+
 #EXTINF:-1,BOAVONTADE TV
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1117.m3u8
 #EXTINF:-1,JOVEMPAN
