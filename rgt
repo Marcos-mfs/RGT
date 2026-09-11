@@ -14,687 +14,483 @@ http://50.7.120.34:8080/TVI/index.m3u8
 #EXTINF:0 group-title="PT",Porto Canal
 http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 
-#EXTINF:-1,BOAVONTADE TV
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1117.m3u8
-#EXTINF:-1,JOVEMPAN
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1119.m3u8
-#EXTINF:-1,PLUS
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1120.m3u8
-#EXTINF:-1,HBO FAMILY
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.m3u8
-#EXTINF:-1,HBO 2
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
-#EXTINF:-1,TV HBO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
-#EXTINF:-1,TV GNT
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1129.m3u8
-#EXTINF:-1,GLOOB
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1130.m3u8
-#EXTINF:-1,ESPN 6
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1131.m3u8
-#EXTINF:-1,TV GLOBO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1132.m3u8
-#EXTINF:-1,TV GLOBO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1134.m3u8
-#EXTINF:-1,GAZETA
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1135.m3u8
-#EXTINF:-1,TRAVEL FOOD
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1137.m3u8
-#EXTINF:-1,FISH TV
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
-#EXTINF:-1,ESPN 3
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.m3u8
-#EXTINF:-1,SPOR TV
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
-#EXTINF:-1,MUSIC ROCK
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1142.m3u8
-#EXTINF:-1,MUSIC POP
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1143.m3u8
-#EXTINF:-1,MUSIC PARTY
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1144.m3u8
-#EXTINF:-1,MUSIC LATINO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1145.m3u8
-#EXTINF:-1,MUSIC HITS
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1146.m3u8
-#EXTINF:-1,MUSIC CLASSICS
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1147.m3u8
-#EXTINF:-1,MUSIC BLACK
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1148.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1149.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1150.m3u8
-#EXTINF:-1,DISCOVERY THEATER
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1151.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1153.m3u8
-#EXTINF:-1,INVESTIGATIN DISCOVERY
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.m3u8
-#EXTINF:-1,h & h
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
-#EXTINF:-1,DISCOVERY
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.m3u8
-#EXTINF:-1,ESPN 4
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.m3u8
-#EXTINF:-1,IGREJA UNIVERSAL
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1160.m3u8
-#EXTINF:-1,CNN BRASIL
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1161.m3u8
-#EXTINF:-1,HD TV
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1162.m3u8
-#EXTINF:-1,CINEMAX
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.m3u8
-#EXTINF:-1,CH ESPIRITO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1165.m3u8
-#EXTINF:-1,CARTOONITO
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1167.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1168.m3u8
-#EXTINF:-1,CANCAO NOVA
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1169.m3u8
-#EXTINF:-1,CANAL SAUDE
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1170.m3u8
-#EXTINF:-1,CANAL DO BOI
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1172.m3u8
-#EXTINF:-1,BS
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
-#EXTINF:-1,CINEFLIX MOVIES
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1177.m3u8
-#EXTINF:-1,ARTE 1
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1178.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.m3u8
-#EXTINF:-1,AGRO CANAL
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1180.m3u8
-#EXTINF:-1,ADULT SWIMM
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1181.m3u8
+#EXTINF:-1,PT: BTV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZkxQRGllaXd0NmsvZ0wzcThtbHFPUT0
+#EXTINF:-1,PT: BTV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU1M4a1pDT2l4Z0pBaHl5cG8yalpiVT0
+#EXTINF:-1,PT: BTV SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUnlZVkdONHg5YndHZFR4M0FvZTBYZz0
+#EXTINF:-1,PT: Sport TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZE94K3pTMGR3ZXZIWGtjaS9tQ1RBaz0
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWHFRYnNFMGJIdlR1a1JYVnZSNktUOD0
+#EXTINF:-1,PT: Sport TV 1 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWXkwZU52RkFpdjBOV2ZhaW1PYmxVdz0
+#EXTINF:-1,PT: Sport TV 1 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWFBjN09ta1A4YkM5empBR1pzbHJ1bz0
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYXJrRmkvdDVXdHE4bXhDcmQ1RTVKST0
+#EXTINF:-1,PT: Sport TV 2 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWlVIaVMzenVSVWtkQVNPSVJWR2tpYz0
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUmh3Q0FzcVJZc3poQ0o4bnZQeHdkUT0
+#EXTINF:-1,PT: TVcine Emotion FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVkJuR2sxTnB3bTdyajVDSnd2QnMzUT0
+#EXTINF:-1,PT: Sport TV 3 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYVBQZVVxTzBPMk91eVRJaURURk5hST0
+#EXTINF:-1,PT: Sport TV 3 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUVRMelJCS1FtK1g5K3lpK3dLbjV5cz0
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVC8zVjJ0ZkZ0RmpsZ2MwVGp0emVRMD0
+#EXTINF:-1,PT: Sport TV 4 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWXg5QU42NEhYQUhaWGt0SDdoeFc0UT0
+#EXTINF:-1,PT: Sport TV 4 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVXhFNEtiTnMyVW9ic1lnNGp5MityVT0
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZm1XVWJjZDBhdm1tR3FNeCszTjNraz0
+#EXTINF:-1,PT: Sport TV 5 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWC83M2RWQlNJZlpuRFhDNUtvbzFERT0
+#EXTINF:-1,PT: Sport TV 5 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY3locC94QjNMK3B0L3F6VXVlelllOD0
+#EXTINF:-1,PT: Sport TV 6 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVWRvbk1IZC95alMwdU56UlNUMnMzaz0
+#EXTINF:-1,PT: Sport TV 6 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZU56WFB1RVNZSzAyWHFwNEd4SVowWT0
+#EXTINF:-1,PT: Sport TV 7
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZjg3aDlRNnZJb3Rnd0NlSjcvVDBOND0
+#EXTINF:-1,PT: TVcine TOP FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVEczTGJiN09FZU5uKzl0VWlkc00vcz0
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYzU2eFVzcHZwN0VIN2VHVlljRVYybz0
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV3dUZVdqQ2xZVEllbDlNcUUyNHRoQT0
+#EXTINF:-1,PT: FOX LIFE HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZVVoY2lxV2FieFZjRGtVUTBnOFdSOD0
+#EXTINF:-1,PT: AXN Movies FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYnFGMnVXTktvMWx1QjVOdDRYaDI3WT0
+#EXTINF:-1,PT: AXN Movies HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVlEzNnlnclBxNDVQekQ5QkJsbWZ1WT0
+#EXTINF:-1,PT: AXN White FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYUxSZUZEMldEYTVtVmZUa3BhUE9iOD0
+#EXTINF:-1,PT: AXN WHITE HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmdwSkxlakZ5UlhXYS92QmRBSkZCQT0
+#EXTINF:-1,PT: Canal NOS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUnhjMnF2UkQwcU5uYy80SGM1b1ZuMD0
+#EXTINF:-1,PT: Cinemundo FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU2IyWDlCSE5NVlZ3cGFreDM3aE41bz0
+#EXTINF:-1,PT: Combat FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUllOUkVDWU43TGJZWFliYyt3aFJXYz0
+#EXTINF:-1,PT: FOX Comedy FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWTN0eEUxNnBjekxFcVpvNWM1bjV1Yz0
+#EXTINF:-1,PT: FOX Crime FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmdMTHBJSFJzcDhYd3pFSmNiSWNsST0
+#EXTINF:-1,PT: FOX FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWGxSc1JMUGZVVGpDdjh6NXlNOFNhZz0
+#EXTINF:-1,PT: FOX LIFE FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUXlDSld3a0JUVzlkb3BqaFlHVmtyOD0
+#EXTINF:-1,PT: FOX Movies FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUUk0WHA1NlRBc0JKNHI4ZUMxcUVuVT0
+#EXTINF:-1,PT: TVcine Edition FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVU9JdDZwM3orNFBqc2ViWmJSZHVodz0
+#EXTINF:-1,PT: FOX Movies HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWVpRM0hGOG5oeU1aTUNvUERraHZXOD0
+#EXTINF:-1,PT: FUEL TV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYXJzdHowYmIxVzc5L1N1Zml2MVVyVT0
+#EXTINF:-1,PT: Hollywood HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYmVtc3BWWENGYUs1RkpIaTQyVzBTUT0
+#EXTINF:-1,PT: Hollywood FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVlpqVTRqNFA1MHIzWk53UVo0TENjaz0
+#EXTINF:-1,PT: NOS Studio HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWVd0TXg5VFNzeFVrT3dYekhxUVVWQT0
+#EXTINF:-1,PT: NOS Studios HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZUNiL2FVa2pVVmhhMSt3YWNlNnJvaz0
+#EXTINF:-1,PT: PFC HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUTZJUXZISTY5T0d5a0VPOWx0d2hlYz0
+#EXTINF:-1,PT: SYFY HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYk9WV2Q0QVplTU00YjJIbzIxdTVxZz0
+#EXTINF:-1,PT: SYFY SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZVBJNzFBNHhsZDhIdWFWRTlTV2pWZz0
+#EXTINF:-1,PT: TVcine Action FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWXJGZytpV1dlQ2MxeWZYMGJhci95MD0
+#EXTINF:-1,PT: TVCINE Action HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWCtFNTBuczRiek5sVVp4Q3lJNWdEdz0
+#EXTINF:-1,PT: Sport TV + FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZWEyK3VxN2NqcnAxSlVidGVSU1k5VT0
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYm9Vbjdzcm93MThOUU1sUm1DYWx4az0
+#EXTINF:-1,PT: AXN FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUkNjYTg0SVlJc2ZBZG1FYnYxRmpkUT0
+#EXTINF:-1,PT: AMC Crime FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUjROU240YkdBWWt1ZllaV1Rxb01yZz0
+#EXTINF:-1,PT: Eurosports 2 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYnlvUmp1eWVCWFl2MUJKYlhDTDhtMD0
+#EXTINF:-1,PT: Motorvision FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZE9aYmtBNXEyK1F1dndMa2dJTzFMRT0
+#EXTINF:-1,PT: MOTORVISION HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU1gyZUR6eG1saUhIN3dNTkhHcnJyZz0
+#EXTINF:-1,PT: Canal 11 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVGgrU2pGZzhoSER4Y2tzbHF0ZEFWND0
+#EXTINF:-1,PT: Sport TV NBA HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZnRldmVWV0hGWGhrMENrdFA2MjN6bz0
+#EXTINF:-1,PT: Sporting TV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUmpMbEU1TUZneFYvanVsbnFxWkcvZz0
+#EXTINF:-1,PT: Sporting TV SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV3ErOUlzZzJuR3RBVFRnK0UrVVh2az0
+#EXTINF:-1,PT: W Sport FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYkl5c2pPdzF4OGY2OUtna0ozQ2FWcz0
+#EXTINF:-1,⭐⭐⭐ Documentaries ⭐⭐⭐
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVjhCN1hLZkg0b1JteWRyR2VlTHJvUT0
+#EXTINF:-1,PT: AMC Break FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVzU4RmdKdVFYblVab1RMUmJ5UVJKZz0
+#EXTINF:-1,PT: Canal Q HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUVVqZnVEbE9MYVdKUnkvYjNDcS9HTT0
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWDVjam1HMVdVUHVzRTczd0dNZy91UT0
+#EXTINF:-1,PT: Discovery Channel FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZWUweVo3cWpnVmlmZGpUZHZTL1FsUT0
+#EXTINF:-1,PT: Gametoon FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUzNxcUwxcXdZODNMcUxxQTJqUFJhZz0
+#EXTINF:-1,PT: Historia FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZit2b1NuTS9HRXUwOXovVjlZUGk3TT0
+#EXTINF:-1,PT: HISTORIA SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZlpUbnE3YjIzWEE0bzRiT283U3Q0RT0
+#EXTINF:-1,PT: ID Investigation Discovery FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWE1HN3NsZ21idHVHS0FPdXVpalVLYz0
+#EXTINF:-1,PT: NAT GEO WILD FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWFlWM25rblliczhKRUE4VUFxZE85UT0
+#EXTINF:-1,PT: National Geographic FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWCtIY0JXazRNUXl6MEY2dEU4dHE2MD0
+#EXTINF:-1,PT: National Geographic WILD HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZkdLbmtGVXZ0QWtLOW42bjBiTWt6bz0
+#EXTINF:-1,PT: Odisseia FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY24zVnhZSmhhbkx5aHIxUThFNW9sUT0
+#EXTINF:-1,PT: ODISSEIA SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVGVDRkpMemxIQUFXQnFJTUZtaG1vMD0
+#EXTINF:-1,PT: SIC CARAS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU0Vkem8xVGZ0QUMzNWJjemsrWXE5RT0
+#EXTINF:-1,PT: Eurosport 2 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZVlMelpGVFRYN1Y4Q2g2Vzd0V0JqMD0
+#EXTINF:-1,PT: DAZN F1 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWjZWMzU5alo5eFM1akRNdVB6amlwcz0
+#EXTINF:-1,PT: Eleven Sports 1 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYzEwcjZYNUdhbkVraG5zLzQ1VFZIRT0
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmE2Rys1eEZpMlNMbXdRQ3pMRGdZQT0
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZnplL0ZRaE1Fc0Vha0oyaWw4Q1NDOD0
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWjFOc0N1YzR2L0RJY09OdnVPNHB6RT0
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZTJvc0F1dkFyQk0zcHp5MVp3aTFMQT0
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWk9maGhkazQ5N2taUmRSNjIzSDZRZz0
+#EXTINF:-1,PT: Eleven Sports 3 SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVjFnN242WDYyWFMzSk9CU1hWUG1hUT0
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYlNHeWtrNXNIaTYyMk9nMFJKbXgxRT0
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV2xkWmk5dzRTb2ZFdE91Z040aHBWND0
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVS9KMFRWYXFuOFY5M1F1RkYzTTVqWT0
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYUJIMUhOZE9YUXJKNDFrM2dvazc4ND0
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYnZDcmtraXNRdmJqZlRTaGNXYUN3bz0
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYVBTQXkxcmd3VXp5T2lIMlplM0FrST0
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYlNuc3RZdEJFOUtMSjdQWVZObHp4bz0
+#EXTINF:-1,PT: DAZN 6 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWHMwTGJFMTVVdmVrUHRvTWFsRmlaVT0
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZEFaOFJSb1REU1JTNzNKVXlpUlRJMD0
+#EXTINF:-1,PT: DAZN 1 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY0hJNEV3eGhlUDVad2dhbUZtYnBhMD0
+#EXTINF:-1,PT: DAZN 1 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZHJuZlBNRWU1Wk9HeVdWUCtsTnJHaz0
+#EXTINF:-1,PT: DAZN 2 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYklFU0VrZnBIMmdDVHl0bC9uSDZJVT0
+#EXTINF:-1,PT: DAZN 2 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVzkxZHNOdHdQcU1zQzhTcDFOS3hzUT0
+#EXTINF:-1,PT: DAZN 3 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUjVXRm5wZHFaY2NMODRjQXVSQ0s0OD0
+#EXTINF:-1,PT: DAZN 3 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWnNtcjc0K3p2aG56NUtXdzNXRHlBND0
+#EXTINF:-1,PT: DAZN 4 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU2NXVXlxbFd6WTdERTRhNm5BSEZVcz0
+#EXTINF:-1,PT: DAZN 4 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUkVxYkVhSk43dEhiUkM1MjYycTBRUT0
+#EXTINF:-1,PT: DAZN 5 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUkdpOGVLMFhwM05ZMzNmMzBBUy8yMD0
+#EXTINF:-1,PT: DAZN 5 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWmdObTVENWhhMUlqUk9ZUjBGdktKYz0
+#EXTINF:-1,PT: AXN HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWnFzMHdWejFRNTNOeGdFWDFIaFRqaz0
+#EXTINF:-1,PT: AMC FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWUFkWFdOcmZxVG80Z0RCaXhaUzV5Zz0
+#EXTINF:-1,PT: TLC FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWHFkMFNVUkRaN0lPam1SOXlHUlVYcz0
+#EXTINF:-1,⭐⭐⭐ PT - Kids⭐⭐⭐
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWE5LMU1YRDJrd2RqVjgyWWk3Q2o3ST0
+#EXTINF:-1,PT: TPA
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVTVQMUJBZ3U0RHNPVWVTZFY3SnVldz0
+#EXTINF:-1,PT: TPA Internacional
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZW0vNTFpbU5ScXVFR2YwNWlFdGJXUT0
+#EXTINF:-1,PT: TPA INTERNACIONAL SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY1BPR3hkMjNjUWUzWElMN3BKNWc5dz0
+#EXTINF:-1,PT: Travel Channel FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZkw3aklVNmpremlab0lKN1pRUkRkbz0
+#EXTINF:-1,PT: TV Galicia FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWkxQbDVTbFZLTEJ0Z0t6RWR4V3BwTT0
+#EXTINF:-1,PT: TV Galicia HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYWN1WUlJTWhYQkFFaU1JblNRUUprQT0
+#EXTINF:-1,PT: TV Record FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUkljME96ZzVsSHAzQ0dGbU5hc3UwOD0
+#EXTINF:-1,PT: TV5 Monde HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY2xTRjRrSWhjTEtoeG5wVG1qK3ZDND0
+#EXTINF:-1,PT: TVE Internacional HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV01BVU15bG90Q0VTY3FHUGQ3ZXJIWT0
+#EXTINF:-1,PT: ZAP VIVA HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZDQya0ZmekZabWlmaHM4QXpONElYaz0
+#EXTINF:-1,PT: BABY TV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU3dETElyTEUvWi92T1pRUk9BNHRRdz0
+#EXTINF:-1,PT: TCV Internacional HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVXdJZHVwR2hlQXAvYnVPOCtSNWg0ND0
+#EXTINF:-1,PT: Biggs Panda HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmhrZnlybDUxU01Va3QwNjNkbW9nOD0
+#EXTINF:-1,PT: Biggs TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY1huM3djSGVNVkUxWXZZL0FtQU9Jcz0
+#EXTINF:-1,PT: Bloomberg HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVitJbE85cENwNmFZT2VvUFJEamNLbz0
+#EXTINF:-1,PT: Canal Panda HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZktjMStRRlhNTUFXdWJVZkgwNEY4ND0
+#EXTINF:-1,PT: Cartoon Network FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWkJGcEs4RE1IU3NnSTF5K21WYjFOTT0
+#EXTINF:-1,PT: Cartoonito FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYWNxYUlGajU5a0tlQ3dKWHFCa1dRWT0
+#EXTINF:-1,PT: Disney Channel FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUmtLN2p3cXpLQUdHNjVnd2I5SGdlST0
+#EXTINF:-1,PT: Disney Channel HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmtUc0lUbDRFbVNkYXhoUWF6Y0ZrUT0
+#EXTINF:-1,PT: Disney Junior FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY05pVy8ycVUvME5PT3oyYTdxSS9URT0
+#EXTINF:-1,PT: Lolly KIDS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY3BtTG5QUk9vQTlPL09wUHJyclNOND0
+#EXTINF:-1,PT: NICK Junior HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYUdPTldlditNZlkwV1FkMEZ1UWpETT0
+#EXTINF:-1,PT: Toros TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWHJhQWl3TEw5cEo1K1NpdTZJL0xycz0
+#EXTINF:-1,PT: MTV Portugal FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU0ZPbFNCNVpUL2dDSDd1NkF4TjdxOD0
+#EXTINF:-1,PT: Panda FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWUl6bHRoMWErN2Y4U1NmSlZPN041ND0
+#EXTINF:-1,PT: CACA Vision HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU29sTWpMbkFrTjl6WmxPVU1aQXVFTT0
+#EXTINF:-1,PT: TLC HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUU1CcFF6YklaMVdSYlpaVzlLaVlLaz0
+#EXTINF:-1,PT: Travelxp HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV2cwbjZMRTB0RE9DTE9QTTFmWWxmTT0
+#EXTINF:-1,PT: TVI Reality FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWithRUIzU21Zb1FBMTg5cEFlM0dlaz0
+#EXTINF:-1,PT: TVI Reality HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUmlnZVpsa3VlNTFSdVk4TDVQaFBSTT0
+#EXTINF:-1,⭐⭐⭐ PT - Entertainment ⭐⭐⭐
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVGM0NTJWVEs4cXlqZWtEeUwzSTFYVT0
+#EXTINF:-1,PT : ARTV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUUROMzZCTy9UOVVQNU5GaXdjQ2lOUT0
+#EXTINF:-1,PT: 24 Kitchen FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYUgwcnM3SmpxZWlXZElSM0JwNGM0cz0
+#EXTINF:-1,PT: ARTV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUUxTNDRWaFkrVmJXTEV4Ymd5TU1iOD0
+#EXTINF:-1,PT: BBC Entertainement HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWUJPQm9pWUxsMjdZWGN3NTZNdVcwQT0
+#EXTINF:-1,PT: Break HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYTZYeWtQVVREcWZtVWFVQmFHeUZuYz0
+#EXTINF:-1,PT: CACA E Pesca HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV3BBZ3llcWpWZ2RzNHB1dmpobHpCbz0
+#EXTINF:-1,PT: Campo Pequeno HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYVhvdjdoTkxaODdxSjQ5NlNmVG1hOD0
+#EXTINF:-1,PT: MCM TOP FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUlo5aUlVRkhJS3VoTi9ZNVVPYzFNTT0
+#EXTINF:-1,PT: Canal 180 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYjdYTk9WYjVuR2o0cXZRdzZ0NXhsbz0
+#EXTINF:-1,PT: Cancao NOVA TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWjI0S1B5VjY0MjliRGFhODlMdWNOTT0
+#EXTINF:-1,PT: CASA E Cozinha FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmVVWVdRYnJqdlZxSVhxLytqekFqUT0
+#EXTINF:-1,PT: CBS Reality HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZXlSMW1qMy9BZEcrL0NySDV1dVdSZz0
+#EXTINF:-1,PT: E! Entertainement FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZkxPZFNSV3BlZURET20vaUg5RXp4RT0
+#EXTINF:-1,PT: FOOD Network HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYzR0bTg5TTVTakN5ZXhvYUJoT0JZST0
+#EXTINF:-1,PT: FTV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYkd4QnZjNTluWXVTY3hQNU01VGgwZz0
+#EXTINF:-1,PT: FTV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZWUyTVZZNjUybUhjaEVEYkNRRTdydz0
+#EXTINF:-1,PT: Globo NOW HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVlZidHdJcWI5UU5tRUwwcmtTVW5HZz0
+#EXTINF:-1,PT: Kuriakos TV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWURFUlNNSlZOMEVCVzQ5SHF3amIyOD0
+#EXTINF:-1,PT: Kuriakos TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZDlYYzJhS2FqTmZ2RExVRklzY3A5UT0
+#EXTINF:-1,PT: Nickelodeon HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWFlFSmYyQjZSTUEvbnBJcFA2d20vND0
+#EXTINF:-1,PT: Panda KIDS FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVlAwOTl6MzIvV0dzaXVVYWNmU3FlMD0
+#EXTINF:-1,⭐⭐⭐ PT - Movies & Series ⭐⭐⭐
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUzBTbVM3YUlnN0lZbnhCRGx0dll4Zz0
+#EXTINF:-1,PT: CNN HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZUVvREZ4NnU3NDdweHVoK2NXRzFrZz0
+#EXTINF:-1,PT: RTP 1 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY1F3ZWlySEJLaExlSWRTM0FSTDYwST0
+#EXTINF:-1,PT: RTP 1 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZFZVbFBlc3N3VW5XVE1FOCtnbTlZaz0
+#EXTINF:-1,PT: RTP 2 FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUUZTSUlYR0VKWDNGYXI0RUJMWUxnQT0
+#EXTINF:-1,PT: RTP 2 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYktxTEM1Y1hzV1dyNThLVFUyWkxsZz0
+#EXTINF:-1,PT: RTP 3 HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV0d0U1VGeFF4cE8zMlJOenlFdFBlMD0
+#EXTINF:-1,PT: SIC FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUnRSOU1ZWkJhODQ5bDQ5OU5mTFhyVT0
+#EXTINF:-1,PT: SIC HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZHJjZjBPUVZKN2tJbmVjY3N3Rk1jQT0
+#EXTINF:-1,PT: TVI FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYkJTYVRJV3FZS1NZaHNKMVZpZnlpbz0
+#EXTINF:-1,PT: TVI HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY05vc3lCKzhIenFSanFuakVwaHREQT0
+#EXTINF:-1,PT: CNN FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWGVScVJRajNlTlJYeDlTcUN3alZZTT0
+#EXTINF:-1,PT: CMTV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZTJiQ2hZRlBreXBzNFlPaHpFcEMwVT0
+#EXTINF:-1,PT: Santuario Fatima FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWmNLVkpPREhhcWVuYXBteDBxWlBmQT0
+#EXTINF:-1,PT : CMTV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUTFsL1VkeU16eWFmZGp1akp2ZUxXOD0
+#EXTINF:-1,PT: CMTV SD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWHBjcUgwVGxycDNCa3E2azJic3hyRT0
+#EXTINF:-1,PT: SIC NOVELAS
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVmFzeThjc3I5UzFEa29XNi9Td2hMTT0
+#EXTINF:-1,PT: SIC Replay
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYU9leGpDVzIxU1diaDM5NDA0aHdwcz0
+#EXTINF:-1,PT: SIC Mulher FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZUdSKzlzSnRyQ1VvWlpGWGlvRmhLdz0
+#EXTINF:-1,PT: SIC Noticias FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZDI0NkFHYmtHeUNSVm5adWxSYUFaYz0
+#EXTINF:-1,PT: RTP Acores HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYTNLQTVzZHg0cTBBTm1yNGJ6TTZqdz0
+#EXTINF:-1,PT: RTP Africa HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWENnQVcwYnNRejR4V2V3QlBDRFVZWT0
+#EXTINF:-1,PT: RTP Madeira HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMY2laU0pURjdUdXdpbzQ3VFZFTy9pOD0
+#EXTINF:-1,PT: RTP Memoria FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU1FFL2hTcFQ3VVc3Mkx1VDV5OWFqRT0
+#EXTINF:-1,PT: RTP Memoria HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZHZpM2ZyU3MrSTFEY2dIOHVza2JXWT0
+#EXTINF:-1,PT: Opto SIC
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZHBCVXJ3bzROa1R0RDEzTXpwSTN1WT0
+#EXTINF:-1,PT: RTP Internacional HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWm5kaHNEckVEL0xsQjh1aHdtYWRUcz0
+#EXTINF:-1,PT: PANDA KIDS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZUtzU3dPb3BOZmxxNFJ0L0NSY3pEZz0
+#EXTINF:-1,PT: A BOLA TV FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUXpzRFFBLy9tNkZwbmtDWXBtOEpVcz0
+#EXTINF:-1,PT: SIC K FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWEk3bzZZMWdyRHF4RjJTemtJWVg1dz0
+#EXTINF:-1,⭐⭐⭐ PT - Music ⭐⭐⭐
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWkE0blN6RlFUMDFuMUlackRQM2ZPYz0
+#EXTINF:-1,PT: AFRO Music TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWHlYRHFQWityYzN0ME00a0hZckJpMD0
+#EXTINF:-1,PT: MTV LIVE HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZHpzd25JOU9rakFNTnltU1lQTUhqYz0
+#EXTINF:-1,PT: MCM TOP HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZTl4SEM5YkcwWmRIMnc0L1VXeGpzWT0
+#EXTINF:-1,PT: MCM POP TV HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYWljRGc0M1U1STkvOWlqOEJqWjhXbz0
+#EXTINF:-1,PT: Mezzo FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMYmpDQVprcTBQZTkyaTVncVlYQzhraz0
+#EXTINF:-1,PT: Trace Urban HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUUhwaThjWGFMV1UrSUREcnVydVRwUT0
+#EXTINF:-1,PT: Trace TOCA FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUWk2dmdLVnU3WVFQdGUyTHluVzN0az0
+#EXTINF:-1,PT : TRACE TOCA HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVThtTkNwVXhtZ3VWL2JsdG40MElhRT0
+#EXTINF:-1,⭐⭐⭐ News TV ⭐⭐⭐
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVEpsV3ZDZUVQUUJib2JaME05OW8xND0
+#EXTINF:-1,PT: Alma Lusa
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUURadUplcnNGZFhnTU90R29McnhiST0
+#EXTINF:-1,PT: VITEC Azores TV
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVk0raEw4dS91UndXM2VOcmtxQVZhcz0
+#EXTINF:-1,PT: BBC World NEWS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUjIyUTJ2MFVoZ2xyTHgyN3p6aDFFUT0
+#EXTINF:-1,PT: CNBC HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZEpZc2dJNVJTRDdvVjhvUlVmMGtHaz0
+#EXTINF:-1,PT: Euronews HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMUTNXdWxLaFk2b2UvNHZ2bWYzZDF4dz0
+#EXTINF:-1,PT: News Now
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVzM4VFpWaUc0Nk1VSlg3d0tUMS9BQT0
+#EXTINF:-1,PT: Porto Canal FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWkNtZUIwQW4vY1RvY3dja1hnLy9mdz0
+#EXTINF:-1,PT: SKY NEWS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMU2EwdUdRblZFd3B5MVcxdW82WGRVZz0
+#EXTINF:-1,PT: TV Globo FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMV3RPb3dReFMwUlBZNHFGUkFwYVNwdz0
+#EXTINF:-1,PT: TV RECORD NEWS HD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMVDRicnZTRWQ0ZytCZEFjT0VVMEVnbz0
+#EXTINF:-1,PT: TVE 24H FHD
+http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMWURBdjZYVUhlbkpyZU9ITjM5bTVOST0
 
-#EXTINF:0,High Vision
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/6345/63E83B06A346061/video.m3u8
-#EXTINF:0,Blue Hustler TV
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/107/63E83B06A346061/video.m3u8
-#EXTINF:0,Hustler HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51453/63E83B06A346061/video.m3u8
-#EXTINF:0,Hustler TV
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/592/63E83B06A346061/video.m3u8
-#EXTINF:0,Playboy
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/242/63E83B06A346061/video.m3u8
-#EXTINF:0,Eroxxx HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/596/63E83B06A346061/video.m3u8
-#EXTINF:0,Brazzers TV HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51452/63E83B06A346061/video.m3u8
-#EXTINF:0,Brazzers TV Europe
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/76/63E83B06A346061/video.m3u8
-#EXTINF:0,Barely Legal
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/4012/63E83B06A346061/video.m3u8
-#EXTINF:0,Babes TV HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/990/63E83B06A346061/video.m3u8
-#EXTINF:0,Red Lips
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/103/63E83B06A346061/video.m3u8
-#EXTINF:0,Vivid Red HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/1766/63E83B06A346061/video.m3u8
-#EXTINF:0,Dorcel HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/6879/63E83B06A346061/video.m3u8
-#EXTINF:0,Red Lips
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/290/63E83B06A346061/video.m3u8
-#EXTINF:0,Private TV
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/793/63E83B06A346061/video.m3u8
-#EXTINF:0,Exxxotica HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/611/63E83B06A346061/video.m3u8
-#EXTINF:0,Russian HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51454/63E83B06A346061/video.m3u8
-#EXTINF:0,Русская Ночь
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/132/63E83B06A346061/video.m3u8
-#EXTINF:0,Anal
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51455/63E83B06A346061/video.m3u8
-#EXTINF:0,Redlight HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/594/63E83B06A346061/video.m3u8
-#EXTINF:0,ОХ-АХ HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/1767/63E83B06A346061/video.m3u8
-#EXTINF:0,Penthouse Reality TV
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/8074/63E83B06A346061/video.m3u8
-#EXTINF:0,OLERO Babes
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/1768/63E83B06A346061/video.m3u8
-#EXTINF:0,Eromania 4K
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/1703/63E83B06A346061/video.m3u8
-#EXTINF:0,DITV XXX 18+
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/2065/63E83B06A346061/video.m3u8
-#EXTINF:0,YOSSO TV SEXY
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/8774/63E83B06A346061/video.m3u8
-#EXTINF:0,KBC+100500 (18+)
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/8829/63E83B06A346061/video.m3u8
-#EXTINF:0,CineManExExEx
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/13020/63E83B06A346061/video.m3u8
-#EXTINF:33,CineManExExEx TWO
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/13021/63E83B06A346061/video.m3u8
-#EXTINF:0,TVPlay Наше XXX
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/1769/63E83B06A346061/video.m3u8
-#EXTINF:33,Kinoerotica HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51084/63E83B06A346061/video.m3u8
-#EXTINF:20,Velilla TV Adult Channel HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51350/63E83B06A346061/video.m3u8
-#EXTINF:20,Velilla TV Hardcore Sex HD
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51351/63E83B06A346061/video.m3u8
-#EXTINF:39,DDF Network
-#EXTVLCOPT:network-caching=1000
-http://bpl.online24.pm/play/51456/63E83B06A346061/video.m3u8
-#EXTINF:0, HUSTLER HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/902/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, REDLIGHT HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/904/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, PENTHOUSE GOLD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/909/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, PENTHOUSE QUICKIES
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/903/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Pink O TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/5880/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Dorcel
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/5881/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Private TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/5758/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Babes
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/17976/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Русская ночь
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/5238/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Шалун HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22401/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Strawberry HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/20787/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Clarity4K Angel XXX
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/20906/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Play-x Retro SEX HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/21151/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Play-x Spy Sex HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/21152/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, LIBERTY ЭРОТИКА  FHD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/8011/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, BCU Charm HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/20788/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Playboy TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/5235/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Playboy  Plus
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22414/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, O-la-la
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/907/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, EXXXOTICA HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/901/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, EroXXX
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22402/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Reality Kings
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22403/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Barely legal
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22404/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Vivid RED HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/19180/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Bang Bros UHD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29010/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Cum4k UHD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29029/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Tiny4k UHD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29106/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, 21 Sextury
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29000/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Adult Time
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29002/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Amateur Boxxx
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29120/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, AST TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29005/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, AST TV 2
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29006/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Babes HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29007/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Balkan Erotic
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29008/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Banana Fever
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29121/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Bang Bros HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29009/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Bang!
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29011/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Blacked HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29015/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Blue Hustler
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29018/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Bratty Sis
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29019/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, BRAZZERS
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22421/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Brazzers eXXtra
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29020/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Brazzers TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/5236/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Cherry Pimps
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29024/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Club 17
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29025/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Cum Louder
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29028/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Dad Crush
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29030/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Day with a Pornstar
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29032/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, DDF Busty
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29033/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, DDF Network
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29034/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Deep Lush
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29035/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Digital Desire HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29036/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Digital Playground HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29037/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Dorcel Club
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29038/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Dorcel XXX HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29039/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Evil Angel HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29041/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fake Taxi HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29043/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Family xxx
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29044/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV 2
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22437/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV 3
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22442/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV 4
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22443/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV Anal
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29048/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV BBW
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29049/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV Compilation
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22441/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV Lesbian
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22440/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV Parody
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22439/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fap TV Teens
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22435/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, FTV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29056/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Gangbang Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29057/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Gay Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29058/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Girls Rimming
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29059/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Got MYLF
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29060/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hands on Hardcore
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29061/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hard X
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29062/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hitzefrei HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29064/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Holed
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29065/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hot and Mean
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29066/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hot Guys Fuck
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29067/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, House of Fyre
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29068/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Interracial Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29069/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, J and  M TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29070/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Japan HDV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29071/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Jerk Off with Me
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29072/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Lesbea
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29074/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Lethal Hardcore
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29076/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, MetArt HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29080/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Mia Khalifa HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29081/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Monsters of Cock
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29083/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, MYLF TV HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29084/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Naughty America
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29085/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Nubiles TV HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29086/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Private TV HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/19184/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Public Agent
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29093/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, RK Prime
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29094/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, RK TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29095/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, SuperONE HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22387/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Taboo
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29102/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, The Nudie
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29104/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Threesome Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29105/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, True Amateurs
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29108/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Tushy HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29109/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, TushyRAW
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29110/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Vixen HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29113/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, We Live Together
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29114/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, White Boxxx
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29115/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Wicked
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29116/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, XY Mix
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29118/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, XY Plus
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29119/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, A3 Bikini
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29001/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Anal Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29003/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Analized HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29004/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Big Ass Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29012/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Big Dick Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29013/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Big Tits Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29014/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Blonde Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29016/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Blowjob Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29017/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Brunette Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29021/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Candy TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22436/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, cento x cento
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22438/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Compilation Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29026/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Cuckold Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29027/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Daughter Swap
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29031/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Evolved Fights
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29042/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Extasy HD XXX
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22461/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, FemJoy
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29054/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Fetish Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29055/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hardcore Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29063/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, JASMIN
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22429/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Latina Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29073/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Lesbian Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29075/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Little Asians HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29077/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Live Cams Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29078/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, MILF Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29082/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, ox-ax HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29087/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Pornstar Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29090/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, POV Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29091/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Princess Cum
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29092/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Rough Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29096/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Russian Adult TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29097/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, SCT
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22432/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, SexArt
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29099/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, sext 6 senso
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29100/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, SINematica
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29101/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Teen Red TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29103/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Trans Angels
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29107/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Visit-X TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29112/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, XY Max HD XXX
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22459/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Pink Erotic 4
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29089/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, XXL
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/19186/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hot
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22412/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, ALBA XXX 1
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22444/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, ALBA XXX 2
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22445/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, PENTHOUSE PASSION
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/19183/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Hustler TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/19185/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, DUSK! XXX
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22462/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Erox HD
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29040/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Lust Cinema
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29079/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Passion XXX
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/22431/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:39, Sex With Muslims
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29098/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, U Bang
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29111/index.m3u8?token=HE3rCaXHuQbw3V
-#EXTINF:0, Xpanded TV
-#EXTVLCOPT:network-caching=1000
-http://am01.plink-pile.ch/29117/index.m3u8?token=HE3rCaXHuQbw3V
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="CANALES",LA 1 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5799
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="CANALES",LA 2 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5800
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="CANALES",ANTENA 3 HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5801
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="CANALES",CUATRO HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5802
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="CANALES",TELECINCO HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5803
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="CANALES",LA SEXTA HD
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5804
+
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" tvg-chno="1" tvg-country="CN" group-title="China",CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" tvg-chno="2" tvg-country="CN" group-title="China",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://i.imgur.com/Mh1N35D.png" tvg-id="CCTV3.cn" tvg-chno="3" tvg-country="CN" group-title="China",CCTV-3 综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" tvg-chno="4" tvg-country="CN" group-title="China",CCTV-4 中文国际（亚）
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（欧）" tvg-logo="https://i.imgur.com/kx8metk.png" tvg-id="CCTV4Europe.cn" tvg-chno="5" tvg-country="CN" group-title="China",CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://i.imgur.com/SsPN5I3.png" tvg-id="CCTV6.cn" tvg-chno="7" tvg-country="CN" group-title="China",CCTV-6 电影
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" tvg-id="CCTV7.cn" tvg-chno="8" tvg-country="CN" group-title="China",CCTV-7 国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="CCTV8.cn" tvg-chno="9" tvg-country="CN" group-title="China",CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="CCTV9.cn" tvg-chno="10" tvg-country="CN" group-title="China",CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/W8JNs1s.png" tvg-id="CCTV10.cn" tvg-chno="11" tvg-country="CN" group-title="China",CCTV-10 科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://i.imgur.com/0MeegZK.png" tvg-id="CCTV11.cn" tvg-chno="12" tvg-country="CN" group-title="China",CCTV-11 戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://i.imgur.com/gZNwF1a.png" tvg-id="CCTV12.cn" tvg-chno="13" tvg-country="CN" group-title="China",CCTV-12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" tvg-chno="14" tvg-country="CN" group-title="China",CCTV-13 新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://i.imgur.com/SORrhtE.png" tvg-id="CCTV14.cn" tvg-chno="15" tvg-country="CN" group-title="China",CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://i.imgur.com/V9I1ZyB.png" tvg-id="CCTV15.cn" tvg-chno="16" tvg-country="CN" group-title="China",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://i.imgur.com/gaA4Cjy.png" tvg-id="CCTV16.cn" tvg-chno="17" tvg-country="CN" group-title="China",CCTV-16 奥林匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" tvg-chno="18" tvg-country="CN" group-title="China",CCTV-17 农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+
+
+
 
 
