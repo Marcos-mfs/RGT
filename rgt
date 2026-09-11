@@ -14,6 +14,48 @@ http://50.7.120.34:8080/TVI/index.m3u8
 #EXTINF:0 group-title="PT",Porto Canal
 http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://files.catbox.moe/n6c2ol.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-id="0964" tvg-name="+Perfil" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/%2BPerfil_Logo_2026.png", +Perfil
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras y Radios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" , Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Otros/Extras y Radios" tvg-logo="https://files.catbox.moe/lk049e.png" , Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General/Abierta",Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/5xa4p6.png", Canal 9
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/505e9l.png", Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+#EXTINF:-1 tvg-id="1610" tvg-name="El Gourmet" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/3840px-El_Gourmet_logo.svg.png", El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-id="0918" tvg-name="Canal Rural" group-title="Otros/Extras" tvg-logo="https://www.elrural.com/wp-content/uploads/2025/08/ElRural_Logo_2025.png", Canal Rural
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-rural.playlist.m3u8
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Otros/Extras" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV" group-title="Comunidad" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2024/07/Logo-Neo-Tv-PNG-alta-calidad.png", Neo TV F. Varela
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8#EXTM3U
+#EXTINF:-1 tvg-id="0409" tvg-name="TyC Sports" group-title="Otros/Extras" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="0967" tvg-name="El Rincón de los Simpsons" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/The_logo_simpsons_yellow.png", El Rincón de los Simpsons
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 tvg-id="1305" tvg-name="Señal de Prueba" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1920px-Cartoon_Network_HD_logo.svg.png", Señal de Prueba
+http://38.44.109.41:8003/play/a0ef/index.m3u8?hls
+
 #EXTINF:-1,PT: BTV FHD
 http://ppkk.fun:8080/ZjNuYk5MTlJEdFRTNzNQaHovYUpMZkxQRGllaXd0NmsvZ0wzcThtbHFPUT0
 #EXTINF:-1,PT: BTV HD
@@ -489,6 +531,280 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" tvg-chno="18" tvg-country="CN" group-title="China",CCTV-17 农业农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
 
+#EXTINF:-1,ES: (HD) DAZN LALIGA
+http://31.43.191.125:8080/restream/restream/243
+#EXTINF:-1,ES: (HD REPUESTO) DAZN LALIGA
+http://31.43.191.125:8080/restream/restream/244
+#EXTINF:-1,ES: (HD REPUESTO2) DAZN LALIGA
+http://31.43.191.125:8080/restream/restream/147167
+#EXTINF:-1,ES: (FHD) DAZN LALIGA
+http://31.43.191.125:8080/restream/restream/97138
+#EXTINF:-1,ES: (FHD REPUESTO) DAZN LALIGA
+http://31.43.191.125:8080/restream/restream/97193
+#EXTINF:-1,ES: (HD) M+ LALIGA
+http://31.43.191.125:8080/restream/restream/252
+#EXTINF:-1,ES: (HD REPUESTO) M+ LALIGA
+http://31.43.191.125:8080/restream/restream/253
+#EXTINF:-1,ES: (FHD) M+ LALIGA
+http://31.43.191.125:8080/restream/restream/254
+#EXTINF:-1,ES: (FHD REPUESTO) M+ LALIGA
+http://31.43.191.125:8080/restream/restream/97192
+#EXTINF:-1,ES: (HD) DAZN F1
+http://31.43.191.125:8080/restream/restream/56469
+#EXTINF:-1,ES: (HD REPUESTO) DAZN F1
+http://31.43.191.125:8080/restream/restream/97147
+#EXTINF:-1,ES: (FHD) DAZN F1
+http://31.43.191.125:8080/restream/restream/251
+#EXTINF:-1,ES: (FHD REPUESTO) DAZN F1
+http://31.43.191.125:8080/restream/restream/97194
+#EXTINF:-1,ES: (HD) M+ LIGA DE CAMPEONES
+http://31.43.191.125:8080/restream/restream/264
+#EXTINF:-1,ES: (FHD) M+ LIGA DE CAMPEONES
+http://31.43.191.125:8080/restream/restream/265
+#EXTINF:-1,ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://31.43.191.125:8080/restream/restream/97196
+#EXTINF:-1,ES: (SD) M+ LIGA DE CAMPEONES
+http://31.43.191.125:8080/restream/restream/99051
+#EXTINF:-1,ES: (HD) M+ LIGA DE CAMPEONES 2
+http://31.43.191.125:8080/restream/restream/129635
+#EXTINF:-1,ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://31.43.191.125:8080/restream/restream/266
+#EXTINF:-1,ES: (HD) M+ LIGA DE CAMPEONES 3
+http://31.43.191.125:8080/restream/restream/129636
+#EXTINF:-1,ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://31.43.191.125:8080/restream/restream/267
+#EXTINF:-1,ES: DAZN MOTOGP FHD
+http://31.43.191.125:8080/restream/restream/154467
+#EXTINF:-1,ES: (FHD) DAZN 1
+http://31.43.191.125:8080/restream/restream/247
+#EXTINF:-1,ES: (HD) DAZN 1
+http://31.43.191.125:8080/restream/restream/128935
+#EXTINF:-1,ES: DAZN 2
+http://31.43.191.125:8080/restream/restream/248
+#EXTINF:-1,ES: DAZN 3
+http://31.43.191.125:8080/restream/restream/249
+#EXTINF:-1,ES:DAZN 4
+http://31.43.191.125:8080/restream/restream/250
+#EXTINF:-1,ES: LALIGA TV HYPERMOTION
+http://31.43.191.125:8080/restream/restream/246
+#EXTINF:-1,ES: LALIGA TV HYPERMOTION 2
+http://31.43.191.125:8080/restream/restream/634
+#EXTINF:-1,ES: LALIGA TV HYPERMOTION 3
+http://31.43.191.125:8080/restream/restream/635
+#EXTINF:-1,ES: DAZN LALIGA 2
+http://31.43.191.125:8080/restream/restream/128942
+#EXTINF:-1,ES: (FHD) M+ LALIGA TV 2
+http://31.43.191.125:8080/restream/restream/255
+#EXTINF:-1,ES: (FHD) M+ LALIGA TV 3
+http://31.43.191.125:8080/restream/restream/256
+#EXTINF:-1,ES: M+ LIGA DE CAMPEONES 5
+http://31.43.191.125:8080/restream/restream/269
+#EXTINF:-1,M_Deportes.png",ES: (FHD) M+ DEPORTES
+http://31.43.191.125:8080/restream/restream/286
+#EXTINF:-1,M_Deportes_2.png",ES: M+ DEPORTES 2
+http://31.43.191.125:8080/restream/restream/288
+#EXTINF:-1,M_Deportes_3.png",ES: M+ DESPORTOS 3
+http://31.43.191.125:8080/restream/restream/289
+#EXTINF:-1,M_Deportes_4.png",ES: M+ DEPORTES 4
+http://31.43.191.125:8080/restream/restream/290
+#EXTINF:-1,M_Deportes_5.png",ES: M+ DEPORTES 5
+http://31.43.191.125:8080/restream/restream/291
+#EXTINF:-1,M_Deportes_6.png",ES: M+ DEPORTES 6
+http://31.43.191.125:8080/restream/restream/292
+#EXTINF:-1,M_Deportes_7.png",ES: M+ DEPORTES 7
+http://31.43.191.125:8080/restream/restream/293
+#EXTINF:-1,Eurosport_1.png",ES: EUROSPORT 1
+http://31.43.191.125:8080/restream/restream/281
+#EXTINF:-1,Eurosport_2.png",ES: EUROSPORT 2
+http://31.43.191.125:8080/restream/restream/282
+#EXTINF:-1,ES: (LÍNEA 1) ONETORO
+http://31.43.191.125:8080/restream/restream/631
+#EXTINF:-1,ES: TOROLE TV
+http://31.43.191.125:8080/restream/restream/37678
+#EXTINF:-1,ES: (LÍNEA 2) ONETORO
+http://31.43.191.125:8080/restream/restream/38816
+#EXTINF:-1,M_Vamos.png",ES: (FHD) M+ VAMOS
+http://31.43.191.125:8080/restream/restream/632
+#EXTINF:-1,ES: (FHD) M+ VAMOS 2
+http://31.43.191.125:8080/restream/restream/156835
+#EXTINF:-1,ESPN_DEPORTES.png",ES: ESPN DEPORTES
+http://31.43.191.125:8080/restream/restream/280
+#EXTINF:-1,ES: BARCA TV
+http://31.43.191.125:8080/restream/restream/721
+#EXTINF:-1,Real_Madrid_TV.png",ES: REAL MADRID TV
+http://31.43.191.125:8080/restream/restream/724
+#EXTINF:-1,BETISTV.png",ES: BETIS TV
+http://31.43.191.125:8080/restream/restream/83026
+#EXTINF:-1,M_Ellas_V.png",ES: M+ ELLAS V
+http://31.43.191.125:8080/restream/restream/723
+#EXTINF:-1,Teledeporte.png",ES: TELEDEPORTE
+http://31.43.191.125:8080/restream/restream/726
+#EXTINF:-1,GOL_PLAY.png",ES: GOL PLAY
+http://31.43.191.125:8080/restream/restream/633
+#EXTINF:-1,M_Golf.png",ES: M+ GOLF
+http://31.43.191.125:8080/restream/restream/285
+#EXTINF:-1,ES: BABY TV
+http://31.43.191.125:8080/restream/restream/636
+#EXTINF:-1,ES: BOING
+http://31.43.191.125:8080/restream/restream/637
+#EXTINF:-1,ES: CLAN TVE
+http://31.43.191.125:8080/restream/restream/638
+#EXTINF:-1,ES: ENFAMILIA
+http://31.43.191.125:8080/restream/restream/639
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://31.43.191.125:8080/restream/restream/640
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://31.43.191.125:8080/restream/restream/641
+#EXTINF:-1,ES: DREAMWORKS
+http://31.43.191.125:8080/restream/restream/643
+#EXTINF:-1,ES: NICK JR
+http://31.43.191.125:8080/restream/restream/644
+#EXTINF:-1,ES: NICKELODEON
+http://31.43.191.125:8080/restream/restream/645
+#EXTINF:-1,ES: TELECINCO
+http://31.43.191.125:8080/restream/restream/647
+#EXTINF:-1,ES: LA 1
+http://31.43.191.125:8080/restream/restream/648
+#EXTINF:-1,ES: LA 2
+http://31.43.191.125:8080/restream/restream/649
+#EXTINF:-1,ES: ANTENA 3
+http://31.43.191.125:8080/restream/restream/646
+#EXTINF:-1,ES: LA SEXTA
+http://31.43.191.125:8080/restream/restream/650
+#EXTINF:-1,ES: CUATRO
+http://31.43.191.125:8080/restream/restream/651
+#EXTINF:-1,ES: FACTORÍA DE FICCIÓN
+http://31.43.191.125:8080/restream/restream/652
+#EXTINF:-1,ES: NOVA
+http://31.43.191.125:8080/restream/restream/653
+#EXTINF:-1,ES: ENERGIA
+http://31.43.191.125:8080/restream/restream/654
+#EXTINF:-1,ES: TRÊS
+http://31.43.191.125:8080/restream/restream/655
+#EXTINF:-1,ES: M+ ACCIÓN
+http://31.43.191.125:8080/restream/restream/656
+#EXTINF:-1,ES: M+ COMEDIA
+http://31.43.191.125:8080/restream/restream/657
+#EXTINF:-1,ES: M+ CINE ESPAÑOL
+http://31.43.191.125:8080/restream/restream/658
+#EXTINF:-1,ES: M+ CLÁSICOS
+http://31.43.191.125:8080/restream/restream/659
+#EXTINF:-1,ES:M+DRAMA
+http://31.43.191.125:8080/restream/restream/660
+#EXTINF:-1,ES: M+ HITS
+http://31.43.191.125:8080/restream/restream/663
+#EXTINF:-1,ES: M+ ORIGINALES
+http://31.43.191.125:8080/restream/restream/87107
+#EXTINF:-1,ES: M+ INDIE
+http://31.43.191.125:8080/restream/restream/87106
+#EXTINF:-1,ES: XTRM
+http://31.43.191.125:8080/restream/restream/767
+#EXTINF:-1,ES: ESTEJA LOUCO
+http://31.43.191.125:8080/restream/restream/737
+#EXTINF:-1,ES: HOLLYWOOD
+http://31.43.191.125:8080/restream/restream/665
+#EXTINF:-1,ES: CANAL PARAMOUNT
+http://31.43.191.125:8080/restream/restream/666
+#EXTINF:-1,ES: SOMOS
+http://31.43.191.125:8080/restream/restream/667
+#EXTINF:-1,ES: WARNER TV
+http://31.43.191.125:8080/restream/restream/668
+#EXTINF:-1,ES:TCM
+http://31.43.191.125:8080/restream/restream/669
+#EXTINF:-1,ES: AXN
+http://31.43.191.125:8080/restream/restream/735
+#EXTINF:-1,ES: AXN MOVIES
+http://31.43.191.125:8080/restream/restream/736
+#EXTINF:-1,ES: CALLE 13
+http://31.43.191.125:8080/restream/restream/740
+#EXTINF:-1,ES: ESCURO
+http://31.43.191.125:8080/restream/restream/782
+#EXTINF:-1,ES: ATRESÉRIE
+http://31.43.191.125:8080/restream/restream/800
+#EXTINF:-1,ES: M+ DOCUMENTALES
+http://31.43.191.125:8080/restream/restream/87108
+#EXTINF:-1,ES: MOVISTAR PLUS+
+http://31.43.191.125:8080/restream/restream/87109
+#EXTINF:-1,ES: CANAL DECASA
+http://31.43.191.125:8080/restream/restream/705
+#EXTINF:-1,ES: CAZA Y PESCA
+http://31.43.191.125:8080/restream/restream/706
+#EXTINF:-1,ES: AMC CRIME
+http://31.43.191.125:8080/restream/restream/707
+#EXTINF:-1,ES: DISCOVERY
+http://31.43.191.125:8080/restream/restream/708
+#EXTINF:-1,ES: DMAX
+http://31.43.191.125:8080/restream/restream/709
+#EXTINF:-1,ES: ODISEA
+http://31.43.191.125:8080/restream/restream/710
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://31.43.191.125:8080/restream/restream/711
+#EXTINF:-1,ES: NAT GEO WILD
+http://31.43.191.125:8080/restream/restream/712
+#EXTINF:-1,ES: HISTÓRIA
+http://31.43.191.125:8080/restream/restream/713
+#EXTINF:-1,ES: IBERALIA TV
+http://31.43.191.125:8080/restream/restream/714
+#EXTINF:-1,ES: MEZZO AO VIVO
+http://31.43.191.125:8080/restream/restream/716
+#EXTINF:-1,ES: MTV
+http://31.43.191.125:8080/restream/restream/719
+#EXTINF:-1,ES: 24 HORAS
+http://31.43.191.125:8080/restream/restream/730
+#EXTINF:-1,ES: AMC
+http://31.43.191.125:8080/restream/restream/732
+#EXTINF:-1,ES: CANAL COCINA
+http://31.43.191.125:8080/restream/restream/742
+#EXTINF:-1,ES: CANAL SUR ANDALUCÍA
+http://31.43.191.125:8080/restream/restream/744
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://31.43.191.125:8080/restream/restream/745
+#EXTINF:-1,ES: COSMO
+http://31.43.191.125:8080/restream/restream/746
+#EXTINF:-1,ES: DIVINDADE
+http://31.43.191.125:8080/restream/restream/747
+#EXTINF:-1,ES: DKISS
+http://31.43.191.125:8080/restream/restream/748
+#EXTINF:-1,ES: CANAL EXTREMADURA SAT
+http://31.43.191.125:8080/restream/restream/750
+#EXTINF:-1,ES: CANAL ESTRELA
+http://31.43.191.125:8080/restream/restream/752
+#EXTINF:-1,ES: MEGA
+http://31.43.191.125:8080/restream/restream/753
+#EXTINF:-1,ES:NEOX
+http://31.43.191.125:8080/restream/restream/755
+#EXTINF:-1,ES: SUNDANCE
+http://31.43.191.125:8080/restream/restream/759
+#EXTINF:-1,ES: SYFY
+http://31.43.191.125:8080/restream/restream/760
+#EXTINF:-1,ES: TELEMADRID INT
+http://31.43.191.125:8080/restream/restream/761
+#EXTINF:-1,ES: DEZ
+http://31.43.191.125:8080/restream/restream/762
+#EXTINF:-1,ES: TV3 CAT
+http://31.43.191.125:8080/restream/restream/764
+#EXTINF:-1,ES: CNN
+http://31.43.191.125:8080/restream/restream/775
+#EXTINF:-1,ES: À PUNT
+http://31.43.191.125:8080/restream/restream/777
+#EXTINF:-1,ES: AMC BREAK
+http://31.43.191.125:8080/restream/restream/778
+#EXTINF:-1,ES: EL TORO TV
+http://31.43.191.125:8080/restream/restream/783
+#EXTINF:-1,ES: EURONEWS
+http://31.43.191.125:8080/restream/restream/786
+#EXTINF:-1,ES: CAZAVISIÓN
+http://31.43.191.125:8080/restream/restream/827
+#EXTINF:-1,ES: MEZZO
+http://31.43.191.125:8080/restream/restream/34145
+#EXTINF:-1,ES: M+ BUEN VIAJE
+http://31.43.191.125:8080/restream/restream/60251
+#EXTINF:-1,ES: IBERALIA 100% CAZA
+http://31.43.191.125:8080/restream/restream/99473
+#EXTINF:-1,ES: IBERÁLIA 100% PESCA
+http://31.43.191.125:8080/restream/restream/99474
+#EXTINF:-1,ES: RALLY TV
+http://31.43.191.125:8080/restream/restream/128955
 
 
 
